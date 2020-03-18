@@ -1,0 +1,16 @@
+# ignore lp files
+*.lp
+*.gurobi.txt
+
+# results and plots directories
+Results/
+Plots/
+__pycache__/
+
+# all zip files
+*.zip
+
+# random R stuff
+.Rapp.history
+.Rhistory
+*.RData

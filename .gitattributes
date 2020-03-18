@@ -1,0 +1,4 @@
+Linear[[:space:]]results.csv filter=lfs diff=lfs merge=lfs -text
+Data/ filter=lfs diff=lfs merge=lfs -text
+Inputs filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Inputs/ filter=lfs diff=lfs merge=lfs -text

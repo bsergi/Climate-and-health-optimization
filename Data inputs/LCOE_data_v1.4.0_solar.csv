@@ -1,0 +1,3109 @@
+FIPS,State,County,Cheapest Technology,Cost
+1001,Autauga,Alabama,Solar PV (Utility),124.26161203080784
+1009,Blount,Alabama,Solar PV (Utility),127.83761856047926
+1017,Chambers,Alabama,Solar PV (Utility),123.55429469161348
+1021,Chilton,Alabama,Solar PV (Utility),125.05496903740149
+1033,Colbert,Alabama,Solar PV (Utility),129.0534639872196
+1045,Dale,Alabama,Solar PV (Utility),121.10439392128303
+1051,Elmore,Alabama,Solar PV (Utility),123.59941452531312
+1065,Hale,Alabama,Solar PV (Utility),123.84302361066118
+1079,Lawrence,Alabama,Solar PV (Utility),129.4498424905164
+1083,Limestone,Alabama,Solar PV (Utility),129.58150199161534
+1099,Monroe,Alabama,Solar PV (Utility),122.80295751871948
+1107,Pickens,Alabama,Solar PV (Utility),125.40932770699867
+1121,Talladega,Alabama,Solar PV (Utility),126.13825496304287
+5141,Van Buren,Arkansas,Solar PV (Utility),130.04681024546164
+5145,White,Arkansas,Solar PV (Utility),129.0521639872196
+6005,Amador,California,Solar PV (Utility),120.99464433703392
+6021,Glenn,California,Solar PV (Utility),126.75723263483793
+6033,Lake,California,Solar PV (Utility),124.92430953630254
+6043,Mariposa,California,Solar PV (Utility),117.30758822311336
+6055,Napa,California,Solar PV (Utility),130.11183999601113
+6089,Shasta,California,Solar PV (Utility),123.0252566872177
+6099,Stanislaus,California,Solar PV (Utility),125.80750621029549
+6115,Yuba,California,Solar PV (Utility),127.41943014033261
+8003,Alamosa,Colorado,Solar PV (Utility),97.41425314142221
+8013,Boulder,Colorado,Solar PV (Utility),111.78760901065743
+8014,Broomfield,Colorado,Solar PV (Utility),111.78760901065743
+8025,Crowley,Colorado,Solar PV (Utility),107.23966613959375
+8031,Denver,Colorado,Solar PV (Utility),111.87544867805674
+8035,Douglas,Colorado,Solar PV (Utility),106.73073805204781
+8047,Gilpin,Colorado,Solar PV (Utility),108.76155040223159
+12083,Marion,Florida,Solar PV (Utility),120.33104683153923
+12087,Monroe,Florida,Solar PV (Utility),113.7080717765921
+12095,Orange,Florida,Solar PV (Utility),118.96353198685013
+12111,St. Lucie,Florida,Solar PV (Utility),118.05642539600737
+12119,Sumter,Florida,Solar PV (Utility),119.13961132164873
+12125,Union,Florida,Solar PV (Utility),121.01515425388376
+13001,Appling,Georgia,Solar PV (Utility),120.81656500223535
+13013,Barrow,Georgia,Solar PV (Utility),122.25120959747386
+13029,Bryan,Georgia,Solar PV (Utility),120.2212972472901
+13043,Candler,Georgia,Solar PV (Utility),120.17737741359046
+13055,Chattooga,Georgia,Solar PV (Utility),127.35240038978316
+13059,Clarke,Georgia,Solar PV (Utility),122.11895009637493
+13071,Colquitt,Georgia,Solar PV (Utility),119.38102040699678
+13079,Crawford,Georgia,Solar PV (Utility),121.72327159307811
+13091,Dodge,Georgia,Solar PV (Utility),119.77849891029362
+13107,Emanuel,Georgia,Solar PV (Utility),120.28792699783955
+13113,Fayette,Georgia,Solar PV (Utility),123.51077485791383
+13123,Gilmer,Georgia,Solar PV (Utility),126.26951446414179
+8053,Hinsdale,Colorado,Solar PV (Utility),103.8371389447209
+8057,Jackson,Colorado,Solar PV (Utility),109.35881815717684
+8059,Jefferson,Colorado,Solar PV (Utility),109.02686940442949
+8073,Lincoln,Colorado,Solar PV (Utility),107.59292480919093
+8083,Montezuma,Colorado,Solar PV (Utility),101.62944725973853
+8095,Phillips,Colorado,Solar PV (Utility),114.85588745278294
+8105,Rio Grande,Colorado,Solar PV (Utility),98.29704981541516
+8111,San Juan,Colorado,Solar PV (Utility),106.75344796889763
+8123,Weld,Colorado,Solar PV (Utility),114.67970811798433
+9015,Windham,Connecticut,Solar PV (Utility),160.80112441726607
+12001,Alachua,Florida,Solar PV (Utility),120.70641541798621
+12013,Calhoun,Florida,Solar PV (Utility),120.00049807879185
+12023,Columbia,Florida,Solar PV (Utility),121.10489392128304
+12039,Gadsden,Florida,Solar PV (Utility),119.2931807395975
+12055,Highlands,Florida,Solar PV (Utility),116.82157005241724
+12059,Holmes,Florida,Solar PV (Utility),120.8827947527848
+12073,Leon,Florida,Solar PV (Utility),118.25671464765578
+4003,Cochise,Arizona,Solar PV (Utility),96.50834655057945
+4013,Maricopa,Arizona,Solar PV (Utility),99.88686382860246
+5001,Arkansas,Arkansas,Solar PV (Utility),126.0065954619439
+5009,Boone,Arkansas,Solar PV (Utility),129.8251110769634
+5019,Clark,Arkansas,Solar PV (Utility),128.30112681432558
+5029,Conway,Arkansas,Solar PV (Utility),129.77999124326374
+5043,Drew,Arkansas,Solar PV (Utility),125.29917812274955
+5051,Garland,Arkansas,Solar PV (Utility),129.5604920747655
+5061,Howard,Arkansas,Solar PV (Utility),128.5895557333733
+5071,Johnson,Arkansas,Solar PV (Utility),129.25115323886797
+5085,Lonoke,Arkansas,Solar PV (Utility),127.59510947513122
+5097,Montgomery,Arkansas,Solar PV (Utility),129.29577307256764
+5101,Newton,Arkansas,Solar PV (Utility),128.56694581652346
+5111,Poinsett,Arkansas,Solar PV (Utility),129.29637307256763
+5123,St. Francis,Arkansas,Solar PV (Utility),127.75077889307998
+5129,Searcy,Arkansas,Solar PV (Utility),129.64773174216484
+13309,Wheeler,Georgia,Solar PV (Utility),120.0440179124915
+13313,Whitfield,Georgia,Solar PV (Utility),127.79329872677961
+13319,Wilkinson,Georgia,Solar PV (Utility),120.24270716413992
+16015,Boise,Idaho,Solar PV (Utility),119.05027165424944
+16021,Boundary,Idaho,Solar PV (Utility),143.16110085425694
+16045,Gem,Idaho,Solar PV (Utility),122.75903768501983
+16051,Jefferson,Idaho,Solar PV (Utility),122.18537984692442
+16057,Latah,Idaho,Solar PV (Utility),139.62821415828515
+16067,Minidoka,Idaho,Solar PV (Utility),118.25621464765578
+16081,Teton,Idaho,Solar PV (Utility),123.22244593886613
+17005,Bond,Illinois,Solar PV (Utility),139.84961332678336
+17009,Brown,Illinois,Solar PV (Utility),141.30736783887176
+17019,Champaign,Illinois,Solar PV (Utility),146.18575946268277
+17029,Coles,Illinois,Solar PV (Utility),142.91919176890886
+17035,Cumberland,Illinois,Solar PV (Utility),141.06395875352368
+17049,Effingham,Illinois,Solar PV (Utility),140.3339314974795
+17055,Franklin,Illinois,Solar PV (Utility),137.72896130920032
+17065,Hamilton,Illinois,Solar PV (Utility),137.39901255645293
+18051,Gibson,Indiana,Solar PV (Utility),137.3758026396031
+18059,Hancock,Indiana,Solar PV (Utility),145.12638345389124
+18069,Huntington,Indiana,Solar PV (Utility),150.60064283264754
+18079,Jennings,Indiana,Solar PV (Utility),139.93715299418267
+18085,Kosciusko,Indiana,Solar PV (Utility),153.1618931872271
+18095,Madison,Indiana,Solar PV (Utility),147.26664538832415
+18105,Monroe,Indiana,Solar PV (Utility),142.67638268356083
+18115,Ohio,Indiana,Solar PV (Utility),140.51141083227807
+18125,Pike,Indiana,Solar PV (Utility),138.03880014509784
+18131,Pulaski,Indiana,Solar PV (Utility),154.3984485308172
+18139,Rush,Indiana,Solar PV (Utility),143.33698018905554
+18153,Sullivan,Indiana,Solar PV (Utility),141.87932567696714
+18173,Warrick,Indiana,Solar PV (Utility),137.2431431385042
+18179,Wells,Indiana,Solar PV (Utility),149.40800732275702
+18183,Whitley,Indiana,Solar PV (Utility),151.9714576773366
+19009,Audubon,Iowa,Solar PV (Utility),139.36279515608726
+19017,Bremer,Iowa,Solar PV (Utility),148.4369709813648
+19021,Buena Vista,Iowa,Solar PV (Utility),142.10162484546538
+19031,Cedar,Iowa,Solar PV (Utility),148.04079247806797
+19039,Clarke,Iowa,Solar PV (Utility),140.9094893355749
+17073,Henry,Illinois,Solar PV (Utility),148.1722519791669
+17077,Jackson,Illinois,Solar PV (Utility),136.9115943857568
+17079,Jasper,Illinois,Solar PV (Utility),139.82780340993355
+17089,Kane,Illinois,Solar PV (Utility),154.61914769931545
+17103,Lee,Illinois,Solar PV (Utility),150.99792133594434
+17107,Logan,Illinois,Solar PV (Utility),144.04309752824986
+17121,Marion,Illinois,Solar PV (Utility),138.98772656964024
+17129,Menard,Illinois,Solar PV (Utility),143.1397909374071
+17139,Moultrie,Illinois,Solar PV (Utility),142.7632223509601
+17145,Perry,Illinois,Solar PV (Utility),137.77278114289996
+17155,Putnam,Illinois,Solar PV (Utility),149.47483707330653
+17169,Schuyler,Illinois,Solar PV (Utility),142.25519426341415
+17175,Stark,Illinois,Solar PV (Utility),147.02533630297611
+17179,Tazewell,Illinois,Solar PV (Utility),146.27329913008205
+17189,Washington,Illinois,Solar PV (Utility),138.26019931359605
+17203,Woodford,Illinois,Solar PV (Utility),148.06290239491778
+18009,Blackford,Indiana,Solar PV (Utility),148.21707181286658
+18011,Boone,Indiana,Solar PV (Utility),146.25168921323225
+18021,Clay,Indiana,Solar PV (Utility),144.30831653044774
+18033,DeKalb,Indiana,Solar PV (Utility),152.10291717843552
+13125,Glascock,Georgia,Solar PV (Utility),121.03826417073357
+13129,Gordon,Georgia,Solar PV (Utility),127.79499872677961
+13131,Grady,Georgia,Solar PV (Utility),119.02866173739962
+13139,Hall,Georgia,Solar PV (Utility),123.02405668721771
+13157,Jackson,Georgia,Solar PV (Utility),121.6342319256788
+13169,Jones,Georgia,Solar PV (Utility),121.67855175937846
+13175,Laurens,Georgia,Solar PV (Utility),119.95507824509221
+13187,Lumpkin,Georgia,Solar PV (Utility),124.76884011835378
+13197,Marion,Georgia,Solar PV (Utility),122.25210959747386
+13201,Miller,Georgia,Solar PV (Utility),119.20504107219821
+13217,Newton,Georgia,Solar PV (Utility),122.34094926487319
+13225,Peach,Georgia,Solar PV (Utility),121.08168400443321
+13233,Polk,Georgia,Solar PV (Utility),126.24910454729198
+13243,Randolph,Georgia,Solar PV (Utility),120.5080261663378
+13253,Seminole,Georgia,Solar PV (Utility),119.27267082274768
+13265,Taliaferro,Georgia,Solar PV (Utility),121.47996250773005
+13277,Tift,Georgia,Solar PV (Utility),119.00545182054981
+13285,Troup,Georgia,Solar PV (Utility),123.00234677036788
+13293,Upson,Georgia,Solar PV (Utility),122.25140959747387
+13303,Washington,Georgia,Solar PV (Utility),120.44279641578834
+20027,Clay,Kansas,Solar PV (Utility),127.1100913044351
+20029,Cloud,Kansas,Solar PV (Utility),125.67474670919655
+20039,Decatur,Kansas,Solar PV (Utility),117.19683863886425
+20049,Elk,Kansas,Solar PV (Utility),125.49796737439797
+20065,Graham,Kansas,Solar PV (Utility),116.90950971981654
+20075,Hamilton,Kansas,Solar PV (Utility),109.33590824032699
+20085,Jackson,Kansas,Solar PV (Utility),132.36505151469314
+20095,Kingman,Kansas,Solar PV (Utility),118.67450306780245
+20105,Lincoln,Kansas,Solar PV (Utility),122.56174843337142
+20115,Marion,Kansas,Solar PV (Utility),123.42223519051456
+20127,Morris,Kansas,Solar PV (Utility),126.02750537879373
+20135,Ness,Kansas,Solar PV (Utility),115.53919487512746
+20145,Pawnee,Kansas,Solar PV (Utility),116.15787254692253
+20155,Reno,Kansas,Solar PV (Utility),120.02290799564167
+20163,Rooks,Kansas,Solar PV (Utility),118.98484190369997
+20173,Sedgwick,Kansas,Solar PV (Utility),122.23059968062407
+20185,Stafford,Kansas,Solar PV (Utility),117.08678905461512
+20195,Trego,Kansas,Solar PV (Utility),116.24751221432183
+20203,Wichita,Kansas,Solar PV (Utility),110.74784291871573
+20205,Wilson,Kansas,Solar PV (Utility),128.4129763985747
+21183,Ohio,Kentucky,Solar PV (Utility),135.85171837696527
+21187,Owen,Kentucky,Solar PV (Utility),138.28210923044588
+21189,Owsley,Kentucky,Solar PV (Utility),139.54107449088585
+21199,Pulaski,Kentucky,Solar PV (Utility),135.2135307883204
+21209,Scott,Kentucky,Solar PV (Utility),136.82495471835753
+21219,Todd,Kentucky,Solar PV (Utility),134.33003411432745
+21229,Washington,Kentucky,Solar PV (Utility),135.85171837696527
+22001,Acadia,Louisiana,Solar PV (Utility),121.98839059527597
+22013,Bienville,Louisiana,Solar PV (Utility),125.87213596084499
+22033,East Baton Rouge,Louisiana,Solar PV (Utility),122.76093768501983
+22053,Jefferson Davis,Louisiana,Solar PV (Utility),122.6500881007707
+22073,Ouachita,Louisiana,Solar PV (Utility),125.07797895425131
+22077,Pointe Coupee,Louisiana,Solar PV (Utility),122.80355751871947
+22089,St. Charles,Louisiana,Solar PV (Utility),120.7726451685357
+22105,Tangipahoa,Louisiana,Solar PV (Utility),122.22929968062407
+22115,Vernon,Louisiana,Solar PV (Utility),125.25575828904992
+21003,Allen,Kentucky,Solar PV (Utility),133.55588702458363
+21009,Barren,Kentucky,Solar PV (Utility),134.24059444692816
+21017,Bourbon,Kentucky,Solar PV (Utility),137.04585388685575
+21025,Breathitt,Kentucky,Solar PV (Utility),141.59279675791944
+21031,Butler,Kentucky,Solar PV (Utility),134.99203161982217
+21043,Carter,Kentucky,Solar PV (Utility),140.82044966817563
+21053,Clinton,Kentucky,Solar PV (Utility),134.8142522850236
+21063,Elliott,Kentucky,Solar PV (Utility),140.57844058282757
+21077,Gallatin,Kentucky,Solar PV (Utility),140.18036207953074
+21087,Green,Kentucky,Solar PV (Utility),134.52812336597586
+21099,Hart,Kentucky,Solar PV (Utility),135.1251911209211
+21103,Henry,Kentucky,Solar PV (Utility),136.84606463520737
+21115,Johnson,Kentucky,Solar PV (Utility),144.50650578209618
+21121,Knox,Kentucky,Solar PV (Utility),136.51511588245998
+21137,Lincoln,Kentucky,Solar PV (Utility),135.27806053886985
+21143,Lyon,Kentucky,Solar PV (Utility),134.94701178612252
+21151,Madison,Kentucky,Solar PV (Utility),137.4434323901526
+21157,Marshall,Kentucky,Solar PV (Utility),134.8369622018734
+21169,Metcalfe,Kentucky,Solar PV (Utility),133.9766754447303
+21175,Morgan,Kentucky,Solar PV (Utility),141.65872650846893
+19045,Clinton,Iowa,Solar PV (Utility),149.14318832055915
+19047,Crawford,Iowa,Solar PV (Utility),139.89393316048302
+19055,Delaware,Iowa,Solar PV (Utility),148.74710981726233
+19063,Emmet,Iowa,Solar PV (Utility),145.50055204033822
+19067,Floyd,Iowa,Solar PV (Utility),148.96730898576055
+19079,Hamilton,Iowa,Solar PV (Utility),144.83905453484354
+19087,Henry,Iowa,Solar PV (Utility),145.2350330381404
+19095,Iowa,Iowa,Solar PV (Utility),146.31831896378173
+19105,Jones,Iowa,Solar PV (Utility),148.56993048246375
+19113,Linn,Iowa,Solar PV (Utility),148.19546189601675
+19121,Madison,Iowa,Solar PV (Utility),141.21782817147243
+19125,Marion,Iowa,Solar PV (Utility),142.63156284986118
+19137,Montgomery,Iowa,Solar PV (Utility),138.3696488978452
+19141,O'Brien,Iowa,Solar PV (Utility),141.92404551066682
+19151,Pocahontas,Iowa,Solar PV (Utility),143.71194877550255
+19161,Sac,Iowa,Solar PV (Utility),141.01933891982404
+19169,Story,Iowa,Solar PV (Utility),144.2426867798983
+19175,Union,Iowa,Solar PV (Utility),139.05465632018974
+19181,Warren,Iowa,Solar PV (Utility),142.03529509491594
+19195,Worth,Iowa,Solar PV (Utility),149.7391560755044
+20005,Atchison,Kansas,Solar PV (Utility),134.79264236817374
+20015,Butler,Kansas,Solar PV (Utility),123.15681618831664
+27073,Lac qui Parle,Minnesota,Solar PV (Utility),143.80078844290182
+27083,Lyon,Minnesota,Solar PV (Utility),143.64681902495303
+27085,McLeod,Minnesota,Solar PV (Utility),151.85920809308746
+27093,Meeker,Minnesota,Solar PV (Utility),150.07190482825175
+27103,Nicollet,Minnesota,Solar PV (Utility),151.24143042129242
+27113,Pennington,Minnesota,Solar PV (Utility),153.69253119162283
+27121,Pope,Minnesota,Solar PV (Utility),147.53226439052202
+27127,Redwood,Minnesota,Solar PV (Utility),146.25318921323225
+27147,Steele,Minnesota,Solar PV (Utility),150.53511308209806
+27153,Todd,Minnesota,Solar PV (Utility),149.36448748905738
+27161,Waseca,Minnesota,Solar PV (Utility),150.88937175169522
+28003,Alcorn,Mississippi,Solar PV (Utility),129.47215240736625
+28013,Calhoun,Mississippi,Solar PV (Utility),126.77834255168774
+28017,Chickasaw,Mississippi,Solar PV (Utility),126.51332354948984
+28029,Copiah,Mississippi,Solar PV (Utility),123.88654344436084
+28037,Franklin,Mississippi,Solar PV (Utility),124.1289525297089
+28049,Hinds,Mississippi,Solar PV (Utility),123.84152361066118
+28061,Jasper,Mississippi,Solar PV (Utility),123.79700377696153
+28065,Jefferson Davis,Mississippi,Solar PV (Utility),123.86373352751102
+28075,Lauderdale,Mississippi,Solar PV (Utility),123.99639302860996
+22121,West Baton Rouge,Louisiana,Solar PV (Utility),122.2959294311735
+22127,Winn,Louisiana,Solar PV (Utility),124.79055003520361
+23009,Hancock,Maine,Solar PV (Utility),155.01622620261224
+23029,Washington,Maine,Solar PV (Utility),156.67416996634904
+24001,Allegany,Maryland,Solar PV (Utility),150.86556183484544
+24003,Anne Arundel,Maryland,Solar PV (Utility),144.64016528319513
+24009,Calvert,Maryland,Solar PV (Utility),142.05660501176575
+24017,Charles,Maryland,Solar PV (Utility),141.5480769242198
+24019,Dorchester,Maryland,Solar PV (Utility),143.44702977330465
+24029,Kent,Maryland,Solar PV (Utility),147.53356439052203
+24035,Queen Anne's,Maryland,Solar PV (Utility),146.3833487143312
+24037,St. Mary's,Maryland,Solar PV (Utility),141.06445875352367
+24039,Somerset,Maryland,Solar PV (Utility),142.27850418026398
+24041,Talbot,Maryland,Solar PV (Utility),144.83815453484354
+25011,Franklin,Massachusetts,Solar PV (Utility),159.63149882422542
+26009,Antrim,Michigan,Solar PV (Utility),155.7909732923561
+26015,Barry,Michigan,Solar PV (Utility),152.920684101879
+26023,Branch,Michigan,Solar PV (Utility),153.89192044327123
+26035,Clare,Michigan,Solar PV (Utility),153.95815019382073
+26037,Clinton,Michigan,Solar PV (Utility),152.30220643008397
+26045,Eaton,Michigan,Solar PV (Utility),152.43446593118287
+26057,Gratiot,Michigan,Solar PV (Utility),152.87566426817935
+26061,Houghton,Michigan,Solar PV (Utility),155.85730304290556
+26073,Isabella,Michigan,Solar PV (Utility),153.5591716905239
+26077,Kalamazoo,Michigan,Solar PV (Utility),154.24487911286843
+26083,Keweenaw,Michigan,Solar PV (Utility),157.86650547623952
+26085,Lake,Michigan,Solar PV (Utility),155.56867412385787
+26091,Lenawee,Michigan,Solar PV (Utility),152.30080643008395
+26097,Mackinac,Michigan,Solar PV (Utility),152.96410393557863
+26103,Marquette,Michigan,Solar PV (Utility),156.429660881001
+26107,Mecosta,Michigan,Solar PV (Utility),154.422058447667
+26111,Midland,Michigan,Solar PV (Utility),153.62530144107333
+26117,Montcalm,Michigan,Solar PV (Utility),153.2077130209267
+26123,Newaygo,Michigan,Solar PV (Utility),154.421158447667
+26133,Osceola,Michigan,Solar PV (Utility),155.08425595316172
+26143,Roscommon,Michigan,Solar PV (Utility),153.75886094217233
+26155,Shiawassee,Michigan,Solar PV (Utility),152.6317551828313
+26161,Washtenaw,Michigan,Solar PV (Utility),152.78662460078004
+26165,Wexford,Michigan,Solar PV (Utility),155.52455429015822
+27009,Benton,Minnesota,Solar PV (Utility),150.4916932483984
+27019,Carver,Minnesota,Solar PV (Utility),152.63315518283133
+27029,Clearwater,Minnesota,Solar PV (Utility),150.91088166854502
+27039,Dodge,Minnesota,Solar PV (Utility),151.46212958979066
+27051,Grant,Minnesota,Solar PV (Utility),146.80323713447785
+27057,Hubbard,Minnesota,Solar PV (Utility),150.6901825000468
+27067,Kandiyohi,Minnesota,Solar PV (Utility),148.12803214546727
+29097,Jasper,Missouri,Solar PV (Utility),129.93666066121253
+29103,Knox,Missouri,Solar PV (Utility),139.01123648649008
+29109,Lawrence,Missouri,Solar PV (Utility),130.06872016231145
+29117,Livingston,Missouri,Solar PV (Utility),137.9291505608487
+29131,Miller,Missouri,Solar PV (Utility),135.16771095462073
+29137,Monroe,Missouri,Solar PV (Utility),137.39931255645294
+29151,Osage,Missouri,Solar PV (Utility),136.6255654667091
+29159,Pettis,Missouri,Solar PV (Utility),136.00718779491405
+29169,Pulaski,Missouri,Solar PV (Utility),134.65958286707482
+29179,Reynolds,Missouri,Solar PV (Utility),133.51126719088398
+29195,Saline,Missouri,Solar PV (Utility),137.68494147550066
+29205,Shelby,Missouri,Solar PV (Utility),137.88473072714908
+29211,Sullivan,Missouri,Solar PV (Utility),139.0091364864901
+29221,Washington,Missouri,Solar PV (Utility),135.56628945791758
+29229,Wright,Missouri,Solar PV (Utility),131.78909367659773
+30013,Cascade,Montana,Solar PV (Utility),132.23289201359418
+30037,Golden Valley,Montana,Solar PV (Utility),129.64973174216485
+30043,Jefferson,Montana,Solar PV (Utility),127.1091913044351
+31121,Merrick,Nebraska,Solar PV (Utility),130.13464991286097
+31125,Nance,Nebraska,Solar PV (Utility),130.31122924765953
+31135,Perkins,Nebraska,Solar PV (Utility),117.15151880516459
+31137,Phelps,Nebraska,Solar PV (Utility),121.47866250773005
+31147,Richardson,Nebraska,Solar PV (Utility),134.74872253447407
+31159,Seward,Nebraska,Solar PV (Utility),131.41492509015072
+31163,Sherman,Nebraska,Solar PV (Utility),125.98288554509409
+31171,Thomas,Nebraska,Solar PV (Utility),121.87764101102688
+31183,Wheeler,Nebraska,Solar PV (Utility),128.72151523447224
+32009,Esmeralda,Nevada,Solar PV (Utility),102.7125331853799
+32021,Mineral,Nevada,Solar PV (Utility),107.65825455974041
+32033,White Pine,Nevada,Solar PV (Utility),107.74749422713971
+34007,Camden,New Jersey,Solar PV (Utility),154.1346295286193
+34015,Gloucester,New Jersey,Solar PV (Utility),152.4570758480327
+34031,Passaic,New Jersey,Solar PV (Utility),165.06343836928207
+35001,Bernalillo,New Mexico,Solar PV (Utility),97.74560189416957
+35006,Cibola,New Mexico,Solar PV (Utility),98.18560023116602
+30051,Liberty,Montana,Solar PV (Utility),133.79849610993168
+30059,Meagher,Montana,Solar PV (Utility),127.08778138758527
+30069,Petroleum,Montana,Solar PV (Utility),133.33598785608538
+30093,Silver Bow,Montana,Solar PV (Utility),123.4669550242142
+30099,Teton,Montana,Solar PV (Utility),132.3203316809935
+30107,Wheatland,Montana,Solar PV (Utility),127.57359955828139
+31003,Antelope,Nebraska,Solar PV (Utility),131.03855650370372
+31009,Blaine,Nebraska,Solar PV (Utility),123.2890756894156
+31023,Butler,Nebraska,Solar PV (Utility),133.35749777293518
+31035,Clay,Nebraska,Solar PV (Utility),127.50636980773193
+31037,Colfax,Nebraska,Solar PV (Utility),135.45533987366846
+31047,Dawson,Nebraska,Solar PV (Utility),121.1707236718325
+31053,Dodge,Nebraska,Solar PV (Utility),137.28676297220383
+31063,Frontier,Nebraska,Solar PV (Utility),118.94092207000033
+31073,Gosper,Nebraska,Solar PV (Utility),120.53073608318763
+31085,Hayes,Nebraska,Solar PV (Utility),117.65924689271056
+31093,Howard,Nebraska,Solar PV (Utility),127.55218964143157
+31097,Johnson,Nebraska,Solar PV (Utility),132.8068498516896
+31117,McPherson,Nebraska,Solar PV (Utility),119.0060518205498
+28079,Leake,Mississippi,Solar PV (Utility),125.18752853850042
+28083,Leflore,Mississippi,Solar PV (Utility),124.72592028465412
+28095,Monroe,Mississippi,Solar PV (Utility),126.77714255168775
+28099,Neshoba,Mississippi,Solar PV (Utility),124.85707978575307
+28103,Noxubee,Mississippi,Solar PV (Utility),125.03415912055166
+28115,Pontotoc,Mississippi,Solar PV (Utility),127.59540947513122
+28117,Prentiss,Mississippi,Solar PV (Utility),128.74302515132203
+28127,Simpson,Mississippi,Solar PV (Utility),124.01860294545976
+28139,Tippah,Mississippi,Solar PV (Utility),129.1621135714687
+28151,Washington,Mississippi,Solar PV (Utility),124.54874094985554
+29001,Adair,Missouri,Solar PV (Utility),138.9438067359406
+29009,Barry,Missouri,Solar PV (Utility),129.27216315571783
+29021,Buchanan,Missouri,Solar PV (Utility),136.20677704656248
+29033,Carroll,Missouri,Solar PV (Utility),137.97257039454837
+29043,Christian,Missouri,Solar PV (Utility),130.48830858245813
+29053,Cooper,Missouri,Solar PV (Utility),137.00003405315613
+29065,Dent,Missouri,Solar PV (Utility),134.19717461322853
+29075,Gentry,Missouri,Solar PV (Utility),137.2448431385042
+29085,Hickory,Missouri,Solar PV (Utility),134.10903494582922
+37001,Alamance,North Carolina,Solar PV (Utility),129.53748215791572
+37005,Alleghany,North Carolina,Solar PV (Utility),131.7022540091984
+37017,Bladen,North Carolina,Solar PV (Utility),128.19247723007646
+37021,Buncombe,North Carolina,Solar PV (Utility),125.8949458776948
+37027,Caldwell,North Carolina,Solar PV (Utility),128.25830698062592
+37055,Dare,North Carolina,Solar PV (Utility),136.69269521725857
+37057,Davidson,North Carolina,Solar PV (Utility),127.21874088868421
+37067,Forsyth,North Carolina,Solar PV (Utility),128.30242681432557
+37081,Guilford,North Carolina,Solar PV (Utility),128.72121523447223
+37091,Hertford,North Carolina,Solar PV (Utility),134.90369195242286
+37103,Jones,North Carolina,Solar PV (Utility),133.5561870245836
+37117,Martin,North Carolina,Solar PV (Utility),134.5512332828257
+37127,Nash,North Carolina,Solar PV (Utility),131.5921044249493
+37141,Pender,North Carolina,Solar PV (Utility),130.31092924765952
+37151,Randolph,North Carolina,Solar PV (Utility),127.61631939198104
+37165,Scotland,North Carolina,Solar PV (Utility),127.1094913044351
+37167,Stanly,North Carolina,Solar PV (Utility),126.00459546194391
+39055,Geauga,Ohio,Solar PV (Utility),154.9721063689126
+39063,Hancock,Ohio,Solar PV (Utility),151.61689900773942
+39065,Hardin,Ohio,Solar PV (Utility),149.167098237409
+39075,Holmes,Ohio,Solar PV (Utility),151.9712576773366
+39089,Licking,Ohio,Solar PV (Utility),149.21171807110863
+39097,Madison,Ohio,Solar PV (Utility),144.97231403594247
+39109,Miami,Ohio,Solar PV (Utility),145.32497270553966
+39121,Noble,Ohio,Solar PV (Utility),150.27079407990018
+39131,Pike,Ohio,Solar PV (Utility),143.66862894180287
+39143,Sandusky,Ohio,Solar PV (Utility),153.16379318722707
+39147,Seneca,Ohio,Solar PV (Utility),153.13958327037724
+39159,Union,Ohio,Solar PV (Utility),147.57778422422166
+39169,Wayne,Ohio,Solar PV (Utility),151.63870892458922
+39173,Wood,Ohio,Solar PV (Utility),152.69988493338076
+40009,Beckham,Oklahoma,Solar PV (Utility),111.52089000845955
+40019,Carter,Oklahoma,Solar PV (Utility),120.33054683153922
+40031,Comanche,Oklahoma,Solar PV (Utility),115.51698495827766
+40043,Dewey,Oklahoma,Solar PV (Utility),114.19388994728823
+40053,Grant,Oklahoma,Solar PV (Utility),119.77919891029362
+37181,Vance,North Carolina,Solar PV (Utility),131.34959533960125
+37191,Wayne,North Carolina,Solar PV (Utility),131.25935567220196
+37197,Yadkin,North Carolina,Solar PV (Utility),128.32383673117542
+38007,Billings,North Dakota,Solar PV (Utility),132.1439523461949
+38019,Cavalier,North Dakota,Solar PV (Utility),149.89502549345315
+38031,Foster,North Dakota,Solar PV (Utility),144.63896528319512
+38035,Grand Forks,North Dakota,Solar PV (Utility),149.80638582605386
+38045,LaMoure,North Dakota,Solar PV (Utility),141.41651742312087
+38061,Mountrail,North Dakota,Solar PV (Utility),140.3347314974795
+38073,Ransom,North Dakota,Solar PV (Utility),143.71184877550255
+38079,Rolette,North Dakota,Solar PV (Utility),145.7667710425361
+38091,Steele,North Dakota,Solar PV (Utility),147.99517264436832
+38103,Wells,North Dakota,Solar PV (Utility),142.58624301616152
+39003,Allen,Ohio,Solar PV (Utility),149.918135410303
+39015,Brown,Ohio,Solar PV (Utility),140.26960174693002
+39027,Clinton,Ohio,Solar PV (Utility),142.52181326561205
+39039,Defiance,Ohio,Solar PV (Utility),151.35158000554154
+39047,Fayette,Ohio,Solar PV (Utility),143.16020085425694
+35015,Eddy,New Mexico,Solar PV (Utility),100.45932166669787
+35027,Lincoln,New Mexico,Solar PV (Utility),98.0745506469169
+35028,Los Alamos,New Mexico,Solar PV (Utility),98.01042089636745
+35045,San Juan,New Mexico,Solar PV (Utility),99.90737374545229
+35053,Socorro,New Mexico,Solar PV (Utility),96.44161680002996
+36003,Allegany,New York,Solar PV (Utility),156.29680137990204
+36021,Columbia,New York,Solar PV (Utility),162.28108884620426
+36037,Genesee,New York,Solar PV (Utility),155.01742620261223
+36043,Herkimer,New York,Solar PV (Utility),160.5809252487678
+36057,Montgomery,New York,Solar PV (Utility),159.21341040407876
+36069,Ontario,New York,Solar PV (Utility),155.172595620561
+36083,Rensselaer,New York,Solar PV (Utility),160.91237400151516
+36095,Schoharie,New York,Solar PV (Utility),160.38213599711943
+36109,Tompkins,New York,Solar PV (Utility),157.64560630774125
+36121,Wyoming,New York,Solar PV (Utility),156.23157162935257
+36123,Yates,New York,Solar PV (Utility),155.17139562056101
+42013,Blair,Pennsylvania,Solar PV (Utility),155.17059562056102
+42015,Bradford,Pennsylvania,Solar PV (Utility),156.89386913484725
+42021,Cambria,Pennsylvania,Solar PV (Utility),155.63660387440734
+42031,Clarion,Pennsylvania,Solar PV (Utility),157.93263522678902
+42047,Elk,Pennsylvania,Solar PV (Utility),158.15223439528722
+42063,Indiana,Pennsylvania,Solar PV (Utility),155.74535345865647
+42069,Lackawanna,Pennsylvania,Solar PV (Utility),162.7682070169004
+42087,Mifflin,Pennsylvania,Solar PV (Utility),154.177749362319
+42093,Montour,Pennsylvania,Solar PV (Utility),158.57122281543388
+42105,Potter,Pennsylvania,Solar PV (Utility),157.97575506048864
+42113,Sullivan,Pennsylvania,Solar PV (Utility),157.932135226789
+42123,Warren,Pennsylvania,Solar PV (Utility),157.82118564253986
+45005,Allendale,South Carolina,Solar PV (Utility),121.67805175937846
+45009,Bamberg,South Carolina,Solar PV (Utility),122.36265918172299
+45027,Clarendon,South Carolina,Solar PV (Utility),122.49511868282192
+45039,Fairfield,South Carolina,Solar PV (Utility),123.02375668721771
+47005,Benton,Tennessee,Solar PV (Utility),132.6065606000412
+47007,Bledsoe,Tennessee,Solar PV (Utility),132.65138043374085
+47013,Campbell,Tennessee,Solar PV (Utility),133.42452752348467
+47027,Clay,Tennessee,Solar PV (Utility),134.3513440311773
+47031,Coffee,Tennessee,Solar PV (Utility),131.45804492385037
+47045,Dyer,Tennessee,Solar PV (Utility),130.9280069194546
+47057,Grainger,Tennessee,Solar PV (Utility),130.86387716890513
+47069,Hardeman,Tennessee,Solar PV (Utility),130.51081849930793
+47081,Hickman,Tennessee,Solar PV (Utility),131.92245317769667
+47093,Knox,Tennessee,Solar PV (Utility),130.2887193308097
+47105,Loudon,Tennessee,Solar PV (Utility),130.06832016231147
+47117,Marshall,Tennessee,Solar PV (Utility),131.85562342714718
+47129,Morgan,Tennessee,Solar PV (Utility),133.11588868758716
+47139,Polk,Tennessee,Solar PV (Utility),130.13344991286095
+47151,Scott,Tennessee,Solar PV (Utility),134.37265394802708
+47173,Union,Tennessee,Solar PV (Utility),131.30427550590161
+47179,Washington,Tennessee,Solar PV (Utility),135.87432829381507
+45049,Hampton,South Carolina,Solar PV (Utility),121.78730134362758
+45053,Jasper,South Carolina,Solar PV (Utility),120.92641458648444
+45075,Orangeburg,South Carolina,Solar PV (Utility),122.64988810077071
+45081,Saluda,South Carolina,Solar PV (Utility),121.56820217512934
+46003,Aurora,South Dakota,Solar PV (Utility),133.9984853615801
+46007,Bennett,South Dakota,Solar PV (Utility),121.85403109417703
+46017,Buffalo,South Dakota,Solar PV (Utility),133.42452752348467
+46029,Codington,South Dakota,Solar PV (Utility),139.45173482348656
+46035,Davison,South Dakota,Solar PV (Utility),136.00848779491406
+46043,Douglas,South Dakota,Solar PV (Utility),133.90944569418082
+46055,Haakon,South Dakota,Solar PV (Utility),127.46204997403228
+46061,Hanson,South Dakota,Solar PV (Utility),137.28866297220384
+46087,McCook,South Dakota,Solar PV (Utility),138.0838199787975
+46095,Mellette,South Dakota,Solar PV (Utility),127.44144005718246
+46103,Pennington,South Dakota,Solar PV (Utility),122.49551868282194
+46111,Sanborn,South Dakota,Solar PV (Utility),136.1622572128628
+46125,Turner,South Dakota,Solar PV (Utility),138.76772740114203
+46137,Ziebach,South Dakota,Solar PV (Utility),127.8593284773291
+40059,Harper,Oklahoma,Solar PV (Utility),113.26607343959562
+40063,Hughes,Oklahoma,Solar PV (Utility),124.52593103300572
+40073,Kingfisher,Oklahoma,Solar PV (Utility),118.43329398245437
+40081,Lincoln,Oklahoma,Solar PV (Utility),122.0085005121258
+40087,McClain,Oklahoma,Solar PV (Utility),119.42604024069645
+40097,Mayes,Oklahoma,Solar PV (Utility),127.1101913044351
+40109,Oklahoma,Oklahoma,Solar PV (Utility),120.08733774619117
+40123,Pontotoc,Oklahoma,Solar PV (Utility),122.01000051212581
+40127,Pushmataha,Oklahoma,Solar PV (Utility),127.99178797842805
+40147,Washington,Oklahoma,Solar PV (Utility),125.5199772912478
+40153,Woodward,Oklahoma,Solar PV (Utility),114.03992052933944
+41017,Deschutes,Oregon,Solar PV (Utility),126.40397396524074
+41031,Jefferson,Oregon,Solar PV (Utility),131.0174465868539
+41037,Lake,Oregon,Solar PV (Utility),120.06522782934132
+41053,Polk,Oregon,Solar PV (Utility),163.6064838571937
+41069,Wheeler,Oregon,Solar PV (Utility),129.80210116011358
+42005,Armstrong,Pennsylvania,Solar PV (Utility),156.23147162935257
+48357,Ochiltree,Texas,Solar PV (Utility),107.65685455974041
+48359,Oldham,Texas,Solar PV (Utility),102.95464227072796
+48367,Parker,Texas,Solar PV (Utility),117.28527830626355
+48379,Rains,Texas,Solar PV (Utility),124.01960294545977
+48381,Randall,Texas,Solar PV (Utility),104.56596620076509
+48393,Roberts,Texas,Solar PV (Utility),107.54850497549128
+48397,Rockwall,Texas,Solar PV (Utility),123.29057568941559
+48411,San Saba,Texas,Solar PV (Utility),114.52553870003558
+48425,Somervell,Texas,Solar PV (Utility),117.92586589490843
+48429,Stephens,Texas,Solar PV (Utility),114.50212878318574
+48433,Stonewall,Texas,Solar PV (Utility),109.11420907182877
+48445,Terry,Texas,Solar PV (Utility),102.47042410003185
+48449,Titus,Texas,Solar PV (Utility),124.06242277915942
+48459,Upshur,Texas,Solar PV (Utility),123.44404510736436
+48463,Uvalde,Texas,Solar PV (Utility),119.82461874399327
+48475,Ward,Texas,Solar PV (Utility),102.35807451578272
+48491,Williamson,Texas,Solar PV (Utility),120.70751541798622
+48497,Wise,Texas,Solar PV (Utility),118.08033531285722
+48507,Zavala,Texas,Solar PV (Utility),118.41058406560455
+49011,Davis,Utah,Solar PV (Utility),116.35626179857096
+47185,White,Tennessee,Solar PV (Utility),133.7324663593822
+47189,Wilson,Tennessee,Solar PV (Utility),134.99063161982218
+48009,Archer,Texas,Solar PV (Utility),114.2812296146875
+48011,Armstrong,Texas,Solar PV (Utility),106.6204884677987
+48021,Bastrop,Texas,Solar PV (Utility),122.71521785132016
+48031,Blanco,Texas,Solar PV (Utility),119.0062518205498
+48047,Brooks,Texas,Solar PV (Utility),117.85723614435898
+48053,Burnet,Texas,Solar PV (Utility),117.83692622750912
+48063,Camp,Texas,Solar PV (Utility),123.62042444216294
+48069,Castro,Texas,Solar PV (Utility),102.68982326853008
+48079,Cochran,Texas,Solar PV (Utility),101.0346795047933
+48095,Concho,Texas,Solar PV (Utility),110.90441233666449
+48099,Coryell,Texas,Solar PV (Utility),118.45340389930419
+48103,Crane,Texas,Solar PV (Utility),102.69112326853008
+48115,Dawson,Texas,Solar PV (Utility),103.02247202127742
+48123,DeWitt,Texas,Solar PV (Utility),122.07573026267528
+48127,Dimmit,Texas,Solar PV (Utility),116.91000971981654
+48137,Edwards,Texas,Solar PV (Utility),119.93276832824239
+48149,Fayette,Texas,Solar PV (Utility),122.98163685351807
+48159,Franklin,Texas,Solar PV (Utility),123.48816494106401
+48169,Garza,Texas,Solar PV (Utility),105.62714220955662
+48177,Gonzales,Texas,Solar PV (Utility),122.60596826707106
+48179,Gray,Texas,Solar PV (Utility),107.17143638904427
+48185,Grimes,Texas,Solar PV (Utility),124.28302194765764
+48191,Hall,Texas,Solar PV (Utility),109.4233479077263
+48195,Hansford,Texas,Solar PV (Utility),106.5318488003994
+48217,Hill,Texas,Solar PV (Utility),120.06612782934133
+48227,Howard,Texas,Solar PV (Utility),104.56596620076509
+48233,Hutchinson,Texas,Solar PV (Utility),106.66520830149834
+48247,Jim Hogg,Texas,Solar PV (Utility),115.25386595607978
+48251,Johnson,Texas,Solar PV (Utility),118.69811298465225
+48263,Kent,Texas,Solar PV (Utility),107.45966530809199
+48265,Kerr,Texas,Solar PV (Utility),117.34960805681301
+48275,Knox,Texas,Solar PV (Utility),110.75004291871574
+48283,La Salle,Texas,Solar PV (Utility),118.10044522970702
+48297,Live Oak,Texas,Solar PV (Utility),120.3093369146894
+48303,Lubbock,Texas,Solar PV (Utility),103.79441911102126
+48309,McLennan,Texas,Solar PV (Utility),120.42068649893851
+48319,Mason,Texas,Solar PV (Utility),114.25891969783768
+48329,Midland,Texas,Solar PV (Utility),102.93203235387813
+48339,Montgomery,Texas,Solar PV (Utility),125.07827895425132
+48349,Navarro,Texas,Solar PV (Utility),121.43464267403041
+48353,Nolan,Texas,Solar PV (Utility),107.67906447659023
+51121,Montgomery,Virginia,Solar PV (Utility),136.80144480150773
+51125,Nelson,Virginia,Solar PV (Utility),133.11418868758716
+51141,Patrick,Virginia,Solar PV (Utility),131.34739533960123
+51145,Powhatan,Virginia,Solar PV (Utility),135.6762390421667
+51155,Pulaski,Virginia,Solar PV (Utility),138.4568885652445
+51157,Rappahannock,Virginia,Solar PV (Utility),140.7098000839265
+51173,Smyth,Virginia,Solar PV (Utility),137.33308280590347
+51187,Warren,Virginia,Solar PV (Utility),141.52786700737
+51197,Wythe,Virginia,Solar PV (Utility),136.5825456330095
+51510,Alexandria,Virginia,Solar PV (Utility),142.93970168575868
+51530,Buena Vista,Virginia,Solar PV (Utility),131.85762342714716
+51540,Charlottesville,Virginia,Solar PV (Utility),137.04535388685576
+51595,Emporia,Virginia,Solar PV (Utility),134.5509332828257
+51660,Harrisonburg,Virginia,Solar PV (Utility),135.1231911209211
+51670,Hopewell,Virginia,Solar PV (Utility),137.50886214070206
+51760,Richmond,Virginia,Solar PV (Utility),136.77893488465787
+51775,Salem,Virginia,Solar PV (Utility),135.27876053886988
+51820,Waynesboro,Virginia,Solar PV (Utility),131.83401351029735
+53013,Columbia,Washington,Solar PV (Utility),135.63201920846703
+53021,Franklin,Washington,Solar PV (Utility),135.9844778780642
+55029,Door,Wisconsin,Solar PV (Utility),152.76551468393023
+55033,Dunn,Wisconsin,Solar PV (Utility),153.51685185682425
+55039,Fond du Lac,Wisconsin,Solar PV (Utility),155.01622620261224
+55045,Green,Wisconsin,Solar PV (Utility),153.2072130209267
+55063,La Crosse,Wisconsin,Solar PV (Utility),152.63225518283133
+55069,Lincoln,Wisconsin,Solar PV (Utility),154.26668902971824
+55073,Marathon,Wisconsin,Solar PV (Utility),154.3995485308172
+55081,Monroe,Wisconsin,Solar PV (Utility),152.67587501653094
+55095,Polk,Wisconsin,Solar PV (Utility),154.5981377824656
+55103,Richland,Wisconsin,Solar PV (Utility),152.61034526598146
+55115,Shawano,Wisconsin,Solar PV (Utility),153.58158160737372
+55129,Washburn,Wisconsin,Solar PV (Utility),154.53200803191612
+55141,Wood,Wisconsin,Solar PV (Utility),154.04538986122003
+56025,Natrona,Wyoming,Solar PV (Utility),112.05132801285532
+56031,Platte,Wyoming,Solar PV (Utility),116.84177996926708
+56033,Sheridan,Wyoming,Solar PV (Utility),121.06027408758341
+56045,Weston,Wyoming,Solar PV (Utility),118.14586506340667
+53041,Lewis,Washington,Solar PV (Utility),170.73688699968673
+53045,Mason,Washington,Solar PV (Utility),182.92456110078945
+53065,Stevens,Washington,Solar PV (Utility),143.1178810205573
+54001,Barbour,West Virginia,Solar PV (Utility),149.12187840370933
+54007,Braxton,West Virginia,Solar PV (Utility),149.43191723960686
+54013,Calhoun,West Virginia,Solar PV (Utility),149.47483707330653
+54021,Gilmer,West Virginia,Solar PV (Utility),150.3802436641493
+54039,Kanawha,West Virginia,Solar PV (Utility),146.780827217628
+54049,Marion,West Virginia,Solar PV (Utility),150.99882133594434
+54061,Monongalia,West Virginia,Solar PV (Utility),151.39629983924118
+54079,Putnam,West Virginia,Solar PV (Utility),145.8990305436351
+54089,Summers,West Virginia,Solar PV (Utility),140.73311000077632
+54101,Webster,West Virginia,Solar PV (Utility),147.6869338084708
+55003,Ashland,Wisconsin,Solar PV (Utility),154.37603861396738
+55005,Barron,Wisconsin,Solar PV (Utility),154.00127002752038
+55007,Bayfield,Wisconsin,Solar PV (Utility),154.75250720041436
+55017,Chippewa,Wisconsin,Solar PV (Utility),153.4060022725751
+55025,Dane,Wisconsin,Solar PV (Utility),152.87476426817935
+49029,Morgan,Utah,Solar PV (Utility),113.90586102824051
+49031,Piute,Utah,Solar PV (Utility),105.33971329050893
+49035,Salt Lake,Utah,Solar PV (Utility),115.60692462567694
+49051,Wasatch,Utah,Solar PV (Utility),111.30169083996131
+50005,Caledonia,Vermont,Solar PV (Utility),155.4372146227589
+50019,Orleans,Vermont,Solar PV (Utility),157.97545506048863
+51007,Amelia,Virginia,Solar PV (Utility),134.68339278392463
+51017,Bath,Virginia,Solar PV (Utility),136.02979771176388
+51029,Buckingham,Virginia,Solar PV (Utility),134.52802336597586
+51043,Clarke,Virginia,Solar PV (Utility),142.89548185205905
+51047,Culpeper,Virginia,Solar PV (Utility),139.58459432458548
+51063,Floyd,Virginia,Solar PV (Utility),133.11568868758715
+51075,Goochland,Virginia,Solar PV (Utility),136.29451671396174
+51101,King William,Virginia,Solar PV (Utility),138.76622740114203
+51111,Lunenburg,Virginia,Solar PV (Utility),133.02674902018785
+51113,Madison,Virginia,Solar PV (Utility),138.06021006194763
+1023,Choctaw,Alabama,Solar PV (Utility),123.35510543996506
+1025,Clarke,Alabama,Solar PV (Utility),122.71611785132016
+1029,Cleburne,Alabama,Solar PV (Utility),126.33574421469126
+1031,Coffee,Alabama,Solar PV (Utility),121.28127325608165
+1037,Coosa,Alabama,Solar PV (Utility),124.90199961945271
+1047,Dallas,Alabama,Solar PV (Utility),123.3996252736647
+1055,Etowah,Alabama,Solar PV (Utility),127.52937972458174
+1059,Franklin,Alabama,Solar PV (Utility),128.56574581652347
+1061,Geneva,Alabama,Solar PV (Utility),120.83917491908515
+1067,Henry,Alabama,Solar PV (Utility),120.48571624948798
+1071,Jackson,Alabama,Solar PV (Utility),129.4288325736666
+1081,Lee,Alabama,Solar PV (Utility),123.1357062714668
+1085,Lowndes,Alabama,Solar PV (Utility),122.9372170198184
+1087,Macon,Alabama,Solar PV (Utility),122.69330793447035
+1089,Madison,Alabama,Solar PV (Utility),129.9344606612125
+5143,Washington,Arkansas,Solar PV (Utility),127.70475905938035
+5147,Woodruff,Arkansas,Solar PV (Utility),128.124447479527
+6003,Alpine,California,Solar PV (Utility),110.83728258611502
+6007,Butte,California,Solar PV (Utility),125.32088803959937
+1093,Marion,Alabama,Solar PV (Utility),127.88223839417893
+1095,Marshall,Alabama,Solar PV (Utility),128.98583423667012
+1097,Mobile,Alabama,Solar PV (Utility),120.7068154179862
+1101,Montgomery,Alabama,Solar PV (Utility),122.38436909857282
+1117,Shelby,Alabama,Solar PV (Utility),126.11514504619305
+1119,Sumter,Alabama,Solar PV (Utility),123.73127402641207
+1125,Tuscaloosa,Alabama,Solar PV (Utility),125.91645579454462
+1131,Wilcox,Alabama,Solar PV (Utility),122.84857735241913
+1007,Bibb,Alabama,Solar PV (Utility),125.38801779014885
+1011,Bullock,Alabama,Solar PV (Utility),122.03201042897562
+1015,Calhoun,Alabama,Solar PV (Utility),126.97603180333614
+6045,Mendocino,California,Solar PV (Utility),128.4114763985747
+6049,Modoc,California,Solar PV (Utility),118.43299398245438
+6051,Mono,California,Solar PV (Utility),107.12921655534464
+6057,Nevada,California,Solar PV (Utility),118.25651464765579
+6059,Orange,California,Solar PV (Utility),123.48966494106402
+6065,Riverside,California,Solar PV (Utility),104.89731495351243
+6069,San Benito,California,Solar PV (Utility),120.5078261663378
+6073,San Diego,California,Solar PV (Utility),110.28443466486942
+6075,San Francisco,California,Solar PV (Utility),142.0121851780661
+6113,Yolo,California,Solar PV (Utility),129.14040365461886
+8001,Adams,Colorado,Solar PV (Utility),111.91936851175639
+8007,Archuleta,Colorado,Solar PV (Utility),102.35997451578271
+8009,Baca,Colorado,Solar PV (Utility),104.89731495351243
+8015,Chaffee,Colorado,Solar PV (Utility),100.74615058574557
+8017,Cheyenne,Colorado,Solar PV (Utility),108.23151239783583
+8021,Conejos,Colorado,Solar PV (Utility),97.52380272567133
+8023,Costilla,Colorado,Solar PV (Utility),98.54035890076321
+8029,Delta,Colorado,Solar PV (Utility),107.34891572384288
+8037,Eagle,Colorado,Solar PV (Utility),107.78971406083936
+8043,Fremont,Colorado,Solar PV (Utility),101.21125883959188
+6081,San Mateo,California,Solar PV (Utility),138.81054723484166
+6083,Santa Barbara,California,Solar PV (Utility),116.48892129966988
+6087,Santa Cruz,California,Solar PV (Utility),131.3274854227514
+6095,Solano,California,Solar PV (Utility),130.13544991286096
+6101,Sutter,California,Solar PV (Utility),130.61886808355706
+6103,Tehama,California,Solar PV (Utility),123.1341062714668
+6109,Tuolumne,California,Solar PV (Utility),114.70101803483416
+6009,Calaveras,California,Solar PV (Utility),120.94952450333427
+6013,Contra Costa,California,Solar PV (Utility),130.6420780004069
+6015,Del Norte,California,Solar PV (Utility),138.21457947989643
+13149,Heard,Georgia,Solar PV (Utility),124.01870294545976
+20059,Franklin,Kansas,Solar PV (Utility),132.3416415978433
+6025,Imperial,California,Solar PV (Utility),103.77270919417143
+6029,Kern,California,Solar PV (Utility),111.30109083996132
+6031,Kings,California,Solar PV (Utility),124.28262194765765
+6039,Madera,California,Solar PV (Utility),117.8153163106593
+13067,Cobb,Georgia,Solar PV (Utility),125.3427979564492
+13069,Coffee,Georgia,Solar PV (Utility),119.84542866084308
+13073,Columbia,Georgia,Solar PV (Utility),122.14056001322477
+13077,Coweta,Georgia,Solar PV (Utility),123.48856494106401
+13081,Crisp,Georgia,Solar PV (Utility),119.75838899344379
+13087,Decatur,Georgia,Solar PV (Utility),119.42584024069646
+13093,Dooly,Georgia,Solar PV (Utility),120.17747741359045
+13095,Dougherty,Georgia,Solar PV (Utility),119.60231957549502
+13101,Echols,Georgia,Solar PV (Utility),121.30278317293146
+13103,Effingham,Georgia,Solar PV (Utility),121.30318317293145
+13109,Evans,Georgia,Solar PV (Utility),120.84007491908515
+13115,Floyd,Georgia,Solar PV (Utility),127.06577147073546
+13119,Franklin,Georgia,Solar PV (Utility),121.3255930897813
+8061,Kiowa,Colorado,Solar PV (Utility),107.65705455974042
+8063,Kit Carson,Colorado,Solar PV (Utility),109.86664624472277
+8069,Larimer,Colorado,Solar PV (Utility),111.6543495095585
+12089,Nassau,Florida,Solar PV (Utility),121.10329392128304
+12091,Okaloosa,Florida,Solar PV (Utility),120.15406749674062
+12097,Osceola,Florida,Solar PV (Utility),118.12445514655685
+12099,Palm Beach,Florida,Solar PV (Utility),117.39452789051266
+12101,Pasco,Florida,Solar PV (Utility),117.66094689271056
+12107,Putnam,Florida,Solar PV (Utility),121.30158317293146
+12109,St. Johns,Florida,Solar PV (Utility),120.26551708098974
+12113,Santa Rosa,Florida,Solar PV (Utility),120.37536666523886
+12115,Sarasota,Florida,Solar PV (Utility),114.21659986413805
+12117,Seminole,Florida,Solar PV (Utility),119.51347990809573
+12127,Volusia,Florida,Solar PV (Utility),119.66804932604451
+12131,Walton,Florida,Solar PV (Utility),119.49226999124592
+13003,Atkinson,Georgia,Solar PV (Utility),120.44169641578833
+13005,Bacon,Georgia,Solar PV (Utility),120.39747658208869
+13009,Baldwin,Georgia,Solar PV (Utility),120.92721458648445
+13015,Bartow,Georgia,Solar PV (Utility),126.33794421469126
+13023,Bleckley,Georgia,Solar PV (Utility),119.77829891029361
+13025,Brantley,Georgia,Solar PV (Utility),120.97273442018411
+13031,Bulloch,Georgia,Solar PV (Utility),120.86098483593499
+13037,Calhoun,Georgia,Solar PV (Utility),119.84602866084309
+13049,Charlton,Georgia,Solar PV (Utility),121.39202284033074
+13053,Chattahoochee,Georgia,Solar PV (Utility),122.49401868282193
+13057,Cherokee,Georgia,Solar PV (Utility),125.23264837220009
+13063,Clayton,Georgia,Solar PV (Utility),123.73067402641206
+9013,Tolland,Connecticut,Solar PV (Utility),161.81798059235797
+10005,Sussex,Delaware,Solar PV (Utility),147.1341858872252
+12003,Baker,Florida,Solar PV (Utility),121.87604101102689
+12005,Bay,Florida,Solar PV (Utility),118.47721381615402
+12011,Broward,Florida,Solar PV (Utility),118.36526423190492
+12015,Charlotte,Florida,Solar PV (Utility),114.87659736963276
+12071,Lee,Florida,Solar PV (Utility),115.2975857897794
+12079,Madison,Florida,Solar PV (Utility),120.72942533483602
+12081,Manatee,Florida,Solar PV (Utility),115.49607504142783
+8085,Montrose,Colorado,Solar PV (Utility),106.97324713739587
+12017,Citrus,Florida,Solar PV (Utility),117.96878572860807
+12029,Dixie,Florida,Solar PV (Utility),117.57210722531124
+12031,Duval,Florida,Solar PV (Utility),121.3468030066311
+12041,Gilchrist,Florida,Solar PV (Utility),120.08953774619117
+12043,Glades,Florida,Solar PV (Utility),115.51708495827765
+12045,Gulf,Florida,Solar PV (Utility),116.90930971981653
+12049,Hardee,Florida,Solar PV (Utility),116.97583947036601
+12051,Hendry,Florida,Solar PV (Utility),117.01995930406567
+12053,Hernando,Florida,Solar PV (Utility),118.32174439820527
+12061,Indian River,Florida,Solar PV (Utility),116.97553947036602
+12063,Jackson,Florida,Solar PV (Utility),120.33164683153922
+12069,Lake,Florida,Solar PV (Utility),119.84602866084309
+8075,Logan,Colorado,Solar PV (Utility),114.10575027988895
+8077,Mesa,Colorado,Solar PV (Utility),107.12851655534465
+8081,Moffat,Colorado,Solar PV (Utility),110.30854458171926
+8087,Morgan,Colorado,Solar PV (Utility),113.09029410479704
+8091,Ouray,Colorado,Solar PV (Utility),109.18113882237824
+8097,Pitkin,Colorado,Solar PV (Utility),108.91721982018036
+8103,Rio Blanco,Colorado,Solar PV (Utility),109.79981649417331
+8109,Saguache,Colorado,Solar PV (Utility),99.55601507585511
+8119,Teller,Colorado,Solar PV (Utility),102.00611584618554
+8121,Washington,Colorado,Solar PV (Utility),111.52099000845955
+8125,Yuma,Colorado,Solar PV (Utility),112.95803460369811
+9003,Hartford,Connecticut,Solar PV (Utility),162.89886651799935
+9007,Middlesex,Connecticut,Solar PV (Utility),160.51399549821838
+5015,Carroll,Arkansas,Solar PV (Utility),128.80935490187153
+5017,Chicot,Arkansas,Solar PV (Utility),124.26161203080784
+5025,Cleveland,Arkansas,Solar PV (Utility),126.37976404839091
+5027,Columbia,Arkansas,Solar PV (Utility),126.33574421469126
+5033,Crawford,Arkansas,Solar PV (Utility),129.1837234883185
+5045,Faulkner,Arkansas,Solar PV (Utility),129.4266325736666
+5047,Franklin,Arkansas,Solar PV (Utility),128.74292515132203
+5053,Grant,Arkansas,Solar PV (Utility),127.70645905938035
+5059,Hot Spring,Arkansas,Solar PV (Utility),129.09748382091925
+5067,Jackson,Arkansas,Solar PV (Utility),129.250053238868
+5073,Lafayette,Arkansas,Solar PV (Utility),126.58055330003933
+5081,Little River,Arkansas,Solar PV (Utility),126.55664338318951
+5083,Logan,Arkansas,Solar PV (Utility),129.1841234883185
+5087,Madison,Arkansas,Solar PV (Utility),128.47880614912415
+16001,Ada,Idaho,Solar PV (Utility),120.26421708098974
+16003,Adams,Idaho,Solar PV (Utility),125.8288161271453
+16009,Benewah,Idaho,Solar PV (Utility),141.30616783887174
+16017,Bonner,Idaho,Solar PV (Utility),144.10982727879934
+16019,Bonneville,Idaho,Solar PV (Utility),122.05332034582545
+5089,Marion,Arkansas,Solar PV (Utility),130.9509168363044
+5091,Miller,Arkansas,Solar PV (Utility),126.22579463044214
+5093,Mississippi,Arkansas,Solar PV (Utility),129.44864249051642
+5099,Nevada,Arkansas,Solar PV (Utility),127.26486072238386
+5103,Ouachita,Arkansas,Solar PV (Utility),126.4692037157902
+5113,Polk,Arkansas,Solar PV (Utility),129.47175240736624
+5115,Pope,Arkansas,Solar PV (Utility),129.29557307256763
+5121,Randolph,Arkansas,Solar PV (Utility),131.23794575535214
+5133,Sevier,Arkansas,Solar PV (Utility),127.26506072238385
+5137,Stone,Arkansas,Solar PV (Utility),130.50881849930795
+13317,Wilkes,Georgia,Solar PV (Utility),121.72277159307811
+13321,Worth,Georgia,Solar PV (Utility),119.53768982494557
+4005,Coconino,Arizona,Solar PV (Utility),99.77541424435336
+4009,Graham,Arizona,Solar PV (Utility),97.0163746381254
+4011,Greenlee,Arizona,Solar PV (Utility),96.5751763011289
+4012,La Paz,Arizona,Solar PV (Utility),102.55676376743114
+4017,Navajo,Arizona,Solar PV (Utility),98.78126798611127
+4021,Pinal,Arizona,Solar PV (Utility),99.39954565790634
+4023,Santa Cruz,Arizona,Solar PV (Utility),95.89056887878438
+4027,Yuma,Arizona,Solar PV (Utility),101.62994725973853
+5003,Ashley,Arkansas,Solar PV (Utility),124.74703020150395
+5013,Calhoun,Arkansas,Solar PV (Utility),126.22639463044214
+16071,Oneida,Idaho,Solar PV (Utility),119.35951049014696
+16077,Power,Idaho,Solar PV (Utility),119.27157082274769
+16079,Shoshone,Idaho,Solar PV (Utility),139.6713339919848
+16083,Twin Falls,Idaho,Solar PV (Utility),118.9180121531505
+17003,Alexander,Illinois,Solar PV (Utility),135.2333407051702
+17007,Boone,Illinois,Solar PV (Utility),154.81933695096382
+17011,Bureau,Illinois,Solar PV (Utility),148.83544948466164
+17015,Carroll,Illinois,Solar PV (Utility),151.59618909088957
+17023,Clark,Illinois,Solar PV (Utility),142.03369509491594
+17033,Crawford,Illinois,Solar PV (Utility),140.90858933557493
+17037,DeKalb,Illinois,Solar PV (Utility),153.82519069272178
+17041,Douglas,Illinois,Solar PV (Utility),144.63966528319514
+17043,DuPage,Illinois,Solar PV (Utility),156.0774022114038
+18117,Orange,Indiana,Solar PV (Utility),139.49665465718618
+18121,Parke,Indiana,Solar PV (Utility),145.27975287184
+18127,Porter,Indiana,Solar PV (Utility),157.35737738869358
+18135,Randolph,Indiana,Solar PV (Utility),146.4737883817305
+18137,Ripley,Indiana,Solar PV (Utility),140.75471991762615
+18141,St. Joseph,Indiana,Solar PV (Utility),155.92193279345506
+18149,Starke,Indiana,Solar PV (Utility),156.10021212825362
+18151,Steuben,Indiana,Solar PV (Utility),152.56712543228184
+18159,Tipton,Indiana,Solar PV (Utility),148.37034123081534
+18161,Union,Indiana,Solar PV (Utility),142.3653438476633
+18167,Vigo,Indiana,Solar PV (Utility),143.55727935755374
+18169,Wabash,Indiana,Solar PV (Utility),151.4400196729408
+18175,Washington,Indiana,Solar PV (Utility),138.78993731799184
+18181,White,Indiana,Solar PV (Utility),152.43366593118287
+19001,Adair,Iowa,Solar PV (Utility),139.69544390883462
+17047,Edwards,Illinois,Solar PV (Utility),138.14984972934695
+17051,Fayette,Illinois,Solar PV (Utility),139.93645299418267
+17053,Ford,Illinois,Solar PV (Utility),148.30601148026585
+17057,Fulton,Illinois,Solar PV (Utility),144.30861653044775
+17063,Grundy,Illinois,Solar PV (Utility),152.78752460078005
+18055,Greene,Indiana,Solar PV (Utility),142.25569426341417
+18057,Hamilton,Indiana,Solar PV (Utility),146.2953090469319
+18065,Henry,Indiana,Solar PV (Utility),145.23613303814037
+18067,Howard,Indiana,Solar PV (Utility),149.82809574290368
+18071,Jackson,Indiana,Solar PV (Utility),140.46809099857842
+18077,Jefferson,Indiana,Solar PV (Utility),138.54632823264376
+18087,LaGrange,Indiana,Solar PV (Utility),153.22842293777654
+18091,LaPorte,Indiana,Solar PV (Utility),157.24712780444446
+18097,Marion,Indiana,Solar PV (Utility),144.61735536634532
+18101,Martin,Indiana,Solar PV (Utility),140.1581521626809
+18103,Miami,Indiana,Solar PV (Utility),151.35158000554154
+18109,Morgan,Indiana,Solar PV (Utility),143.51325952385412
+16023,Butte,Idaho,Solar PV (Utility),117.88164606120878
+16025,Camas,Idaho,Solar PV (Utility),116.3118419648713
+16029,Caribou,Idaho,Solar PV (Utility),120.13245757989081
+16033,Clark,Idaho,Solar PV (Utility),123.112396354617
+16041,Franklin,Idaho,Solar PV (Utility),118.21259481395614
+16043,Fremont,Idaho,Solar PV (Utility),125.29967812274955
+16047,Gooding,Idaho,Solar PV (Utility),116.77715021871761
+16053,Jerome,Idaho,Solar PV (Utility),118.07933531285721
+16055,Kootenai,Idaho,Solar PV (Utility),142.52111326561206
+16061,Lewis,Idaho,Solar PV (Utility),137.33168280590348
+16065,Madison,Idaho,Solar PV (Utility),122.6503881007707
+16069,Nez Perce,Idaho,Solar PV (Utility),137.7299613092003
+18007,Benton,Indiana,Solar PV (Utility),150.7564122505963
+18013,Brown,Indiana,Solar PV (Utility),142.32212401396362
+18015,Carroll,Indiana,Solar PV (Utility),151.35148000554153
+18019,Clark,Indiana,Solar PV (Utility),137.9051406439989
+18025,Crawford,Indiana,Solar PV (Utility),138.3697488978452
+18031,Decatur,Indiana,Solar PV (Utility),141.37169758942122
+18035,Delaware,Indiana,Solar PV (Utility),147.39950488942307
+18045,Fountain,Indiana,Solar PV (Utility),147.7758734758701
+13137,Habersham,Georgia,Solar PV (Utility),121.94367076157634
+13141,Hancock,Georgia,Solar PV (Utility),120.99294433703392
+13147,Hart,Georgia,Solar PV (Utility),121.58861209197917
+13155,Irwin,Georgia,Solar PV (Utility),119.1166014047989
+13159,Jasper,Georgia,Solar PV (Utility),121.8114112604774
+13165,Jenkins,Georgia,Solar PV (Utility),120.92651458648444
+13171,Lamar,Georgia,Solar PV (Utility),122.75983768501983
+13173,Lanier,Georgia,Solar PV (Utility),120.64128566743675
+20091,Johnson,Kansas,Solar PV (Utility),134.77043245132393
+20097,Kiowa,Kansas,Solar PV (Utility),114.347659365237
+20099,Labette,Kansas,Solar PV (Utility),128.69970531762237
+20103,Leavenworth,Kansas,Solar PV (Utility),135.16731095462075
+20109,Logan,Kansas,Solar PV (Utility),112.5826660172511
+20113,McPherson,Kansas,Solar PV (Utility),121.98689059527598
+20119,Meade,Kansas,Solar PV (Utility),111.61052967585884
+20125,Montgomery,Kansas,Solar PV (Utility),127.04266155388562
+20131,Nemaha,Kansas,Solar PV (Utility),131.8111035934475
+20141,Osborne,Kansas,Solar PV (Utility),121.12560383813286
+20143,Ottawa,Kansas,Solar PV (Utility),125.01174920370184
+20157,Republic,Kansas,Solar PV (Utility),127.0199516370358
+20165,Rush,Kansas,Solar PV (Utility),117.2390584725639
+20167,Russell,Kansas,Solar PV (Utility),119.82271874399326
+20171,Scott,Kansas,Solar PV (Utility),111.89775859490656
+20177,Shawnee,Kansas,Solar PV (Utility),132.0769225956454
+22057,Lafourche,Louisiana,Solar PV (Utility),119.64573940919469
+22061,Lincoln,Louisiana,Solar PV (Utility),125.98428554509408
+22063,Livingston,Louisiana,Solar PV (Utility),122.363759181723
+22069,Natchitoches,Louisiana,Solar PV (Utility),124.83586986890326
+22075,Plaquemines,Louisiana,Solar PV (Utility),115.80591387732534
+22079,Rapides,Louisiana,Solar PV (Utility),124.50492111615588
+22081,Red River,Louisiana,Solar PV (Utility),125.25585828904991
+22085,Sabine,Louisiana,Solar PV (Utility),124.61517070040503
+21111,Jefferson,Kentucky,Solar PV (Utility),138.14784972934697
+21113,Jessamine,Kentucky,Solar PV (Utility),136.78003488465788
+21123,Larue,Kentucky,Solar PV (Utility),135.56688945791757
+21129,Lee,Kentucky,Solar PV (Utility),139.71595382568444
+21135,Lewis,Kentucky,Solar PV (Utility),140.22328191323038
+21139,Livingston,Kentucky,Solar PV (Utility),135.52126962421792
+21145,McCracken,Kentucky,Solar PV (Utility),134.77023245132395
+21153,Magoffin,Kentucky,Solar PV (Utility),143.07376118685764
+21159,Martin,Kentucky,Solar PV (Utility),145.72135120883647
+21167,Mercer,Kentucky,Solar PV (Utility),135.52266962421794
+21171,Monroe,Kentucky,Solar PV (Utility),133.86472586048114
+21173,Montgomery,Kentucky,Solar PV (Utility),138.3695488978452
+21179,Nelson,Kentucky,Solar PV (Utility),136.7128051341084
+19053,Decatur,Iowa,Solar PV (Utility),139.893733160483
+18003,Allen,Indiana,Solar PV (Utility),151.1531907538931
+13181,Lincoln,Georgia,Solar PV (Utility),121.87624101102688
+19061,Dubuque,Iowa,Solar PV (Utility),149.89612549345316
+19069,Franklin,Iowa,Solar PV (Utility),147.7978833927199
+19075,Grundy,Iowa,Solar PV (Utility),146.9577065524266
+19077,Guthrie,Iowa,Solar PV (Utility),140.64307033337704
+19089,Howard,Iowa,Solar PV (Utility),149.93814532715282
+19093,Ida,Iowa,Solar PV (Utility),140.40036124802896
+19101,Jefferson,Iowa,Solar PV (Utility),143.89032811030108
+19103,Johnson,Iowa,Solar PV (Utility),147.55547430737184
+19107,Keokuk,Iowa,Solar PV (Utility),144.04469752824986
+19111,Lee,Iowa,Solar PV (Utility),143.73455869235235
+19127,Marshall,Iowa,Solar PV (Utility),144.8818743685432
+19129,Mills,Iowa,Solar PV (Utility),137.50976214070207
+19135,Monroe,Iowa,Solar PV (Utility),141.76997609271805
+19139,Muscatine,Iowa,Solar PV (Utility),147.48874455682235
+19145,Page,Iowa,Solar PV (Utility),137.64082164180098
+20181,Sherman,Kansas,Solar PV (Utility),111.83122884435708
+19153,Polk,Iowa,Solar PV (Utility),143.24954052165623
+19155,Pottawattamie,Iowa,Solar PV (Utility),138.21417947989642
+19159,Ringgold,Iowa,Solar PV (Utility),138.4791984820943
+19163,Scott,Iowa,Solar PV (Utility),147.88532306011922
+19171,Tama,Iowa,Solar PV (Utility),145.78878095938595
+19177,Van Buren,Iowa,Solar PV (Utility),142.80664218465975
+19183,Washington,Iowa,Solar PV (Utility),146.29490904693188
+19189,Winnebago,Iowa,Solar PV (Utility),148.65867014986304
+19193,Woodbury,Iowa,Solar PV (Utility),139.27385548868796
+20003,Anderson,Kansas,Solar PV (Utility),130.5530383330076
+20009,Barton,Kansas,Solar PV (Utility),118.01210556230772
+20017,Chase,Kansas,Solar PV (Utility),124.81235995205343
+20019,Chautauqua,Kansas,Solar PV (Utility),125.3437979564492
+13211,Morgan,Georgia,Solar PV (Utility),121.92016084472652
+27081,Lincoln,Minnesota,Solar PV (Utility),141.6367165916191
+27089,Marshall,Minnesota,Solar PV (Utility),153.05344360297795
+27091,Martin,Minnesota,Solar PV (Utility),146.64886771652908
+27095,Mille Lacs,Minnesota,Solar PV (Utility),151.46332958979067
+27097,Morrison,Minnesota,Solar PV (Utility),150.9548015022447
+27099,Mower,Minnesota,Solar PV (Utility),150.88767175169522
+27105,Nobles,Minnesota,Solar PV (Utility),142.80794218465977
+27109,Olmsted,Minnesota,Solar PV (Utility),152.52220559858216
+27111,Otter Tail,Minnesota,Solar PV (Utility),149.32026765535775
+27115,Pine,Minnesota,Solar PV (Utility),153.42701218942497
+27117,Pipestone,Minnesota,Solar PV (Utility),141.32887775572155
+27119,Polk,Minnesota,Solar PV (Utility),153.2506328546264
+27129,Renville,Minnesota,Solar PV (Utility),148.50330073191427
+27133,Rock,Minnesota,Solar PV (Utility),141.3502876725714
+19059,Dickinson,Iowa,Solar PV (Utility),143.93344794400076
+27141,Sherburne,Minnesota,Solar PV (Utility),151.2204205044426
+27145,Stearns,Minnesota,Solar PV (Utility),149.69503624180476
+27149,Stevens,Minnesota,Solar PV (Utility),145.50165204033823
+27157,Wabasha,Minnesota,Solar PV (Utility),153.42851218942496
+27163,Washington,Minnesota,Solar PV (Utility),154.90577661836312
+27171,Wright,Minnesota,Solar PV (Utility),151.35108000554152
+28005,Amite,Mississippi,Solar PV (Utility),124.17297236340853
+28009,Benton,Mississippi,Solar PV (Utility),129.249953238868
+28011,Bolivar,Mississippi,Solar PV (Utility),124.90279961945271
+28015,Carroll,Mississippi,Solar PV (Utility),125.14490870480078
+28021,Claiborne,Mississippi,Solar PV (Utility),123.37931535681489
+28031,Covington,Mississippi,Solar PV (Utility),123.51037485791383
+28039,George,Mississippi,Solar PV (Utility),122.73792776817
+19149,Plymouth,Iowa,Solar PV (Utility),139.65152407513494
+28045,Hancock,Mississippi,Solar PV (Utility),120.92851458648445
+28051,Holmes,Mississippi,Solar PV (Utility),124.83506986890326
+28053,Humphreys,Mississippi,Solar PV (Utility),124.39457153190678
+28059,Jackson,Mississippi,Solar PV (Utility),119.99989807879186
+28067,Jones,Mississippi,Solar PV (Utility),123.24525585571595
+28073,Lamar,Mississippi,Solar PV (Utility),123.33389552311525
+23007,Franklin,Maine,Solar PV (Utility),153.8254906927218
+13215,Muscogee,Georgia,Solar PV (Utility),122.60466826707108
+13239,Quitman,Georgia,Solar PV (Utility),120.44279641578834
+27077,Lake of the Woods,Minnesota,Solar PV (Utility),155.28274520481014
+45031,Darlington,South Carolina,Solar PV (Utility),123.864733527511
+45035,Dorchester,South Carolina,Solar PV (Utility),122.16386993007458
+45037,Edgefield,South Carolina,Solar PV (Utility),122.05372034582545
+47011,Bradley,Tennessee,Solar PV (Utility),128.63357556707294
+47017,Carroll,Tennessee,Solar PV (Utility),131.89994326084684
+47021,Cheatham,Tennessee,Solar PV (Utility),133.3580977729352
+47025,Claiborne,Tennessee,Solar PV (Utility),132.18777217989455
+47033,Crockett,Tennessee,Solar PV (Utility),130.86197716890513
+47035,Cumberland,Tennessee,Solar PV (Utility),132.3208316809935
+47041,DeKalb,Tennessee,Solar PV (Utility),134.10973494582922
+47047,Fayette,Tennessee,Solar PV (Utility),129.95727057806238
+47049,Fentress,Tennessee,Solar PV (Utility),133.77798619308183
+47059,Greene,Tennessee,Solar PV (Utility),133.79869610993168
+47061,Grundy,Tennessee,Solar PV (Utility),131.2173358385023
+27137,St. Louis,Minnesota,Solar PV (Utility),155.67892370810696
+23015,Lincoln,Maine,Solar PV (Utility),152.63315518283133
+23021,Piscataquis,Maine,Solar PV (Utility),152.50039568173236
+23023,Sagadahoc,Maine,Solar PV (Utility),151.7044386751387
+23031,York,Maine,Solar PV (Utility),150.3144139135998
+28041,Greene,Mississippi,Solar PV (Utility),122.75963768501983
+31149,Rock,Nebraska,Solar PV (Utility),127.19663097183437
+31151,Saline,Nebraska,Solar PV (Utility),130.6870978341065
+31155,Saunders,Nebraska,Solar PV (Utility),135.80969854326563
+31161,Sheridan,Nebraska,Solar PV (Utility),118.23480473080595
+31169,Thayer,Nebraska,Solar PV (Utility),127.8599284773291
+31173,Thurston,Nebraska,Solar PV (Utility),136.73681505095823
+31181,Webster,Nebraska,Solar PV (Utility),124.15216244655872
+32005,Douglas,Nevada,Solar PV (Utility),109.15952890552842
+32007,Elko,Nevada,Solar PV (Utility),115.03216678758153
+32013,Humboldt,Nevada,Solar PV (Utility),115.80471387732534
+32017,Lincoln,Nevada,Solar PV (Utility),102.00481584618554
+32023,Nye,Nevada,Solar PV (Utility),103.59572985937285
+23011,Kennebec,Maine,Solar PV (Utility),152.8090345176299
+39105,Meigs,Ohio,Solar PV (Utility),146.4725883817305
+39107,Mercer,Ohio,Solar PV (Utility),149.23192798795844
+39117,Morrow,Ohio,Solar PV (Utility),151.39619983924118
+39119,Muskingum,Ohio,Solar PV (Utility),149.98316516085245
+39125,Paulding,Ohio,Solar PV (Utility),151.22032050444258
+39129,Pickaway,Ohio,Solar PV (Utility),145.52376195718807
+39133,Portage,Ohio,Solar PV (Utility),153.42871218942497
+39135,Preble,Ohio,Solar PV (Utility),142.91799176890885
+39139,Richland,Ohio,Solar PV (Utility),152.4567758480327
+39141,Ross,Ohio,Solar PV (Utility),144.42016611469688
+39149,Shelby,Ohio,Solar PV (Utility),147.59779414107152
+39151,Stark,Ohio,Solar PV (Utility),151.83689817623764
+39157,Tuscarawas,Ohio,Solar PV (Utility),152.08030726158572
+39161,Van Wert,Ohio,Solar PV (Utility),150.64596266634717
+47065,Hamilton,Tennessee,Solar PV (Utility),129.64863174216484
+47067,Hancock,Tennessee,Solar PV (Utility),132.29902176414367
+47071,Hardin,Tennessee,Solar PV (Utility),130.79754741835563
+47077,Henderson,Tennessee,Solar PV (Utility),131.50376475755002
+47083,Houston,Tennessee,Solar PV (Utility),132.8950895190889
+47087,Jackson,Tennessee,Solar PV (Utility),134.04140519527974
+47095,Lake,Tennessee,Solar PV (Utility),131.70075400919842
+47101,Lewis,Tennessee,Solar PV (Utility),131.06076642055353
+47107,McMinn,Tennessee,Solar PV (Utility),130.72981766780617
+47109,McNairy,Tennessee,Solar PV (Utility),131.0164465868539
+47111,Macon,Tennessee,Solar PV (Utility),133.8223060267815
+47119,Maury,Tennessee,Solar PV (Utility),131.72366392604826
+47125,Montgomery,Tennessee,Solar PV (Utility),133.4456374403345
+47135,Perry,Tennessee,Solar PV (Utility),131.23934575535216
+47137,Pickett,Tennessee,Solar PV (Utility),134.1974746132285
+24011,Caroline,Maryland,Solar PV (Utility),145.94285037733474
+24013,Carroll,Maryland,Solar PV (Utility),146.42936854803085
+24021,Frederick,Maryland,Solar PV (Utility),146.030690044734
+24023,Garrett,Maryland,Solar PV (Utility),148.46008089821464
+24031,Montgomery,Maryland,Solar PV (Utility),142.89668185205906
+24033,Prince George's,Maryland,Solar PV (Utility),143.44762977330464
+24043,Washington,Maryland,Solar PV (Utility),148.72429990041252
+32031,Washoe,Nevada,Solar PV (Utility),114.36896928208682
+32510,Carson City,Nevada,Solar PV (Utility),109.18183882237825
+33003,Carroll,New Hampshire,Solar PV (Utility),152.78752460078005
+33009,Grafton,New Hampshire,Solar PV (Utility),155.85690304290554
+33015,Rockingham,New Hampshire,Solar PV (Utility),154.3981485308172
+33019,Sullivan,New Hampshire,Solar PV (Utility),157.2699377212943
+34003,Bergen,New Jersey,Solar PV (Utility),167.448209389063
+34009,Cape May,New Jersey,Solar PV (Utility),148.94599906891074
+34013,Essex,New Jersey,Solar PV (Utility),166.0568846275241
+39167,Washington,Ohio,Solar PV (Utility),149.542466823856
+39171,Williams,Ohio,Solar PV (Utility),151.41720975609098
+39175,Wyandot,Ohio,Solar PV (Utility),151.68212875828888
+40003,Alfalfa,Oklahoma,Solar PV (Utility),117.94657581175825
+40011,Blaine,Oklahoma,Solar PV (Utility),116.53344113336954
+40013,Bryan,Oklahoma,Solar PV (Utility),123.4669550242142
+40017,Canadian,Oklahoma,Solar PV (Utility),117.50467747476178
+40025,Cimarron,Oklahoma,Solar PV (Utility),103.77130919417142
+40029,Coal,Oklahoma,Solar PV (Utility),124.04091286230958
+40035,Craig,Oklahoma,Solar PV (Utility),127.2854706392337
+40039,Custer,Oklahoma,Solar PV (Utility),114.39117919893663
+40045,Ellis,Oklahoma,Solar PV (Utility),111.89665859490655
+40049,Garvin,Oklahoma,Solar PV (Utility),119.25036090589785
+40055,Greer,Oklahoma,Solar PV (Utility),112.20559743080409
+37193,Wilkes,North Carolina,Solar PV (Utility),129.49506232421606
+47141,Putnam,Tennessee,Solar PV (Utility),133.38060768978502
+48045,Briscoe,Texas,Solar PV (Utility),107.19334630589411
+48049,Brown,Texas,Solar PV (Utility),113.72848169344192
+48055,Caldwell,Texas,Solar PV (Utility),122.95812693666824
+48061,Cameron,Texas,Solar PV (Utility),116.29093204802147
+48065,Carson,Texas,Solar PV (Utility),106.1780901308022
+48067,Cass,Texas,Solar PV (Utility),124.65839053410465
+48073,Cherokee,Texas,Solar PV (Utility),124.81305995205344
+48077,Clay,Texas,Solar PV (Utility),116.33385188172113
+48081,Coke,Texas,Solar PV (Utility),108.60748098428282
+48085,Collin,Texas,Solar PV (Utility),122.07553026267527
+48087,Collingsworth,Texas,Solar PV (Utility),109.99810574582172
+48091,Comal,Texas,Solar PV (Utility),122.69400793447035
+24047,Worcester,Maryland,Solar PV (Utility),144.0871173619495
+25007,Dukes,Massachusetts,Solar PV (Utility),160.02977732752223
+25013,Hampden,Massachusetts,Solar PV (Utility),162.47957809785268
+25015,Hampshire,Massachusetts,Solar PV (Utility),161.0885533363138
+25017,Middlesex,Massachusetts,Solar PV (Utility),159.432109572577
+34017,Hudson,New Jersey,Solar PV (Utility),169.16898290334927
+34019,Hunterdon,New Jersey,Solar PV (Utility),159.78536824217417
+34021,Mercer,New Jersey,Solar PV (Utility),159.60998890737557
+34029,Ocean,New Jersey,Solar PV (Utility),158.2179641458367
+34033,Salem,New Jersey,Solar PV (Utility),150.91068166854504
+34035,Somerset,New Jersey,Solar PV (Utility),162.23766901250463
+34041,Warren,New Jersey,Solar PV (Utility),160.95649383521484
+35007,Colfax,New Mexico,Solar PV (Utility),99.22416632310775
+30055,McCone,Montana,Solar PV (Utility),131.19432592165248
+30057,Madison,Montana,Solar PV (Utility),125.8963458776948
+37195,Wilson,North Carolina,Solar PV (Utility),131.63492425864894
+37199,Yancey,North Carolina,Solar PV (Utility),130.62066808355706
+38005,Benson,North Dakota,Solar PV (Utility),146.31921896378174
+38009,Bottineau,North Dakota,Solar PV (Utility),146.9795164692764
+38017,Cass,North Dakota,Solar PV (Utility),148.34973131396552
+38027,Eddy,North Dakota,Solar PV (Utility),146.032190044734
+38029,Emmons,North Dakota,Solar PV (Utility),137.77408114289995
+38037,Grant,North Dakota,Solar PV (Utility),133.40311760663482
+38039,Griggs,North Dakota,Solar PV (Utility),146.4733883817305
+38043,Kidder,North Dakota,Solar PV (Utility),140.97581908612437
+38047,Logan,North Dakota,Solar PV (Utility),139.5848943245855
+38053,McKenzie,North Dakota,Solar PV (Utility),136.20637704656247
+38059,Morton,North Dakota,Solar PV (Utility),136.38185638136105
+38063,Nelson,North Dakota,Solar PV (Utility),147.20211563777468
+47001,Anderson,Tennessee,Solar PV (Utility),132.49731101579206
+47003,Bedford,Tennessee,Solar PV (Utility),132.1430523461949
+40065,Jackson,Oklahoma,Solar PV (Utility),113.0441742710974
+40071,Kay,Oklahoma,Solar PV (Utility),121.58881209197916
+40083,Logan,Oklahoma,Solar PV (Utility),120.66309558428657
+40085,Love,Oklahoma,Solar PV (Utility),120.44189641578834
+40091,McIntosh,Oklahoma,Solar PV (Utility),126.20388471359233
+40099,Murray,Oklahoma,Solar PV (Utility),120.72782533483603
+40101,Muskogee,Oklahoma,Solar PV (Utility),126.66719296743861
+40107,Okfuskee,Oklahoma,Solar PV (Utility),123.75418394326188
+40111,Okmulgee,Oklahoma,Solar PV (Utility),124.96712937000218
+40117,Pawnee,Oklahoma,Solar PV (Utility),123.02465668721771
+40119,Payne,Oklahoma,Solar PV (Utility),121.96558067842618
+40125,Pottawatomie,Oklahoma,Solar PV (Utility),121.21374350553216
+25021,Norfolk,Massachusetts,Solar PV (Utility),161.2871425879622
+25023,Plymouth,Massachusetts,Solar PV (Utility),160.559115331918
+26003,Alger,Michigan,Solar PV (Utility),157.68782614144092
+26005,Allegan,Michigan,Solar PV (Utility),154.11261961176947
+26007,Alpena,Michigan,Solar PV (Utility),149.84960565975354
+30063,Missoula,Montana,Solar PV (Utility),133.93255561103064
+30065,Musselshell,Montana,Solar PV (Utility),131.17321600480264
+30071,Phillips,Montana,Solar PV (Utility),135.08077128722144
+30077,Powell,Montana,Solar PV (Utility),129.49276232421607
+30083,Richland,Montana,Solar PV (Utility),132.93750935278857
+30087,Rosebud,Montana,Solar PV (Utility),127.96937806157823
+30091,Sheridan,Montana,Solar PV (Utility),138.1919695630466
+30097,Sweet Grass,Montana,Solar PV (Utility),126.97633180333614
+30101,Toole,Montana,Solar PV (Utility),134.77063245132393
+38065,Oliver,North Dakota,Solar PV (Utility),137.79629105974976
+38067,Pembina,North Dakota,Solar PV (Utility),150.88747175169522
+38071,Ramsey,North Dakota,Solar PV (Utility),148.9227891520609
+38075,Renville,North Dakota,Solar PV (Utility),144.26509669674812
+38081,Sargent,North Dakota,Solar PV (Utility),142.80864218465976
+38089,Stark,North Dakota,Solar PV (Utility),133.0497589370377
+38093,Stutsman,North Dakota,Solar PV (Utility),142.71850251726045
+38097,Traill,North Dakota,Solar PV (Utility),151.83879817623765
+38101,Ward,North Dakota,Solar PV (Utility),142.34453393081347
+39001,Adams,Ohio,Solar PV (Utility),141.3730975894212
+39005,Ashland,Ohio,Solar PV (Utility),152.39074609748326
+39011,Auglaize,Ohio,Solar PV (Utility),149.34237757220757
+39013,Belmont,Ohio,Solar PV (Utility),150.668972583197
+39017,Butler,Ohio,Solar PV (Utility),141.8359058432675
+39019,Carroll,Ohio,Solar PV (Utility),152.65546509968112
+42003,Allegheny,Pennsylvania,Solar PV (Utility),154.90577661836312
+42007,Beaver,Pennsylvania,Solar PV (Utility),155.76776337550626
+48361,Orange,Texas,Solar PV (Utility),124.94671945315235
+48369,Parmer,Texas,Solar PV (Utility),101.52089767548941
+48383,Reagan,Texas,Solar PV (Utility),104.54365628391525
+48385,Real,Texas,Solar PV (Utility),116.84227996926707
+48387,Red River,Texas,Solar PV (Utility),125.23254837220009
+48395,Robertson,Texas,Solar PV (Utility),122.38576909857282
+48399,Runnels,Texas,Solar PV (Utility),110.48402391651783
+48403,Sabine,Texas,Solar PV (Utility),124.50442111615588
+48415,Scurry,Texas,Solar PV (Utility),106.11186038025276
+48417,Shackelford,Texas,Solar PV (Utility),111.98559826230584
+48419,Shelby,Texas,Solar PV (Utility),125.07707895425132
+48423,Smith,Texas,Solar PV (Utility),123.59911452531313
+48427,Starr,Texas,Solar PV (Utility),114.03812052933944
+48431,Sterling,Texas,Solar PV (Utility),105.58162237585698
+26017,Bay,Michigan,Solar PV (Utility),152.92048410187903
+26019,Benzie,Michigan,Solar PV (Utility),155.68042370810696
+26021,Berrien,Michigan,Solar PV (Utility),156.805829467448
+26027,Cass,Michigan,Solar PV (Utility),155.21721545426067
+26031,Cheboygan,Michigan,Solar PV (Utility),153.20661302092668
+26033,Chippewa,Michigan,Solar PV (Utility),153.69223119162285
+30109,Wibaux,Montana,Solar PV (Utility),130.86387716890513
+31007,Banner,Nebraska,Solar PV (Utility),115.47466512457801
+31011,Boone,Nebraska,Solar PV (Utility),130.22368958026024
+31013,Box Butte,Nebraska,Solar PV (Utility),116.8642898861169
+31019,Buffalo,Nebraska,Solar PV (Utility),124.17297236340853
+31025,Cass,Nebraska,Solar PV (Utility),135.54427954106774
+31029,Chase,Nebraska,Solar PV (Utility),116.62218080076883
+31033,Cheyenne,Nebraska,Solar PV (Utility),115.42894529087836
+31039,Cuming,Nebraska,Solar PV (Utility),136.0723175454635
+31045,Dawes,Nebraska,Solar PV (Utility),119.02836173739962
+31051,Dixon,Nebraska,Solar PV (Utility),136.29361671396174
+31057,Dundy,Nebraska,Solar PV (Utility),115.62763454252678
+31071,Garfield,Nebraska,Solar PV (Utility),126.75553263483793
+31075,Grant,Nebraska,Solar PV (Utility),116.97423947036602
+39023,Clark,Ohio,Solar PV (Utility),144.83925453484352
+39025,Clermont,Ohio,Solar PV (Utility),141.10787858722333
+39029,Columbiana,Ohio,Solar PV (Utility),153.75986094217234
+39033,Crawford,Ohio,Solar PV (Utility),152.63225518283133
+39037,Darke,Ohio,Solar PV (Utility),146.031290044734
+39041,Delaware,Ohio,Solar PV (Utility),148.9886189026104
+39043,Erie,Ohio,Solar PV (Utility),154.11241961176947
+39049,Franklin,Ohio,Solar PV (Utility),147.5992941410715
+35019,Guadalupe,New Mexico,Solar PV (Utility),98.5166489839134
+35021,Harding,New Mexico,Solar PV (Utility),99.42185557475615
+35025,Lea,New Mexico,Solar PV (Utility),100.08385308025086
+35033,Mora,New Mexico,Solar PV (Utility),98.53865890076321
+35039,Rio Arriba,New Mexico,Solar PV (Utility),100.21731258134982
+47143,Rhea,Tennessee,Solar PV (Utility),130.97262675315423
+47147,Robertson,Tennessee,Solar PV (Utility),133.5562870245836
+47149,Rutherford,Tennessee,Solar PV (Utility),133.7118564425324
+47155,Sevier,Tennessee,Solar PV (Utility),130.55443833300762
+47161,Stewart,Tennessee,Solar PV (Utility),133.60020685828326
+47167,Tipton,Tennessee,Solar PV (Utility),129.71506149271428
+47175,Van Buren,Tennessee,Solar PV (Utility),133.20212835498643
+47177,Warren,Tennessee,Solar PV (Utility),132.29752176414368
+45055,Kershaw,South Carolina,Solar PV (Utility),123.59991452531312
+45061,Lee,South Carolina,Solar PV (Utility),123.3109856062654
+45065,McCormick,South Carolina,Solar PV (Utility),121.92196084472653
+45071,Newberry,South Carolina,Solar PV (Utility),121.87724101102688
+45073,Oconee,South Carolina,Solar PV (Utility),121.45845259088024
+26041,Delta,Michigan,Solar PV (Utility),154.11091961176948
+26043,Dickinson,Michigan,Solar PV (Utility),154.02337994437022
+26047,Emmet,Michigan,Solar PV (Utility),154.44296836451687
+26051,Gladwin,Michigan,Solar PV (Utility),153.0753535198278
+26065,Ingham,Michigan,Solar PV (Utility),153.03053368612814
+26069,Iosco,Michigan,Solar PV (Utility),149.65281640810508
+17131,Mercer,Illinois,Solar PV (Utility),147.06815613667573
+13191,McIntosh,Georgia,Solar PV (Utility),118.87419231945084
+31079,Hall,Nebraska,Solar PV (Utility),127.0199516370358
+31081,Hamilton,Nebraska,Solar PV (Utility),129.33949290626728
+31083,Harlan,Nebraska,Solar PV (Utility),121.19293358868237
+31087,Hitchcock,Nebraska,Solar PV (Utility),116.99754938721584
+31099,Kearney,Nebraska,Solar PV (Utility),123.26876577256576
+31101,Keith,Nebraska,Solar PV (Utility),117.94567581175825
+31105,Kimball,Nebraska,Solar PV (Utility),114.9210172033324
+31109,Lancaster,Nebraska,Solar PV (Utility),133.11528868758714
+31115,Loup,Nebraska,Solar PV (Utility),125.01104920370183
+31119,Madison,Nebraska,Solar PV (Utility),132.14275234619492
+28091,Marion,Mississippi,Solar PV (Utility),123.5779046084633
+28097,Montgomery,Mississippi,Solar PV (Utility),125.56429712494743
+28101,Newton,Mississippi,Solar PV (Utility),124.48141119930607
+28109,Pearl River,Mississippi,Solar PV (Utility),122.67069801762052
+28119,Quitman,Mississippi,Solar PV (Utility),125.9829855450941
+28121,Rankin,Mississippi,Solar PV (Utility),124.28362194765765
+28129,Smith,Mississippi,Solar PV (Utility),124.10664261285909
+35041,Roosevelt,New Mexico,Solar PV (Utility),99.819134078053
+35043,Sandoval,New Mexico,Solar PV (Utility),98.29764981541516
+35049,Santa Fe,New Mexico,Solar PV (Utility),97.58883247622079
+35057,Torrance,New Mexico,Solar PV (Utility),96.53145646742925
+35061,Valencia,New Mexico,Solar PV (Utility),98.16339031431622
+36007,Broome,New York,Solar PV (Utility),160.91167400151517
+36011,Cayuga,New York,Solar PV (Utility),156.93718896854693
+36013,Chautauqua,New York,Solar PV (Utility),157.4678269729427
+36019,Clinton,New York,Solar PV (Utility),153.14008327037723
+36027,Dutchess,New York,Solar PV (Utility),162.92217643484915
+36033,Franklin,New York,Solar PV (Utility),155.12747578686137
+36035,Fulton,New York,Solar PV (Utility),158.9689013187307
+36039,Greene,New York,Solar PV (Utility),160.40434591396925
+40131,Rogers,Oklahoma,Solar PV (Utility),126.73332271798807
+40135,Sequoyah,Oklahoma,Solar PV (Utility),127.88263839417894
+40137,Stephens,Oklahoma,Solar PV (Utility),117.59241714216107
+40143,Tulsa,Oklahoma,Solar PV (Utility),125.47455745754816
+40145,Wagoner,Oklahoma,Solar PV (Utility),126.44669379894037
+40149,Washita,Oklahoma,Solar PV (Utility),114.08324036303912
+41003,Benton,Oregon,Solar PV (Utility),162.01596984400638
+41005,Clackamas,Oregon,Solar PV (Utility),157.02652863594625
+41011,Coos,Oregon,Solar PV (Utility),154.57552786561575
+41013,Crook,Oregon,Solar PV (Utility),126.4704037157902
+41021,Gilliam,Oregon,Solar PV (Utility),132.3206316809935
+41027,Hood River,Oregon,Solar PV (Utility),147.71004372532065
+26075,Jackson,Michigan,Solar PV (Utility),153.295252688326
+26079,Kalkaska,Michigan,Solar PV (Utility),156.05419229455399
+26081,Kent,Michigan,Solar PV (Utility),152.74260476708042
+26087,Lapeer,Michigan,Solar PV (Utility),154.90737661836312
+26093,Livingston,Michigan,Solar PV (Utility),152.83064443447972
+26095,Luce,Michigan,Solar PV (Utility),155.5681741238579
+26099,Macomb,Michigan,Solar PV (Utility),155.10656587001156
+26101,Manistee,Michigan,Solar PV (Utility),155.39199478905925
+26115,Monroe,Michigan,Solar PV (Utility),153.51705185682425
+28137,Tate,Mississippi,Solar PV (Utility),128.125147479527
+28141,Tishomingo,Mississippi,Solar PV (Utility),129.27246315571782
+28143,Tunica,Mississippi,Solar PV (Utility),127.52937972458174
+28153,Wayne,Mississippi,Solar PV (Utility),123.20083602201632
+28155,Webster,Mississippi,Solar PV (Utility),126.02730537879374
+28157,Wilkinson,Mississippi,Solar PV (Utility),123.35550543996506
+28163,Yazoo,Mississippi,Solar PV (Utility),124.10564261285909
+29007,Audrain,Missouri,Solar PV (Utility),137.04545388685577
+29017,Bollinger,Missouri,Solar PV (Utility),134.04310519527974
+29023,Butler,Missouri,Solar PV (Utility),131.9456630945465
+29029,Camden,Missouri,Solar PV (Utility),134.6836927839246
+29035,Carter,Missouri,Solar PV (Utility),132.98172918648817
+29041,Chariton,Missouri,Solar PV (Utility),138.1939695630466
+29045,Clark,Missouri,Solar PV (Utility),141.9914752612163
+36041,Hamilton,New York,Solar PV (Utility),157.22621788759463
+36045,Jefferson,New York,Solar PV (Utility),154.42145844766702
+36051,Livingston,New York,Solar PV (Utility),155.50184437330836
+36055,Monroe,New York,Solar PV (Utility),154.5976377824656
+36059,Nassau,New York,Solar PV (Utility),166.36642346342165
+36063,Niagara,New York,Solar PV (Utility),155.41430470590907
+36071,Orange,New York,Solar PV (Utility),163.89311277624137
+36073,Orleans,New York,Solar PV (Utility),154.33331878026772
+36075,Oswego,New York,Solar PV (Utility),157.0938583864957
+48435,Sutton,Texas,Solar PV (Utility),113.68636185974228
+48437,Swisher,Texas,Solar PV (Utility),104.3029471985672
+48441,Taylor,Texas,Solar PV (Utility),110.13046524692066
+48447,Throckmorton,Texas,Solar PV (Utility),112.64719576780055
+48451,Tom Green,Texas,Solar PV (Utility),108.67361073483231
+48453,Travis,Texas,Solar PV (Utility),121.30178317293145
+48457,Tyler,Texas,Solar PV (Utility),125.1662186216506
+48467,Van Zandt,Texas,Solar PV (Utility),123.26706577256576
+48469,Victoria,Texas,Solar PV (Utility),122.86978726926894
+48477,Washington,Texas,Solar PV (Utility),123.02515668721772
+48483,Wheeler,Texas,Solar PV (Utility),109.38122807402665
+48485,Wichita,Texas,Solar PV (Utility),114.72292795168399
+48489,Willacy,Texas,Solar PV (Utility),117.21774855571408
+48499,Wood,Texas,Solar PV (Utility),123.55589469161347
+49001,Beaver,Utah,Solar PV (Utility),104.10235794691879
+49007,Carbon,Utah,Solar PV (Utility),107.9225735619383
+26071,Iron,Michigan,Solar PV (Utility),155.21641545426067
+26125,Oakland,Michigan,Solar PV (Utility),154.5083981150663
+26131,Ontonagon,Michigan,Solar PV (Utility),155.12887578686139
+26135,Oscoda,Michigan,Solar PV (Utility),151.24093042129243
+26145,Saginaw,Michigan,Solar PV (Utility),153.05144360297794
+26147,St. Clair,Michigan,Solar PV (Utility),155.56827412385786
+26157,Tuscola,Michigan,Solar PV (Utility),153.42761218942496
+29047,Clay,Missouri,Solar PV (Utility),136.60415554985929
+29051,Cole,Missouri,Solar PV (Utility),136.3168266308116
+29055,Crawford,Missouri,Solar PV (Utility),135.47664979051828
+29057,Dade,Missouri,Solar PV (Utility),131.7682837597479
+29061,Daviess,Missouri,Solar PV (Utility),138.08171997879748
+29067,Douglas,Missouri,Solar PV (Utility),131.19322592165247
+29073,Gasconade,Missouri,Solar PV (Utility),136.20677704656248
+29077,Greene,Missouri,Solar PV (Utility),131.43643500700054
+29079,Grundy,Missouri,Solar PV (Utility),138.98732656964023
+29087,Holt,Missouri,Solar PV (Utility),136.27220679711192
+37011,Avery,North Carolina,Solar PV (Utility),130.73051766780617
+37013,Beaufort,North Carolina,Solar PV (Utility),135.3015704557197
+37019,Brunswick,North Carolina,Solar PV (Utility),126.13725496304286
+37025,Cabarrus,North Carolina,Solar PV (Utility),125.01124920370184
+13223,Paulding,Georgia,Solar PV (Utility),125.23284837220008
+36081,Queens,New York,Solar PV (Utility),168.81552423375206
+36087,Rockland,New York,Solar PV (Utility),165.6816160410771
+36089,St. Lawrence,New York,Solar PV (Utility),154.46647828136668
+36093,Schenectady,New York,Solar PV (Utility),156.62905013264938
+36099,Seneca,New York,Solar PV (Utility),155.9882625440045
+36103,Suffolk,New York,Solar PV (Utility),160.95739383521484
+36107,Tioga,New York,Solar PV (Utility),157.77746580884025
+36117,Wayne,New York,Solar PV (Utility),154.99461628576242
+42017,Bucks,Pennsylvania,Solar PV (Utility),158.1970542289869
+42023,Cameron,Pennsylvania,Solar PV (Utility),158.3965434806353
+45079,Richland,South Carolina,Solar PV (Utility),123.17842610516645
+45083,Spartanburg,South Carolina,Solar PV (Utility),122.11865009637494
+45085,Sumter,South Carolina,Solar PV (Utility),123.02395668721772
+45089,Williamsburg,South Carolina,Solar PV (Utility),123.48916494106402
+46005,Beadle,South Dakota,Solar PV (Utility),136.3388365476614
+46011,Brookings,South Dakota,Solar PV (Utility),139.8723232436332
+46019,Butte,South Dakota,Solar PV (Utility),124.65989053410466
+46023,Charles Mix,South Dakota,Solar PV (Utility),132.67249035059066
+46033,Custer,South Dakota,Solar PV (Utility),119.64693940919469
+46039,Deuel,South Dakota,Solar PV (Utility),140.66478025022684
+46041,Dewey,South Dakota,Solar PV (Utility),130.99503667000408
+46045,Edmunds,South Dakota,Solar PV (Utility),135.83010846011547
+46051,Grant,South Dakota,Solar PV (Utility),141.7265562590184
+46059,Hand,South Dakota,Solar PV (Utility),134.88018203557303
+26159,Van Buren,Michigan,Solar PV (Utility),155.52465429015822
+26163,Wayne,Michigan,Solar PV (Utility),154.64125761616526
+27001,Aitkin,Minnesota,Solar PV (Utility),153.16159318722708
+27003,Anoka,Minnesota,Solar PV (Utility),152.61154526598148
+27011,Big Stone,Minnesota,Solar PV (Utility),143.780178526052
+27017,Carlton,Minnesota,Solar PV (Utility),153.5607716905239
+27025,Chisago,Minnesota,Solar PV (Utility),153.71514110847266
+27035,Crow Wing,Minnesota,Solar PV (Utility),152.167946928985
+27037,Dakota,Minnesota,Solar PV (Utility),153.8477006095716
+27041,Douglas,Minnesota,Solar PV (Utility),148.48139081506446
+27043,Faribault,Minnesota,Solar PV (Utility),149.05574865315987
+27045,Fillmore,Minnesota,Solar PV (Utility),151.1528907538931
+27053,Hennepin,Minnesota,Solar PV (Utility),152.2564865963843
+27059,Isanti,Minnesota,Solar PV (Utility),152.34452626378356
+37035,Catawba,North Carolina,Solar PV (Utility),125.67444670919656
+37037,Chatham,North Carolina,Solar PV (Utility),129.1848234883185
+37039,Cherokee,North Carolina,Solar PV (Utility),128.27991689747574
+37041,Chowan,North Carolina,Solar PV (Utility),135.54397954106776
+37047,Columbus,North Carolina,Solar PV (Utility),126.29182438099161
+37059,Davie,North Carolina,Solar PV (Utility),127.19783097183436
+37061,Duplin,North Carolina,Solar PV (Utility),131.0175465868539
+37065,Edgecombe,North Carolina,Solar PV (Utility),132.76203001798996
+37069,Franklin,North Carolina,Solar PV (Utility),131.03945650370372
+37071,Gaston,North Carolina,Solar PV (Utility),124.01730294545976
+37075,Graham,North Carolina,Solar PV (Utility),128.0599177289775
+37077,Granville,North Carolina,Solar PV (Utility),131.37050525645105
+37083,Halifax,North Carolina,Solar PV (Utility),132.91689943593872
+37087,Haywood,North Carolina,Solar PV (Utility),126.3585541315411
+42027,Centre,Pennsylvania,Solar PV (Utility),153.51695185682425
+42029,Chester,Pennsylvania,Solar PV (Utility),152.47918576488254
+42033,Clearfield,Pennsylvania,Solar PV (Utility),156.29790137990202
+42039,Crawford,Pennsylvania,Solar PV (Utility),157.86630547623952
+42045,Delaware,Pennsylvania,Solar PV (Utility),153.5593716905239
+42049,Erie,Pennsylvania,Solar PV (Utility),157.5772765571918
+42051,Fayette,Pennsylvania,Solar PV (Utility),153.4713320231246
+42055,Franklin,Pennsylvania,Solar PV (Utility),150.82204200114577
+42061,Huntingdon,Pennsylvania,Solar PV (Utility),153.1635931872271
+42067,Juniata,Pennsylvania,Solar PV (Utility),154.81973695096383
+42073,Lawrence,Pennsylvania,Solar PV (Utility),156.98330880224657
+42079,Luzerne,Pennsylvania,Solar PV (Utility),159.16789057037914
+41029,Jackson,Oregon,Solar PV (Utility),129.9126507443627
+41033,Josephine,Oregon,Solar PV (Utility),134.4401836985766
+41039,Lane,Oregon,Solar PV (Utility),148.6152503161634
+41043,Linn,Oregon,Solar PV (Utility),152.544215515432
+41049,Morrow,Oregon,Solar PV (Utility),133.11448868758714
+41051,Multnomah,Oregon,Solar PV (Utility),173.69601585756314
+41059,Umatilla,Oregon,Solar PV (Utility),135.29997045571972
+41065,Wasco,Oregon,Solar PV (Utility),135.72135887586634
+41071,Yamhill,Oregon,Solar PV (Utility),167.3383598048139
+27063,Jackson,Minnesota,Solar PV (Utility),144.24228677989828
+27065,Kanabec,Minnesota,Solar PV (Utility),152.03718742788607
+27069,Kittson,Minnesota,Solar PV (Utility),153.31616260517583
+29105,Laclede,Missouri,Solar PV (Utility),133.53477710773382
+29111,Lewis,Missouri,Solar PV (Utility),140.22378191323037
+29119,McDonald,Missouri,Solar PV (Utility),128.56634581652347
+29125,Maries,Missouri,Solar PV (Utility),135.89753821066495
+29129,Mercer,Missouri,Solar PV (Utility),139.87092324363317
+29139,Montgomery,Missouri,Solar PV (Utility),136.5810456330095
+29141,Morgan,Missouri,Solar PV (Utility),135.5002597073681
+29147,Nodaway,Missouri,Solar PV (Utility),136.82325471835753
+29153,Ozark,Missouri,Solar PV (Utility),131.61401434179913
+29157,Perry,Missouri,Solar PV (Utility),135.80809854326563
+29161,Phelps,Missouri,Solar PV (Utility),135.12539112092108
+29167,Polk,Missouri,Solar PV (Utility),132.8719796022391
+37095,Hyde,North Carolina,Solar PV (Utility),136.1621572128628
+37099,Jackson,North Carolina,Solar PV (Utility),123.70816410956225
+37105,Lee,North Carolina,Solar PV (Utility),128.43518631542452
+37111,McDowell,North Carolina,Solar PV (Utility),125.25575828904992
+37115,Madison,North Carolina,Solar PV (Utility),131.03955650370372
+37121,Mitchell,North Carolina,Solar PV (Utility),131.43573500700055
+37129,New Hanover,North Carolina,Solar PV (Utility),128.89739456927083
+37135,Orange,North Carolina,Solar PV (Utility),130.24449949711004
+37139,Pasquotank,North Carolina,Solar PV (Utility),133.11498868758716
+37143,Perquimans,North Carolina,Solar PV (Utility),133.99728536158008
+37147,Pitt,North Carolina,Solar PV (Utility),133.7989961099317
+37153,Richmond,North Carolina,Solar PV (Utility),126.60116321688915
+42085,Mercer,Pennsylvania,Solar PV (Utility),157.26863772129428
+42089,Monroe,Pennsylvania,Solar PV (Utility),161.41890208906113
+42095,Northampton,Pennsylvania,Solar PV (Utility),160.49358558136856
+42101,Philadelphia,Pennsylvania,Solar PV (Utility),155.47973445645857
+42109,Snyder,Pennsylvania,Solar PV (Utility),156.16564187880311
+42111,Somerset,Pennsylvania,Solar PV (Utility),152.67697501653095
+42115,Susquehanna,Pennsylvania,Solar PV (Utility),161.22171283741272
+42119,Union,Pennsylvania,Solar PV (Utility),156.25268154620238
+42121,Venango,Pennsylvania,Solar PV (Utility),157.84429555938968
+42125,Washington,Pennsylvania,Solar PV (Utility),152.65606509968114
+42133,York,Pennsylvania,Solar PV (Utility),150.42526349784893
+49009,Daggett,Utah,Solar PV (Utility),111.21345117256202
+49013,Duchesne,Utah,Solar PV (Utility),109.86584624472277
+49019,Grand,Utah,Solar PV (Utility),106.28843971505134
+49023,Juab,Utah,Solar PV (Utility),109.99910574582171
+48001,Anderson,Texas,Solar PV (Utility),123.7756938601117
+48013,Atascosa,Texas,Solar PV (Utility),120.81686500223535
+48015,Austin,Texas,Solar PV (Utility),123.1353062714668
+48017,Bailey,Texas,Solar PV (Utility),101.62984725973853
+48023,Baylor,Texas,Solar PV (Utility),112.62528585095073
+48025,Bee,Texas,Solar PV (Utility),121.59051209197916
+48029,Bexar,Texas,Solar PV (Utility),122.56064843337143
+48033,Borden,Texas,Solar PV (Utility),104.81017528611315
+48035,Bosque,Texas,Solar PV (Utility),119.07188157109927
+48039,Brazoria,Texas,Solar PV (Utility),121.56830217512933
+29171,Putnam,Missouri,Solar PV (Utility),139.73906374253428
+29175,Randolph,Missouri,Solar PV (Utility),137.37680263960308
+29177,Ray,Missouri,Solar PV (Utility),137.24444313850418
+29181,Ripley,Missouri,Solar PV (Utility),132.10043251249527
+29186,Ste. Genevieve,Missouri,Solar PV (Utility),135.6089092916172
+29187,St. Francois,Missouri,Solar PV (Utility),134.5497332828257
+29197,Schuyler,Missouri,Solar PV (Utility),139.96036291103252
+29203,Shannon,Missouri,Solar PV (Utility),133.0719688538875
+29207,Stoddard,Missouri,Solar PV (Utility),132.5404308494917
+29213,Taney,Missouri,Solar PV (Utility),131.06056642055353
+29219,Warren,Missouri,Solar PV (Utility),137.19932330480452
+29225,Webster,Missouri,Solar PV (Utility),131.4143250901507
+29510,St. Louis,Missouri,Solar PV (Utility),138.7241075674424
+30003,Big Horn,Montana,Solar PV (Utility),126.9326119696365
+37159,Rowan,North Carolina,Solar PV (Utility),126.16006487989267
+37163,Sampson,North Carolina,Solar PV (Utility),129.8023011601136
+37169,Stokes,North Carolina,Solar PV (Utility),129.73687140956412
+37175,Transylvania,North Carolina,Solar PV (Utility),122.31943934802335
+39061,Hamilton,Ohio,Solar PV (Utility),141.0847686703735
+39071,Highland,Ohio,Solar PV (Utility),141.9236455106668
+39077,Huron,Ohio,Solar PV (Utility),152.98621385242848
+39081,Jefferson,Ohio,Solar PV (Utility),153.05154360297794
+39087,Lawrence,Ohio,Solar PV (Utility),143.58018927440355
+39093,Lorain,Ohio,Solar PV (Utility),154.24447911286842
+39099,Mahoning,Ohio,Solar PV (Utility),154.3117088634179
+39101,Marion,Ohio,Solar PV (Utility),151.0661510864938
+44001,Bristol,Rhode Island,Solar PV (Utility),160.40344591396925
+44003,Kent,Rhode Island,Solar PV (Utility),159.10276081982965
+44005,Newport,Rhode Island,Solar PV (Utility),160.14042691177133
+45001,Abbeville,South Carolina,Solar PV (Utility),121.25756333923181
+45003,Aiken,South Carolina,Solar PV (Utility),122.62837818392087
+45007,Anderson,South Carolina,Solar PV (Utility),121.12670383813285
+45017,Calhoun,South Carolina,Solar PV (Utility),122.78304760186965
+45023,Chester,South Carolina,Solar PV (Utility),123.44554510736437
+45025,Chesterfield,South Carolina,Solar PV (Utility),124.43889136560642
+46063,Harding,South Dakota,Solar PV (Utility),125.38781779014884
+46065,Hughes,South Dakota,Solar PV (Utility),133.31427793923555
+46069,Hyde,South Dakota,Solar PV (Utility),133.93095561103064
+46075,Jones,South Dakota,Solar PV (Utility),128.876084652421
+46079,Lake,South Dakota,Solar PV (Utility),138.54672823264374
+46085,Lyman,South Dakota,Solar PV (Utility),131.70085400919842
+46093,Meade,South Dakota,Solar PV (Utility),125.25565828904992
+46097,Miner,South Dakota,Solar PV (Utility),137.7082513923505
+46101,Moody,South Dakota,Solar PV (Utility),140.09082241213142
+46113,Shannon,South Dakota,Solar PV (Utility),122.11855009637493
+46115,Spink,South Dakota,Solar PV (Utility),138.52451831579393
+46117,Stanley,South Dakota,Solar PV (Utility),130.753427584656
+46121,Todd,South Dakota,Solar PV (Utility),125.05566903740149
+46127,Union,South Dakota,Solar PV (Utility),138.56733814949362
+30005,Blaine,Montana,Solar PV (Utility),135.25635062202005
+30009,Carbon,Montana,Solar PV (Utility),124.94601945315236
+30015,Chouteau,Montana,Solar PV (Utility),135.23564070517023
+30019,Daniels,Montana,Solar PV (Utility),136.75782496780806
+30023,Deer Lodge,Montana,Solar PV (Utility),124.28432194765765
+30029,Flathead,Montana,Solar PV (Utility),140.5119108322781
+30035,Glacier,Montana,Solar PV (Utility),135.83160846011546
+30041,Hill,Montana,Solar PV (Utility),135.8741282938151
+31129,Nuckolls,Nebraska,Solar PV (Utility),126.24850454729197
+31133,Pawnee,Nebraska,Solar PV (Utility),132.27571184729385
+31141,Platte,Nebraska,Solar PV (Utility),132.73932010114015
+19007,Appanoose,Iowa,Solar PV (Utility),140.7310100007763
+19011,Benton,Iowa,Solar PV (Utility),147.28845530517398
+19015,Boone,Iowa,Solar PV (Utility),143.29436035535588
+19019,Buchanan,Iowa,Solar PV (Utility),148.283901563416
+19023,Butler,Iowa,Solar PV (Utility),148.0619023949178
+19027,Carroll,Iowa,Solar PV (Utility),140.1582521626809
+19033,Cerro Gordo,Iowa,Solar PV (Utility),148.9010792352111
+17081,Jefferson,Illinois,Solar PV (Utility),138.17015964619677
+17091,Kankakee,Illinois,Solar PV (Utility),153.75776094217233
+17093,Kendall,Illinois,Solar PV (Utility),153.95695019382072
+17099,LaSalle,Illinois,Solar PV (Utility),150.73280233374643
+17101,Lawrence,Illinois,Solar PV (Utility),139.29606540553777
+17105,Livingston,Illinois,Solar PV (Utility),149.49864699015635
+17109,McDonough,Illinois,Solar PV (Utility),143.8899281103011
+17111,McHenry,Illinois,Solar PV (Utility),154.99461628576242
+17117,Macoupin,Illinois,Solar PV (Utility),140.22428191323039
+17125,Mason,Illinois,Solar PV (Utility),143.84450827660146
+17127,Massac,Illinois,Solar PV (Utility),135.71975887586635
+13185,Lowndes,Georgia,Solar PV (Utility),120.33044683153922
+13189,McDuffie,Georgia,Solar PV (Utility),121.85443109417704
+13195,Madison,Georgia,Solar PV (Utility),121.72177159307812
+13199,Meriwether,Georgia,Solar PV (Utility),122.67179801762052
+13205,Mitchell,Georgia,Solar PV (Utility),119.44915015754627
+13209,Montgomery,Georgia,Solar PV (Utility),119.93356832824239
+13213,Murray,Georgia,Solar PV (Utility),128.08192764582734
+13221,Oglethorpe,Georgia,Solar PV (Utility),121.83232117732723
+13229,Pierce,Georgia,Solar PV (Utility),120.95062450333428
+13231,Pike,Georgia,Solar PV (Utility),122.36185918172299
+13235,Pulaski,Georgia,Solar PV (Utility),119.71316915974414
+13241,Rabun,Georgia,Solar PV (Utility),122.58295835022125
+13247,Rockdale,Georgia,Solar PV (Utility),123.37811535681489
+13255,Spalding,Georgia,Solar PV (Utility),122.97993685351807
+13257,Stephens,Georgia,Solar PV (Utility),121.3255930897813
+13267,Tattnall,Georgia,Solar PV (Utility),120.86098483593499
+13269,Taylor,Georgia,Solar PV (Utility),122.20718976377424
+20183,Smith,Kansas,Solar PV (Utility),122.18707984692442
+20187,Stanton,Kansas,Solar PV (Utility),108.36507189893477
+20189,Stevens,Kansas,Solar PV (Utility),108.98284957072983
+20197,Wabaunsee,Kansas,Solar PV (Utility),129.0733739040694
+20207,Woodson,Kansas,Solar PV (Utility),128.83206481872136
+21191,Pendleton,Kentucky,Solar PV (Utility),139.34118523923743
+21193,Perry,Kentucky,Solar PV (Utility),140.79733975132578
+21201,Robertson,Kentucky,Solar PV (Utility),138.87707698539114
+21205,Rowan,Kentucky,Solar PV (Utility),140.29111166377984
+21207,Russell,Kentucky,Solar PV (Utility),135.2341407051702
+21217,Taylor,Kentucky,Solar PV (Utility),135.78538862641582
+21221,Trigg,Kentucky,Solar PV (Utility),134.5714431996755
+21231,Wayne,Kentucky,Solar PV (Utility),135.03505145352182
+21233,Webster,Kentucky,Solar PV (Utility),135.76457870956597
+21237,Wolfe,Kentucky,Solar PV (Utility),140.97491908612437
+21239,Woodford,Kentucky,Solar PV (Utility),135.5870993747674
+22005,Ascension,Louisiana,Solar PV (Utility),122.49511868282192
+22091,St. Helena,Louisiana,Solar PV (Utility),123.64423435901277
+22093,St. James,Louisiana,Solar PV (Utility),122.38406909857282
+22097,St. Landry,Louisiana,Solar PV (Utility),122.91530710296858
+22099,St. Martin,Louisiana,Solar PV (Utility),122.07573026267528
+22103,St. Tammany,Louisiana,Solar PV (Utility),120.83957491908515
+22113,Vermilion,Louisiana,Solar PV (Utility),119.71286915974414
+22117,Washington,Louisiana,Solar PV (Utility),122.91420710296859
+21011,Bath,Kentucky,Solar PV (Utility),138.98772656964024
+21013,Bell,Kentucky,Solar PV (Utility),135.45493987366845
+21015,Boone,Kentucky,Solar PV (Utility),140.5334207491279
+21027,Breckinridge,Kentucky,Solar PV (Utility),136.27150679711193
+21029,Bullitt,Kentucky,Solar PV (Utility),137.7284613092003
+17133,Monroe,Illinois,Solar PV (Utility),137.66443155865085
+17137,Morgan,Illinois,Solar PV (Utility),140.8876794187251
+17141,Ogle,Illinois,Solar PV (Utility),152.10301717843552
+17143,Peoria,Illinois,Solar PV (Utility),146.7602173007782
+17147,Piatt,Illinois,Solar PV (Utility),145.10437353704143
+17153,Pulaski,Illinois,Solar PV (Utility),135.36800020626916
+17159,Richland,Illinois,Solar PV (Utility),138.69989765059253
+17165,Saline,Illinois,Solar PV (Utility),137.00143405315612
+17167,Sangamon,Illinois,Solar PV (Utility),142.0124851780661
+17177,Stephenson,Illinois,Solar PV (Utility),152.34692626378356
+17183,Vermilion,Illinois,Solar PV (Utility),146.7600173007782
+17191,Wayne,Illinois,Solar PV (Utility),138.3255290641455
+17195,Whiteside,Illinois,Solar PV (Utility),150.53631308209808
+17197,Will,Illinois,Solar PV (Utility),155.72394354180662
+18001,Adams,Indiana,Solar PV (Utility),149.1010684868595
+13275,Thomas,Georgia,Solar PV (Utility),119.53578982494557
+13279,Toombs,Georgia,Solar PV (Utility),119.97918816194203
+13281,Towns,Georgia,Solar PV (Utility),124.01800294545977
+13289,Twiggs,Georgia,Solar PV (Utility),120.72912533483603
+13295,Walker,Georgia,Solar PV (Utility),127.64002930883083
+13301,Warren,Georgia,Solar PV (Utility),121.50197242457988
+20035,Cowley,Kansas,Solar PV (Utility),123.06827652091737
+20041,Dickinson,Kansas,Solar PV (Utility),125.43053762384851
+20047,Edwards,Kansas,Solar PV (Utility),115.01065687073171
+20051,Ellis,Kansas,Solar PV (Utility),118.05632539600737
+20053,Ellsworth,Kansas,Solar PV (Utility),120.59716583373711
+20057,Ford,Kansas,Solar PV (Utility),112.80186518574934
+20063,Gove,Kansas,Solar PV (Utility),114.32664944838717
+20073,Greenwood,Kansas,Solar PV (Utility),126.09463512934322
+20077,Harper,Kansas,Solar PV (Utility),118.69861298465226
+20079,Harvey,Kansas,Solar PV (Utility),122.76003768501982
+20087,Jefferson,Kansas,Solar PV (Utility),134.1078349458292
+22011,Beauregard,Louisiana,Solar PV (Utility),125.09988887110113
+22015,Bossier,Louisiana,Solar PV (Utility),126.11494504619304
+22017,Caddo,Louisiana,Solar PV (Utility),125.5191772912478
+22023,Cameron,Louisiana,Solar PV (Utility),120.0450179124915
+22031,De Soto,Louisiana,Solar PV (Utility),125.4304376238485
+22035,East Carroll,Louisiana,Solar PV (Utility),123.73097402641207
+22041,Franklin,Louisiana,Solar PV (Utility),124.10714261285909
+22043,Grant,Louisiana,Solar PV (Utility),124.52673103300572
+22049,Jackson,Louisiana,Solar PV (Utility),125.36510787329901
+22051,Jefferson,Louisiana,Solar PV (Utility),118.89700223630068
+22055,Lafayette,Louisiana,Solar PV (Utility),122.09744017952512
+21035,Calloway,Kentucky,Solar PV (Utility),134.02109527842993
+21039,Carlisle,Kentucky,Solar PV (Utility),133.7983961099317
+21041,Carroll,Kentucky,Solar PV (Utility),138.65657781689288
+21045,Casey,Kentucky,Solar PV (Utility),135.6993489590165
+21057,Cumberland,Kentucky,Solar PV (Utility),134.8374622018734
+21065,Estill,Kentucky,Solar PV (Utility),138.9664166527904
+21067,Fayette,Kentucky,Solar PV (Utility),136.93400430260664
+21071,Floyd,Kentucky,Solar PV (Utility),144.48489586524633
+21079,Garrard,Kentucky,Solar PV (Utility),136.2489968802621
+21083,Graves,Kentucky,Solar PV (Utility),133.37990768978503
+21085,Grayson,Kentucky,Solar PV (Utility),135.43332995681862
+21091,Hancock,Kentucky,Solar PV (Utility),136.3617464645112
+21097,Harrison,Kentucky,Solar PV (Utility),137.8401108934494
+21101,Henderson,Kentucky,Solar PV (Utility),136.51431588245998
+21107,Hopkins,Kentucky,Solar PV (Utility),135.36740020626917
+48267,Kimble,Texas,Solar PV (Utility),113.59792219234298
+48271,Kinney,Texas,Solar PV (Utility),119.77879891029362
+48277,Lamar,Texas,Solar PV (Utility),124.26081203080784
+48281,Lampasas,Texas,Solar PV (Utility),116.24741221432183
+48285,Lavaca,Texas,Solar PV (Utility),122.84837735241912
+48287,Lee,Texas,Solar PV (Utility),122.362359181723
+48291,Liberty,Texas,Solar PV (Utility),124.32734178135732
+48293,Limestone,Texas,Solar PV (Utility),121.41223275718059
+48295,Lipscomb,Texas,Solar PV (Utility),109.44525782457613
+48301,Loving,Texas,Solar PV (Utility),101.63134725973853
+48305,Lynn,Texas,Solar PV (Utility),103.90566869527036
+48307,McCulloch,Texas,Solar PV (Utility),112.78005526889952
+48317,Martin,Texas,Solar PV (Utility),102.99876210442761
+48323,Maverick,Texas,Solar PV (Utility),117.35140805681301
+48327,Menard,Texas,Solar PV (Utility),112.16237759710444
+48331,Milam,Texas,Solar PV (Utility),121.74468150992793
+48333,Mills,Texas,Solar PV (Utility),114.43699903263628
+51800,Suffolk,Virginia,Solar PV (Utility),136.8032448015077
+51810,Virginia Beach,Virginia,Solar PV (Utility),138.06091006194762
+51840,Winchester,Virginia,Solar PV (Utility),143.55707935755376
+53001,Adams,Washington,Solar PV (Utility),135.25745062202006
+53003,Asotin,Washington,Solar PV (Utility),135.98487787806422
+53005,Benton,Washington,Solar PV (Utility),135.61100929161722
+53015,Cowlitz,Washington,Solar PV (Utility),179.08353556892013
+53017,Douglas,Washington,Solar PV (Utility),138.32472906414552
+53019,Ferry,Washington,Solar PV (Utility),143.09457110370744
+53023,Garfield,Washington,Solar PV (Utility),135.85221837696528
+53025,Grant,Washington,Solar PV (Utility),136.66878530040876
+51600,Fairfax,Virginia,Solar PV (Utility),140.4443810817286
+55101,Racine,Wisconsin,Solar PV (Utility),154.66276753301509
+55107,Rusk,Wisconsin,Solar PV (Utility),153.86871052642144
+55111,Sauk,Wisconsin,Solar PV (Utility),153.51655185682426
+55113,Sawyer,Wisconsin,Solar PV (Utility),154.53270803191614
+55119,Taylor,Wisconsin,Solar PV (Utility),153.60479152422354
+55123,Vernon,Wisconsin,Solar PV (Utility),152.19045684583483
+55125,Vilas,Wisconsin,Solar PV (Utility),155.3472749553596
+55133,Waukesha,Wisconsin,Solar PV (Utility),154.3772386139674
+55139,Winnebago,Wisconsin,Solar PV (Utility),154.33351878026772
+56003,Big Horn,Wyoming,Solar PV (Utility),118.3657642319049
+56009,Converse,Wyoming,Solar PV (Utility),115.16482628868044
+56017,Hot Springs,Wyoming,Solar PV (Utility),114.67940811798434
+56019,Johnson,Wyoming,Solar PV (Utility),116.37927171542077
+54023,Grant,West Virginia,Solar PV (Utility),145.98807021103437
+54025,Greenbrier,West Virginia,Solar PV (Utility),140.9762190861244
+54027,Hampshire,West Virginia,Solar PV (Utility),147.1362858872252
+54033,Harrison,West Virginia,Solar PV (Utility),150.0491949114019
+54037,Jefferson,West Virginia,Solar PV (Utility),144.905584285393
+54045,Logan,West Virginia,Solar PV (Utility),145.01453386964212
+54051,Marshall,West Virginia,Solar PV (Utility),151.64020892458922
+54053,Mason,West Virginia,Solar PV (Utility),145.655021458287
+54059,Mingo,West Virginia,Solar PV (Utility),146.27419913008205
+54065,Morgan,West Virginia,Solar PV (Utility),149.80638582605386
+54069,Ohio,West Virginia,Solar PV (Utility),151.83829817623763
+54075,Pocahontas,West Virginia,Solar PV (Utility),141.90313559381698
+48341,Moore,Texas,Solar PV (Utility),105.45036287475804
+54083,Randolph,West Virginia,Solar PV (Utility),147.20151563777466
+54087,Roane,West Virginia,Solar PV (Utility),148.12803214546727
+54091,Taylor,West Virginia,Solar PV (Utility),150.07070482825173
+54093,Tucker,West Virginia,Solar PV (Utility),148.32732139711564
+54097,Upshur,West Virginia,Solar PV (Utility),148.30561148026587
+54099,Wayne,West Virginia,Solar PV (Utility),144.4202661146969
+54103,Wetzel,West Virginia,Solar PV (Utility),151.55166925718993
+54105,Wirt,West Virginia,Solar PV (Utility),148.10572222861742
+54107,Wood,West Virginia,Solar PV (Utility),148.32802139711566
+55011,Buffalo,Wisconsin,Solar PV (Utility),153.71394110847265
+55013,Burnett,Wisconsin,Solar PV (Utility),154.3993485308172
+55019,Clark,Wisconsin,Solar PV (Utility),153.9128303601211
+55021,Columbia,Wisconsin,Solar PV (Utility),154.2884989465681
+55023,Crawford,Wisconsin,Solar PV (Utility),151.7711684256882
+53029,Island,Washington,Solar PV (Utility),183.89609744218166
+49039,Sanpete,Utah,Solar PV (Utility),109.60162724252488
+49043,Summit,Utah,Solar PV (Utility),111.87494867805674
+49045,Tooele,Utah,Solar PV (Utility),115.03316678758152
+49049,Utah,Utah,Solar PV (Utility),113.11220402164686
+49057,Weber,Utah,Solar PV (Utility),115.49517504142783
+50003,Bennington,Vermont,Solar PV (Utility),160.8467442509657
+50007,Chittenden,Vermont,Solar PV (Utility),154.44386836451687
+50011,Franklin,Vermont,Solar PV (Utility),157.2036079707448
+50015,Lamoille,Vermont,Solar PV (Utility),156.05589229455398
+50021,Rutland,Vermont,Solar PV (Utility),157.0713484696459
+56023,Lincoln,Wyoming,Solar PV (Utility),114.85608745278293
+51005,Alleghany,Virginia,Solar PV (Utility),137.48645222385224
+51011,Appomattox,Virginia,Solar PV (Utility),132.5179209326419
+51013,Arlington,Virginia,Solar PV (Utility),142.67588268356081
+51015,Augusta,Virginia,Solar PV (Utility),133.24694818868608
+51019,Bedford,Virginia,Solar PV (Utility),131.61251434179914
+51025,Brunswick,Virginia,Solar PV (Utility),133.6445266919829
+51031,Campbell,Virginia,Solar PV (Utility),131.8128035934475
+51033,Caroline,Virginia,Solar PV (Utility),138.90048690224094
+51036,Charles City,Virginia,Solar PV (Utility),138.3263290641455
+51045,Craig,Virginia,Solar PV (Utility),137.68644147550066
+51049,Cumberland,Virginia,Solar PV (Utility),134.79374236817375
+51051,Dickenson,Virginia,Solar PV (Utility),140.51161083227808
+54081,Raleigh,West Virginia,Solar PV (Utility),141.02033891982404
+51061,Fauquier,Virginia,Solar PV (Utility),140.75421991762613
+51067,Franklin,Virginia,Solar PV (Utility),132.16466226304473
+51069,Frederick,Virginia,Solar PV (Utility),144.66247520004495
+51073,Gloucester,Virginia,Solar PV (Utility),138.3246290641455
+51081,Greensville,Virginia,Solar PV (Utility),134.37255394802708
+51085,Hanover,Virginia,Solar PV (Utility),137.66373155865085
+51091,Highland,Virginia,Solar PV (Utility),136.84666463520736
+51095,James City,Virginia,Solar PV (Utility),137.66323155865084
+51103,Lancaster,Virginia,Solar PV (Utility),139.71605382568444
+49037,San Juan,Utah,Solar PV (Utility),102.11616543043465
+51119,Middlesex,Virginia,Solar PV (Utility),139.64972407513494
+50025,Windham,Vermont,Solar PV (Utility),158.7930219839321
+53037,Kittitas,Washington,Solar PV (Utility),140.00478274473215
+53039,Klickitat,Washington,Solar PV (Utility),135.8749282938151
+53059,Skamania,Washington,Solar PV (Utility),159.49813932312648
+53075,Whitman,Washington,Solar PV (Utility),137.97317039454836
+54017,Doddridge,West Virginia,Solar PV (Utility),151.26304033814225
+54029,Hancock,West Virginia,Solar PV (Utility),154.6861774498649
+54043,Lincoln,West Virginia,Solar PV (Utility),145.23533303814037
+54055,Mercer,West Virginia,Solar PV (Utility),137.7290613092003
+54073,Pleasants,West Virginia,Solar PV (Utility),150.60184283264755
+54085,Ritchie,West Virginia,Solar PV (Utility),150.35873374729948
+54095,Tyler,West Virginia,Solar PV (Utility),151.81568825938783
+51057,Essex,Virginia,Solar PV (Utility),139.82700340993352
+51115,Mathews,Virginia,Solar PV (Utility),138.47889848209428
+22095,St. John the Baptist,Louisiana,Solar PV (Utility),121.0592740875834
+22111,Union,Louisiana,Solar PV (Utility),125.67374670919656
+21001,Adair,Kentucky,Solar PV (Utility),135.01284153667197
+21005,Anderson,Kentucky,Solar PV (Utility),135.74236879271618
+21007,Ballard,Kentucky,Solar PV (Utility),134.4837035322762
+21019,Boyd,Kentucky,Solar PV (Utility),142.91719176890885
+21037,Campbell,Kentucky,Solar PV (Utility),140.51221083227807
+21049,Clark,Kentucky,Solar PV (Utility),137.8402108934494
+21061,Edmonson,Kentucky,Solar PV (Utility),135.38911012311897
+21069,Fleming,Kentucky,Solar PV (Utility),138.34843898099538
+21081,Grant,Kentucky,Solar PV (Utility),139.0110364864901
+21093,Hardin,Kentucky,Solar PV (Utility),135.89713821066496
+21109,Jackson,Kentucky,Solar PV (Utility),137.88433072714906
+21125,Laurel,Kentucky,Solar PV (Utility),136.86947455205717
+21131,Leslie,Kentucky,Solar PV (Utility),138.54542823264376
+40037,Creek,Oklahoma,Solar PV (Utility),124.01940294545977
+40047,Garfield,Oklahoma,Solar PV (Utility),119.44695015754627
+37183,Wake,North Carolina,Solar PV (Utility),130.4868085824581
+37187,Washington,North Carolina,Solar PV (Utility),136.40576629821086
+38003,Barnes,North Dakota,Solar PV (Utility),144.529315698946
+38013,Burke,North Dakota,Solar PV (Utility),143.80138844290184
+38025,Dunn,North Dakota,Solar PV (Utility),135.72135887586634
+38041,Hettinger,North Dakota,Solar PV (Utility),131.34879533960125
+38055,McLean,North Dakota,Solar PV (Utility),140.1372422458311
+38069,Pierce,North Dakota,Solar PV (Utility),144.44137603154672
+38087,Slope,North Dakota,Solar PV (Utility),129.1843234883185
+38095,Towner,North Dakota,Solar PV (Utility),148.23858172971637
+39009,Athens,Ohio,Solar PV (Utility),147.26834538832415
+39021,Champaign,Ohio,Solar PV (Utility),145.72095120883648
+54109,Wyoming,West Virginia,Solar PV (Utility),141.79128600956787
+55015,Calumet,Wisconsin,Solar PV (Utility),153.95725019382073
+55027,Dodge,Wisconsin,Solar PV (Utility),154.6852774498649
+49027,Millard,Utah,Solar PV (Utility),107.81192397768916
+49033,Rich,Utah,Solar PV (Utility),113.13411393849668
+49041,Sevier,Utah,Solar PV (Utility),107.6580545597404
+49055,Wayne,Utah,Solar PV (Utility),105.2285637062598
+50013,Grand Isle,Vermont,Solar PV (Utility),157.97535506048865
+51003,Albemarle,Virginia,Solar PV (Utility),136.16265721286283
+51009,Amherst,Virginia,Solar PV (Utility),132.0561126787956
+51023,Botetourt,Virginia,Solar PV (Utility),133.8429159436313
+51035,Carroll,Virginia,Solar PV (Utility),133.68954652568254
+51053,Dinwiddie,Virginia,Solar PV (Utility),134.88098203557303
+51065,Fluvanna,Virginia,Solar PV (Utility),136.890284468907
+1003,Baldwin,Alabama,Solar PV (Utility),120.52913608318764
+1027,Clay,Alabama,Solar PV (Utility),126.20538471359232
+1041,Crenshaw,Alabama,Solar PV (Utility),121.87634101102688
+1057,Fayette,Alabama,Solar PV (Utility),126.46980371579019
+1073,Jefferson,Alabama,Solar PV (Utility),127.06467147073545
+1091,Marengo,Alabama,Solar PV (Utility),122.98023685351806
+1103,Morgan,Alabama,Solar PV (Utility),129.36140282311712
+1115,St. Clair,Alabama,Solar PV (Utility),127.04216155388562
+1129,Washington,Alabama,Solar PV (Utility),122.67169801762051
+21147,McCreary,Kentucky,Solar PV (Utility),135.56508945791757
+21165,Menifee,Kentucky,Solar PV (Utility),140.7107000839265
+21181,Nicholas,Kentucky,Solar PV (Utility),137.50966214070206
+19041,Clay,Iowa,Solar PV (Utility),142.9848215194583
+19043,Clayton,Iowa,Solar PV (Utility),148.9898189026104
+19049,Dallas,Iowa,Solar PV (Utility),142.61005293301133
+19057,Des Moines,Iowa,Solar PV (Utility),145.32417270553967
+19073,Greene,Iowa,Solar PV (Utility),141.96956534436646
+19081,Hancock,Iowa,Solar PV (Utility),148.30461148026586
+19091,Humboldt,Iowa,Solar PV (Utility),145.8321007930856
+19099,Jasper,Iowa,Solar PV (Utility),143.6250091081032
+19115,Louisa,Iowa,Solar PV (Utility),146.60564788282946
+19131,Mitchell,Iowa,Solar PV (Utility),150.38034366414928
+19147,Palo Alto,Iowa,Solar PV (Utility),144.72840495059444
+19157,Poweshiek,Iowa,Solar PV (Utility),144.153247112499
+19165,Shelby,Iowa,Solar PV (Utility),139.31987532238762
+19179,Wapello,Iowa,Solar PV (Utility),142.27760418026398
+19187,Webster,Iowa,Solar PV (Utility),143.93274794400077
+19197,Wright,Iowa,Solar PV (Utility),147.06875613667574
+39031,Coshocton,Ohio,Solar PV (Utility),151.9710576773366
+39045,Fairfield,Ohio,Solar PV (Utility),147.37689497257327
+35013,Dona Ana,New Mexico,Solar PV (Utility),97.25958372347344
+35017,Grant,New Mexico,Solar PV (Utility),95.16054162274018
+35037,Quay,New Mexico,Solar PV (Utility),100.83499025314488
+35059,Union,New Mexico,Solar PV (Utility),100.32886216559893
+36017,Chenango,New York,Solar PV (Utility),161.33156242166183
+36031,Essex,New York,Solar PV (Utility),154.3985485308172
+36049,Lewis,New York,Solar PV (Utility),157.02552863594624
+36065,Oneida,New York,Solar PV (Utility),159.4544194894268
+36077,Otsego,New York,Solar PV (Utility),162.7881169337502
+51079,Greene,Virginia,Solar PV (Utility),137.13289355425505
+12129,Wakulla,Florida,Solar PV (Utility),117.19603863886425
+13011,Banks,Georgia,Solar PV (Utility),121.6346319256788
+13019,Berrien,Georgia,Solar PV (Utility),119.62402949234485
+13027,Brooks,Georgia,Solar PV (Utility),119.86683857769293
+13033,Burke,Georgia,Solar PV (Utility),121.21374350553216
+13039,Camden,Georgia,Solar PV (Utility),120.13295757989081
+13051,Chatham,Georgia,Solar PV (Utility),118.91761215315049
+13061,Clay,Georgia,Solar PV (Utility),120.17627741359046
+5149,Yell,Arkansas,Solar PV (Utility),129.34069290626726
+6011,Colusa,California,Solar PV (Utility),127.68264914253051
+6027,Inyo,California,Solar PV (Utility),104.05853811321914
+6047,Merced,California,Solar PV (Utility),125.87393596084497
+6063,Plumas,California,Solar PV (Utility),115.16582628868045
+6077,San Joaquin,California,Solar PV (Utility),127.70495905938034
+6091,Sierra,California,Solar PV (Utility),113.9937006956398
+6107,Tulare,California,Solar PV (Utility),112.56015610040129
+8011,Bent,Colorado,Solar PV (Utility),106.55455871724922
+8019,Clear Creek,Colorado,Solar PV (Utility),107.15052647219446
+8027,Custer,Colorado,Solar PV (Utility),100.08515308025086
+20013,Brown,Kansas,Solar PV (Utility),134.13014486267906
+20023,Cheyenne,Kansas,Solar PV (Utility),113.75139161029176
+27071,Koochiching,Minnesota,Solar PV (Utility),155.28104520481014
+27079,Le Sueur,Minnesota,Solar PV (Utility),152.4551758480327
+27087,Mahnomen,Minnesota,Solar PV (Utility),151.35258000554154
+27101,Murray,Minnesota,Solar PV (Utility),142.6756826835608
+27107,Norman,Minnesota,Solar PV (Utility),152.80873451762992
+27125,Red Lake,Minnesota,Solar PV (Utility),153.53696177367408
+27131,Rice,Minnesota,Solar PV (Utility),151.794278342538
+27143,Sibley,Minnesota,Solar PV (Utility),152.05769734473589
+27159,Wadena,Minnesota,Solar PV (Utility),150.668472583197
+27169,Winona,Minnesota,Solar PV (Utility),153.0080237692783
+28007,Attala,Mississippi,Solar PV (Utility),125.03395912055167
+28023,Clarke,Mississippi,Solar PV (Utility),123.79710377696154
+28035,Forrest,Mississippi,Solar PV (Utility),123.22334593886613
+28043,Grenada,Mississippi,Solar PV (Utility),125.67414670919656
+36091,Saratoga,New York,Solar PV (Utility),156.8275393842978
+36101,Steuben,New York,Solar PV (Utility),155.04003611946212
+36113,Warren,New York,Solar PV (Utility),155.3270650385098
+42011,Berks,Pennsylvania,Solar PV (Utility),155.76706337550627
+42019,Butler,Pennsylvania,Solar PV (Utility),156.62955013264937
+42025,Carbon,Pennsylvania,Solar PV (Utility),159.5884789905258
+42037,Columbia,Pennsylvania,Solar PV (Utility),158.681472399683
+42053,Forest,Pennsylvania,Solar PV (Utility),158.77011206708227
+42057,Fulton,Pennsylvania,Solar PV (Utility),152.03708742788606
+42075,Lebanon,Pennsylvania,Solar PV (Utility),154.42075844766703
+42081,Lycoming,Pennsylvania,Solar PV (Utility),158.26338397953634
+42099,Perry,Pennsylvania,Solar PV (Utility),153.64831135792318
+42117,Tioga,Pennsylvania,Solar PV (Utility),156.51750054840028
+42131,Wyoming,Pennsylvania,Solar PV (Utility),159.19010048722893
+1005,Barbour,Alabama,Solar PV (Utility),121.47946250773005
+1013,Butler,Alabama,Solar PV (Utility),122.49581868282193
+1019,Cherokee,Alabama,Solar PV (Utility),127.19873097183437
+6041,Marin,California,Solar PV (Utility),139.7821835762339
+6053,Monterey,California,Solar PV (Utility),120.7729451685357
+6061,Placer,California,Solar PV (Utility),119.38062040699678
+8041,El Paso,Colorado,Solar PV (Utility),106.28973971505134
+8049,Grand,Colorado,Solar PV (Utility),108.78296031908143
+12085,Martin,Florida,Solar PV (Utility),116.20249238062218
+12093,Okeechobee,Florida,Solar PV (Utility),116.90780971981654
+12105,Polk,Florida,Solar PV (Utility),118.1679749802565
+12121,Suwannee,Florida,Solar PV (Utility),121.0610740875834
+12133,Washington,Florida,Solar PV (Utility),120.55214600003747
+13007,Baker,Georgia,Solar PV (Utility),119.6456394091947
+13021,Bibb,Georgia,Solar PV (Utility),121.39092284033073
+13035,Butts,Georgia,Solar PV (Utility),122.47310876597211
+13047,Catoosa,Georgia,Solar PV (Utility),127.17572105498456
+13065,Clinch,Georgia,Solar PV (Utility),121.19213358868237
+13075,Cook,Georgia,Solar PV (Utility),119.24946090589785
+28057,Itawamba,Mississippi,Solar PV (Utility),127.99158797842804
+28069,Kemper,Mississippi,Solar PV (Utility),124.52653103300571
+22119,Webster,Louisiana,Solar PV (Utility),126.53473346633969
+22125,West Feliciana,Louisiana,Solar PV (Utility),123.00164677036788
+23017,Oxford,Maine,Solar PV (Utility),153.42711218942497
+24015,Cecil,Maryland,Solar PV (Utility),149.2773478216581
+24027,Howard,Maryland,Solar PV (Utility),144.50740578209616
+25001,Barnstable,Massachusetts,Solar PV (Utility),159.67471865792504
+25003,Berkshire,Massachusetts,Solar PV (Utility),162.01576984400637
+25027,Worcester,Massachusetts,Solar PV (Utility),159.56486907367594
+26025,Calhoun,Michigan,Solar PV (Utility),153.20731302092668
+26039,Crawford,Michigan,Solar PV (Utility),153.7357510253225
+26049,Genesee,Michigan,Solar PV (Utility),153.89182044327123
+44007,Providence,Rhode Island,Solar PV (Utility),160.00736741067243
+45021,Cherokee,South Carolina,Solar PV (Utility),122.86988726926894
+45033,Dillon,South Carolina,Solar PV (Utility),125.65333679234672
+45045,Greenville,South Carolina,Solar PV (Utility),121.74388150992793
+47009,Blount,Tennessee,Solar PV (Utility),129.69395157586447
+47019,Carter,Tennessee,Solar PV (Utility),136.84746463520736
+47037,Davidson,Tennessee,Solar PV (Utility),134.13024486267904
+47051,Franklin,Tennessee,Solar PV (Utility),131.14990608795281
+47063,Hamblen,Tennessee,Solar PV (Utility),130.97272675315423
+47075,Haywood,Tennessee,Solar PV (Utility),130.2669094139599
+47085,Humphreys,Tennessee,Solar PV (Utility),132.76183001798995
+47099,Lawrence,Tennessee,Solar PV (Utility),130.3108292476595
+47113,Madison,Tennessee,Solar PV (Utility),131.39381517330088
+47127,Moore,Tennessee,Solar PV (Utility),131.4160250901507
+6019,Fresno,California,Solar PV (Utility),117.90235597805862
+6023,Humboldt,California,Solar PV (Utility),136.73551505095824
+6035,Lassen,California,Solar PV (Utility),114.87769736963277
+6037,Los Angeles,California,Solar PV (Utility),114.03962052933944
+13085,Dawson,Georgia,Solar PV (Utility),124.72472028465413
+13099,Early,Georgia,Solar PV (Utility),119.53748982494557
+13117,Forsyth,Georgia,Solar PV (Utility),124.10774261285908
+8051,Gunnison,Colorado,Solar PV (Utility),105.60343229270681
+8055,Huerfano,Colorado,Solar PV (Utility),101.63044725973853
+8065,Lake,Colorado,Solar PV (Utility),104.56806620076509
+8079,Mineral,Colorado,Solar PV (Utility),100.26163241504946
+8089,Otero,Colorado,Solar PV (Utility),106.8189777194471
+8101,Pueblo,Colorado,Solar PV (Utility),105.93618104545416
+8117,Summit,Colorado,Solar PV (Utility),107.67946447659023
+9005,Litchfield,Connecticut,Solar PV (Utility),162.48117809785268
+12007,Bradford,Florida,Solar PV (Utility),121.3478030066311
+12019,Clay,Florida,Solar PV (Utility),121.78770134362757
+12027,DeSoto,Florida,Solar PV (Utility),116.09214279637307
+12035,Flagler,Florida,Solar PV (Utility),120.46440633263816
+26059,Hillsdale,Michigan,Solar PV (Utility),152.8319444344797
+26063,Huron,Michigan,Solar PV (Utility),153.62520144107333
+26113,Missaukee,Michigan,Solar PV (Utility),155.39239478905927
+26119,Montmorency,Michigan,Solar PV (Utility),151.3083601718419
+26129,Ogemaw,Michigan,Solar PV (Utility),151.52965934034012
+26137,Otsego,Michigan,Solar PV (Utility),153.64941135792319
+26149,St. Joseph,Michigan,Solar PV (Utility),154.177849362319
+27005,Becker,Minnesota,Solar PV (Utility),150.3138139135998
+27013,Blue Earth,Minnesota,Solar PV (Utility),150.55692299894787
+27023,Chippewa,Minnesota,Solar PV (Utility),145.1920132044407
+27033,Cottonwood,Minnesota,Solar PV (Utility),144.50790578209617
+27047,Freeborn,Minnesota,Solar PV (Utility),149.85040565975353
+27061,Itasca,Minnesota,Solar PV (Utility),153.58148160737372
+29095,Jackson,Missouri,Solar PV (Utility),135.87552829381508
+47133,Overton,Tennessee,Solar PV (Utility),133.40321760663483
+47145,Roane,Tennessee,Solar PV (Utility),131.23794575535214
+47159,Smith,Tennessee,Solar PV (Utility),135.03545145352183
+47165,Sumner,Tennessee,Solar PV (Utility),134.2184845300783
+45047,Greenwood,South Carolina,Solar PV (Utility),121.54499225827952
+45051,Horry,South Carolina,Solar PV (Utility),124.96772937000219
+45059,Laurens,South Carolina,Solar PV (Utility),121.67855175937846
+45069,Marlboro,South Carolina,Solar PV (Utility),125.47495745754816
+45087,Union,South Carolina,Solar PV (Utility),122.80485751871947
+46015,Brule,South Dakota,Solar PV (Utility),132.91519943593872
+46025,Clark,South Dakota,Solar PV (Utility),138.28130923044588
+46037,Day,South Dakota,Solar PV (Utility),140.26820174693003
+46049,Faulk,South Dakota,Solar PV (Utility),135.6994489590165
+46057,Hamlin,South Dakota,Solar PV (Utility),138.76692740114203
+46067,Hutchinson,South Dakota,Solar PV (Utility),136.18376712971263
+46077,Kingsbury,South Dakota,Solar PV (Utility),137.86192081029924
+51097,King and Queen,Virginia,Solar PV (Utility),139.0311464033399
+51109,Louisa,Virginia,Solar PV (Utility),137.28676297220383
+1035,Conecuh,Alabama,Solar PV (Utility),122.42888893227247
+1039,Covington,Alabama,Solar PV (Utility),121.6341319256788
+1049,DeKalb,Alabama,Solar PV (Utility),127.6625392256807
+1053,Escambia,Alabama,Solar PV (Utility),122.42818893227246
+1063,Greene,Alabama,Solar PV (Utility),124.10774261285908
+1069,Houston,Alabama,Solar PV (Utility),120.46330633263815
+1075,Lamar,Alabama,Solar PV (Utility),126.69060288428844
+1077,Lauderdale,Alabama,Solar PV (Utility),129.66974165901465
+12047,Hamilton,Florida,Solar PV (Utility),121.43474267403042
+12067,Lafayette,Florida,Solar PV (Utility),120.06732782934132
+12077,Liberty,Florida,Solar PV (Utility),119.40453032384661
+4001,Apache,Arizona,Solar PV (Utility),98.82528781981091
+4007,Gila,Arizona,Solar PV (Utility),97.83324156156885
+4019,Pima,Arizona,Solar PV (Utility),98.05444073006709
+5011,Bradley,Arkansas,Solar PV (Utility),125.67494670919656
+5023,Cleburne,Arkansas,Solar PV (Utility),130.04551024546163
+5037,Cross,Arkansas,Solar PV (Utility),128.2122871469263
+5039,Dallas,Arkansas,Solar PV (Utility),127.06577147073546
+5055,Greene,Arkansas,Solar PV (Utility),130.48740858245813
+5065,Izard,Arkansas,Solar PV (Utility),131.32638542275143
+5079,Lincoln,Arkansas,Solar PV (Utility),125.74007645974602
+29099,Jefferson,Missouri,Solar PV (Utility),137.28686297220383
+29115,Linn,Missouri,Solar PV (Utility),138.32602906414553
+29121,Macon,Missouri,Solar PV (Utility),137.94916047769854
+29135,Moniteau,Missouri,Solar PV (Utility),136.05160762861368
+29145,Newton,Missouri,Solar PV (Utility),129.07467390406939
+29163,Pike,Missouri,Solar PV (Utility),138.81104723484168
+29173,Ralls,Missouri,Solar PV (Utility),138.76752740114202
+29185,St. Clair,Missouri,Solar PV (Utility),133.6456266919829
+29201,Scott,Missouri,Solar PV (Utility),134.08572502897937
+29215,Texas,Missouri,Solar PV (Utility),133.00493910333805
+29223,Wayne,Missouri,Solar PV (Utility),133.24634818868608
+30007,Broadwater,Montana,Solar PV (Utility),128.85457473557116
+30021,Dawson,Montana,Solar PV (Utility),129.51577224106586
+30031,Gallatin,Montana,Solar PV (Utility),127.37551030663296
+46091,Marshall,South Dakota,Solar PV (Utility),141.57028684106962
+46107,Potter,South Dakota,Solar PV (Utility),133.95506552788044
+46119,Sully,South Dakota,Solar PV (Utility),132.93760935278857
+46129,Walworth,South Dakota,Solar PV (Utility),134.88058203557304
+40057,Harmon,Oklahoma,Solar PV (Utility),111.78590901065743
+40061,Haskell,Oklahoma,Solar PV (Utility),127.59400947513122
+40069,Johnston,Oklahoma,Solar PV (Utility),122.86988726926894
+40075,Kiowa,Oklahoma,Solar PV (Utility),113.64054202604264
+40093,Major,Oklahoma,Solar PV (Utility),116.99844938721584
+40103,Noble,Oklahoma,Solar PV (Utility),121.23605342238199
+40115,Ottawa,Oklahoma,Solar PV (Utility),128.4111763985747
+40133,Seminole,Oklahoma,Solar PV (Utility),122.42978893227247
+40141,Tillman,Oklahoma,Solar PV (Utility),114.12756019673876
+41009,Columbia,Oregon,Solar PV (Utility),176.67675463228932
+6067,Sacramento,California,Solar PV (Utility),129.60511190846515
+6071,San Bernardino,California,Solar PV (Utility),102.99946210442761
+6111,Ventura,California,Solar PV (Utility),113.22175360589598
+8005,Arapahoe,Colorado,Solar PV (Utility),110.15227516377048
+5109,Pike,Arkansas,Solar PV (Utility),129.03015407036975
+5117,Prairie,Arkansas,Solar PV (Utility),127.3082805560835
+5135,Sharp,Arkansas,Solar PV (Utility),131.19472592165246
+13307,Webster,Georgia,Solar PV (Utility),121.41313275718059
+13311,White,Georgia,Solar PV (Utility),123.70816410956225
+13315,Wilcox,Georgia,Solar PV (Utility),119.58110965864522
+16005,Bannock,Idaho,Solar PV (Utility),119.55919974179538
+16027,Canyon,Idaho,Solar PV (Utility),124.81315995205343
+16039,Elmore,Idaho,Solar PV (Utility),117.79180639380948
+16063,Lincoln,Idaho,Solar PV (Utility),117.28417830626354
+16075,Payette,Idaho,Solar PV (Utility),125.16761862165059
+17001,Adams,Illinois,Solar PV (Utility),141.04034883667387
+17017,Cass,Illinois,Solar PV (Utility),142.1006248454654
+30047,Lake,Montana,Solar PV (Utility),140.22538191323036
+31123,Morrill,Nebraska,Solar PV (Utility),116.35766179857096
+31127,Nemaha,Nebraska,Solar PV (Utility),135.1455010377709
+31143,Polk,Nebraska,Solar PV (Utility),131.65823417549876
+31153,Sarpy,Nebraska,Solar PV (Utility),136.38305638136106
+31167,Stanton,Nebraska,Solar PV (Utility),134.39516386487693
+31179,Wayne,Nebraska,Solar PV (Utility),134.15255477952886
+31185,York,Nebraska,Solar PV (Utility),130.13354991286096
+32011,Eureka,Nevada,Solar PV (Utility),111.91986851175639
+32027,Pershing,Nevada,Solar PV (Utility),114.10385027988895
+33005,Cheshire,New Hampshire,Solar PV (Utility),157.44691705609287
+33017,Strafford,New Hampshire,Solar PV (Utility),150.55652299894786
+34027,Morris,New Jersey,Solar PV (Utility),163.20760535389684
+34037,Sussex,New Jersey,Solar PV (Utility),163.34056485499582
+41023,Grant,Oregon,Solar PV (Utility),126.95392188648631
+41047,Marion,Oregon,Solar PV (Utility),156.03208237770414
+41061,Union,Oregon,Solar PV (Utility),131.43613500700053
+42009,Bedford,Pennsylvania,Solar PV (Utility),153.03113368612813
+48355,Nueces,Texas,Solar PV (Utility),118.49832373300384
+48363,Palo Pinto,Texas,Solar PV (Utility),116.33565188172112
+48373,Polk,Texas,Solar PV (Utility),125.12309878795097
+48389,Reeves,Texas,Solar PV (Utility),102.18219518098412
+48405,San Augustine,Texas,Solar PV (Utility),124.43759136560642
+48413,Schleicher,Texas,Solar PV (Utility),110.24201483116978
+48421,Sherman,Texas,Solar PV (Utility),105.45116287475804
+48439,Tarrant,Texas,Solar PV (Utility),119.40503032384662
+48455,Trinity,Texas,Solar PV (Utility),125.25525828904992
+48471,Walker,Texas,Solar PV (Utility),124.87918970260291
+13083,Dade,Georgia,Solar PV (Utility),128.65548548392275
+13089,DeKalb,Georgia,Solar PV (Utility),124.17397236340854
+13097,Douglas,Georgia,Solar PV (Utility),124.61387070040503
+13105,Elbert,Georgia,Solar PV (Utility),121.6342319256788
+13111,Fannin,Georgia,Solar PV (Utility),127.17512105498456
+13121,Fulton,Georgia,Solar PV (Utility),124.74613020150396
+8067,La Plata,Colorado,Solar PV (Utility),101.65365717658835
+8071,Las Animas,Colorado,Solar PV (Utility),103.04408193812725
+5095,Monroe,Arkansas,Solar PV (Utility),126.82256238538739
+17025,Clay,Illinois,Solar PV (Utility),139.36419515608728
+17039,De Witt,Illinois,Solar PV (Utility),144.92629420224284
+17045,Edgar,Illinois,Solar PV (Utility),143.80048844290184
+17061,Greene,Illinois,Solar PV (Utility),139.4961546571862
+17069,Hardin,Illinois,Solar PV (Utility),136.53732579930983
+18049,Fulton,Indiana,Solar PV (Utility),153.0087237692783
+18053,Grant,Indiana,Solar PV (Utility),149.2535379048083
+18063,Hendricks,Indiana,Solar PV (Utility),144.44177603154674
+18075,Jay,Indiana,Solar PV (Utility),147.81989330956972
+18093,Lawrence,Indiana,Solar PV (Utility),141.21742817147242
+18099,Marshall,Indiana,Solar PV (Utility),154.92888653521297
+18113,Noble,Indiana,Solar PV (Utility),152.65606509968114
+18119,Owen,Indiana,Solar PV (Utility),143.66962894180287
+18133,Putnam,Indiana,Solar PV (Utility),144.7509148674442
+18145,Shelby,Indiana,Solar PV (Utility),142.8505620183594
+18157,Tippecanoe,Indiana,Solar PV (Utility),150.0494949114019
+35011,De Baca,New Mexico,Solar PV (Utility),99.51019524215545
+30049,Lewis and Clark,Montana,Solar PV (Utility),128.67619540077257
+30053,Lincoln,Montana,Solar PV (Utility),141.46063725682052
+30075,Powder River,Montana,Solar PV (Utility),125.09978887110113
+30085,Roosevelt,Montana,Solar PV (Utility),135.98417787806423
+31001,Adams,Nebraska,Solar PV (Utility),125.69665662604638
+31005,Arthur,Nebraska,Solar PV (Utility),117.06297913776531
+31017,Brown,Nebraska,Solar PV (Utility),125.18772853850041
+31027,Cedar,Nebraska,Solar PV (Utility),135.87362829381507
+31041,Custer,Nebraska,Solar PV (Utility),123.11429635461701
+31059,Fillmore,Nebraska,Solar PV (Utility),128.74402515132203
+31069,Garden,Nebraska,Solar PV (Utility),116.5773609670692
+31077,Greeley,Nebraska,Solar PV (Utility),127.9473681447284
+31089,Holt,Nebraska,Solar PV (Utility),129.78059124326376
+48481,Wharton,Texas,Solar PV (Utility),122.98023685351806
+48493,Wilson,Texas,Solar PV (Utility),121.83292117732722
+48503,Young,Texas,Solar PV (Utility),114.45850894948612
+49005,Cache,Utah,Solar PV (Utility),116.53254113336955
+49017,Garfield,Utah,Solar PV (Utility),102.99836210442761
+47183,Weakley,Tennessee,Solar PV (Utility),132.18737217989454
+47187,Williamson,Tennessee,Solar PV (Utility),132.87227960223908
+48003,Andrews,Texas,Solar PV (Utility),101.45356792493996
+48019,Bandera,Texas,Solar PV (Utility),120.68550550113639
+48027,Bell,Texas,Solar PV (Utility),120.33224683153922
+48041,Brazos,Texas,Solar PV (Utility),123.42343519051455
+48059,Callahan,Texas,Solar PV (Utility),111.71947926010797
+48075,Childress,Texas,Solar PV (Utility),111.16863133886237
+48083,Coleman,Texas,Solar PV (Utility),112.38307676560268
+48089,Colorado,Texas,Solar PV (Utility),123.04636660406753
+6001,Alameda,California,Solar PV (Utility),127.72886897623016
+1105,Perry,Alabama,Solar PV (Utility),123.6647442758626
+1111,Randolph,Alabama,Solar PV (Utility),125.25525828904992
+1113,Russell,Alabama,Solar PV (Utility),122.47280876597212
+1123,Tallapoosa,Alabama,Solar PV (Utility),124.23930211395802
+18165,Vermillion,Indiana,Solar PV (Utility),145.41391237293897
+19003,Adams,Iowa,Solar PV (Utility),138.3040191472957
+19013,Black Hawk,Iowa,Solar PV (Utility),147.6873338084708
+19025,Calhoun,Iowa,Solar PV (Utility),142.45558351506256
+19035,Cherokee,Iowa,Solar PV (Utility),140.86396950187526
+17071,Henderson,Illinois,Solar PV (Utility),145.74506112568633
+17075,Iroquois,Illinois,Solar PV (Utility),150.3580337472995
+17087,Johnson,Illinois,Solar PV (Utility),136.0733175454635
+17095,Knox,Illinois,Solar PV (Utility),146.3842487143312
+17113,McLean,Illinois,Solar PV (Utility),146.34042888063155
+17123,Marshall,Illinois,Solar PV (Utility),148.39275114766517
+17135,Montgomery,Illinois,Solar PV (Utility),140.20287199638054
+17151,Pope,Illinois,Solar PV (Utility),136.6261654667091
+17163,St. Clair,Illinois,Solar PV (Utility),138.3708488978452
+17187,Warren,Illinois,Solar PV (Utility),145.61200162458735
+17199,Williamson,Illinois,Solar PV (Utility),136.62506546670912
+31107,Knox,Nebraska,Solar PV (Utility),133.86442586048113
+28077,Lawrence,Mississippi,Solar PV (Utility),123.81921369381135
+28081,Lee,Mississippi,Solar PV (Utility),128.01439789527785
+28085,Lincoln,Mississippi,Solar PV (Utility),123.99569302860995
+28087,Lowndes,Mississippi,Solar PV (Utility),125.9846855450941
+28107,Panola,Mississippi,Solar PV (Utility),127.1084913044351
+28123,Scott,Mississippi,Solar PV (Utility),124.7020103678043
+28133,Sunflower,Mississippi,Solar PV (Utility),124.72452028465412
+28145,Union,Mississippi,Solar PV (Utility),128.19247723007646
+28159,Winston,Mississippi,Solar PV (Utility),125.05576903740149
+29003,Andrew,Missouri,Solar PV (Utility),136.69109521725858
+29015,Benton,Missouri,Solar PV (Utility),134.81455228502358
+29027,Callaway,Missouri,Solar PV (Utility),136.51521588245998
+29039,Cedar,Missouri,Solar PV (Utility),132.74062010114014
+29049,Clinton,Missouri,Solar PV (Utility),137.0680638037056
+29059,Dallas,Missouri,Solar PV (Utility),133.20202835498642
+29071,Franklin,Missouri,Solar PV (Utility),136.84706463520735
+48107,Crosby,Texas,Solar PV (Utility),105.36192320735874
+48119,Delta,Texas,Solar PV (Utility),123.88554344436083
+48131,Duval,Texas,Solar PV (Utility),117.59281714216107
+48143,Erath,Texas,Solar PV (Utility),116.09254279637307
+48153,Floyd,Texas,Solar PV (Utility),105.22946370625979
+48163,Frio,Texas,Solar PV (Utility),119.78049891029362
+48171,Gillespie,Texas,Solar PV (Utility),116.26842213117165
+48173,Glasscock,Texas,Solar PV (Utility),103.90416869527037
+48175,Goliad,Texas,Solar PV (Utility),122.42808893227247
+48183,Gregg,Texas,Solar PV (Utility),123.90805336121066
+48187,Guadalupe,Texas,Solar PV (Utility),123.09158643776718
+48205,Hartley,Texas,Solar PV (Utility),102.73324310222972
+48209,Hays,Texas,Solar PV (Utility),122.09814017952512
+48219,Hockley,Texas,Solar PV (Utility),102.3374645989329
+48231,Hunt,Texas,Solar PV (Utility),123.35680543996506
+48241,Jasper,Texas,Solar PV (Utility),125.29777812274955
+48255,Karnes,Texas,Solar PV (Utility),121.21524350553216
+48269,King,Texas,Solar PV (Utility),109.20394873922807
+48279,Lamb,Texas,Solar PV (Utility),102.60188360113078
+48289,Leon,Texas,Solar PV (Utility),123.68795419271243
+8033,Dolores,Colorado,Solar PV (Utility),102.86580260332866
+8039,Elbert,Colorado,Solar PV (Utility),107.59102480919094
+8045,Garfield,Colorado,Solar PV (Utility),108.05603306303722
+6079,San Luis Obispo,California,Solar PV (Utility),116.24631221432183
+6093,Siskiyou,California,Solar PV (Utility),122.45199884912228
+6097,Sonoma,California,Solar PV (Utility),132.12074242934509
+6105,Trinity,California,Solar PV (Utility),123.84262361066118
+6017,El Dorado,California,Solar PV (Utility),118.1896848971063
+18005,Bartholomew,Indiana,Solar PV (Utility),141.17420833777277
+18017,Cass,Indiana,Solar PV (Utility),151.57197917403977
+18027,Daviess,Indiana,Solar PV (Utility),139.65002407513495
+18041,Fayette,Indiana,Solar PV (Utility),143.33788018905554
+18043,Floyd,Indiana,Solar PV (Utility),137.61801172495117
+13127,Glynn,Georgia,Solar PV (Utility),119.38212040699678
+13133,Greene,Georgia,Solar PV (Utility),121.5242823414297
+13143,Haralson,Georgia,Solar PV (Utility),125.43063762384851
+13153,Houston,Georgia,Solar PV (Utility),120.57345591688728
+13163,Jefferson,Georgia,Solar PV (Utility),120.92831458648445
+13183,Long,Georgia,Solar PV (Utility),120.79495508538552
+13193,Macon,Georgia,Solar PV (Utility),121.10439392128303
+13207,Monroe,Georgia,Solar PV (Utility),122.36135918172299
+13219,Oconee,Georgia,Solar PV (Utility),122.20868976377423
+13227,Pickens,Georgia,Solar PV (Utility),125.7174665428962
+13237,Putnam,Georgia,Solar PV (Utility),121.48036250773005
+13249,Schley,Georgia,Solar PV (Utility),121.54569225827953
+29083,Henry,Missouri,Solar PV (Utility),134.35104403117728
+29093,Iron,Missouri,Solar PV (Utility),133.75427627623205
+37003,Alexander,North Carolina,Solar PV (Utility),126.91100205278669
+37007,Anson,North Carolina,Solar PV (Utility),125.4324376238485
+37009,Ashe,North Carolina,Solar PV (Utility),133.29246802238575
+37033,Caswell,North Carolina,Solar PV (Utility),131.28256558905176
+37045,Cleveland,North Carolina,Solar PV (Utility),123.4667550242142
+37063,Durham,North Carolina,Solar PV (Utility),130.97272675315423
+37073,Gates,North Carolina,Solar PV (Utility),135.9624679612144
+37085,Harnett,North Carolina,Solar PV (Utility),129.16351357146868
+37097,Iredell,North Carolina,Solar PV (Utility),126.09443512934321
+37109,Lincoln,North Carolina,Solar PV (Utility),124.63548061725484
+37123,Montgomery,North Carolina,Solar PV (Utility),126.51332354948984
+37133,Onslow,North Carolina,Solar PV (Utility),131.3039755059016
+37145,Person,North Carolina,Solar PV (Utility),131.83331351029736
+48299,Llano,Texas,Solar PV (Utility),116.37887171542077
+48313,Madison,Texas,Solar PV (Utility),124.39297153190678
+48325,Medina,Texas,Solar PV (Utility),121.94187076157635
+48335,Mitchell,Texas,Solar PV (Utility),106.20060004765205
+48343,Morris,Texas,Solar PV (Utility),124.08553269600927
+51127,New Kent,Virginia,Solar PV (Utility),138.52361831579395
+51133,Northumberland,Virginia,Solar PV (Utility),140.02449266158197
+51167,Russell,Virginia,Solar PV (Utility),138.08261997879748
+51179,Stafford,Virginia,Solar PV (Utility),140.1572521626809
+51515,Bedford,Virginia,Solar PV (Utility),132.2316920135942
+51590,Danville,Virginia,Solar PV (Utility),132.16516226304472
+51620,Franklin,Virginia,Solar PV (Utility),135.60920929161722
+51680,Lynchburg,Virginia,Solar PV (Utility),131.17291600480263
+51720,Norton,Virginia,Solar PV (Utility),136.8025448015077
+51740,Portsmouth,Virginia,Solar PV (Utility),138.61305798319327
+51830,Williamsburg,Virginia,Solar PV (Utility),137.02364397000593
+12086,Miami-Dade,Florida,Solar PV (Utility),116.4015816322706
+12103,Pinellas,Florida,Solar PV (Utility),113.5318924417935
+12123,Taylor,Florida,Solar PV (Utility),117.96978572860807
+13259,Stewart,Georgia,Solar PV (Utility),121.25756333923181
+13271,Telfair,Georgia,Solar PV (Utility),119.91165841139258
+13283,Treutlen,Georgia,Solar PV (Utility),120.19808733044027
+13297,Walton,Georgia,Solar PV (Utility),122.51742859967175
+20025,Clark,Kansas,Solar PV (Utility),113.48787260809387
+20031,Coffey,Kansas,Solar PV (Utility),129.25205323886797
+20033,Comanche,Kansas,Solar PV (Utility),114.37006928208682
+20045,Douglas,Kansas,Solar PV (Utility),134.15195477952886
+20055,Finney,Kansas,Solar PV (Utility),111.85203876120691
+20069,Gray,Kansas,Solar PV (Utility),111.54349992530938
+20081,Haskell,Kansas,Solar PV (Utility),110.77025283556556
+20093,Kearny,Kansas,Solar PV (Utility),110.50673383336765
+20101,Lane,Kansas,Solar PV (Utility),113.2440635227458
+20111,Lyon,Kansas,Solar PV (Utility),128.10333756267715
+20123,Mitchell,Kansas,Solar PV (Utility),123.68775419271242
+20133,Neosho,Kansas,Solar PV (Utility),129.71406149271428
+20139,Osage,Kansas,Solar PV (Utility),130.88618708575495
+20151,Pratt,Kansas,Solar PV (Utility),116.09104279637307
+20159,Rice,Kansas,Solar PV (Utility),119.44855015754628
+20169,Saline,Kansas,Solar PV (Utility),124.01850294545977
+37157,Rockingham,North Carolina,Solar PV (Utility),130.31042924765953
+37173,Swain,North Carolina,Solar PV (Utility),126.6455830505888
+37179,Union,North Carolina,Solar PV (Utility),124.43779136560642
+39059,Guernsey,Ohio,Solar PV (Utility),150.7770221674461
+39069,Henry,Ohio,Solar PV (Utility),151.81658825938783
+39083,Knox,Ohio,Solar PV (Utility),151.1314808370433
+39091,Logan,Ohio,Solar PV (Utility),147.53366439052203
+39103,Medina,Ohio,Solar PV (Utility),153.295952688326
+39115,Morgan,Ohio,Solar PV (Utility),148.5488205656139
+39127,Perry,Ohio,Solar PV (Utility),148.37264123081533
+39137,Putnam,Ohio,Solar PV (Utility),151.0640510864938
+39153,Summit,Ohio,Solar PV (Utility),153.58318160737372
+39165,Warren,Ohio,Solar PV (Utility),143.29356035535588
+40005,Atoka,Oklahoma,Solar PV (Utility),125.1677186216506
+40015,Caddo,Oklahoma,Solar PV (Utility),116.33425188172113
+40027,Cleveland,Oklahoma,Solar PV (Utility),119.84482866084309
+53011,Clark,Washington,Solar PV (Utility),179.01780581837062
+53035,Kitsap,Washington,Solar PV (Utility),183.52202885573467
+55053,Jackson,Wisconsin,Solar PV (Utility),152.91858410187902
+55067,Langlade,Wisconsin,Solar PV (Utility),153.16229318722708
+55078,Menominee,Wisconsin,Solar PV (Utility),152.61004526598146
+55087,Outagamie,Wisconsin,Solar PV (Utility),153.11887335352742
+55099,Price,Wisconsin,Solar PV (Utility),154.62094769931545
+55109,St. Croix,Wisconsin,Solar PV (Utility),154.15703944546914
+55121,Trempealeau,Wisconsin,Solar PV (Utility),153.1854031040769
+55135,Waupaca,Wisconsin,Solar PV (Utility),153.69273119162284
+56005,Campbell,Wyoming,Solar PV (Utility),119.80170882714344
+56015,Goshen,Wyoming,Solar PV (Utility),116.7554403018678
+56041,Uinta,Wyoming,Solar PV (Utility),111.47857017475991
+1127,Walker,Alabama,Solar PV (Utility),127.08818138758527
+1133,Winston,Alabama,Solar PV (Utility),127.92605822787858
+20179,Sheridan,Kansas,Solar PV (Utility),115.09779653813099
+20191,Sumner,Kansas,Solar PV (Utility),121.32489308978128
+20209,Wyandotte,Kansas,Solar PV (Utility),136.09612746231335
+21185,Oldham,Kentucky,Solar PV (Utility),137.41962247330275
+21197,Powell,Kentucky,Solar PV (Utility),139.80459349308373
+21203,Rockcastle,Kentucky,Solar PV (Utility),136.27220679711192
+21215,Spencer,Kentucky,Solar PV (Utility),136.64867538355895
+21227,Warren,Kentucky,Solar PV (Utility),134.41647378172672
+21235,Whitley,Kentucky,Solar PV (Utility),135.80739854326563
+22007,Assumption,Louisiana,Solar PV (Utility),122.22999968062406
+22021,Caldwell,Louisiana,Solar PV (Utility),124.41658144875659
+22025,Catahoula,Louisiana,Solar PV (Utility),123.88484344436084
+22047,Iberville,Louisiana,Solar PV (Utility),122.25220959747386
+22059,La Salle,Louisiana,Solar PV (Utility),124.68180045095447
+22067,Morehouse,Louisiana,Solar PV (Utility),124.65769053410466
+22083,Richland,Louisiana,Solar PV (Utility),124.54724094985555
+48101,Cottle,Texas,Solar PV (Utility),110.08644541322101
+48105,Crockett,Texas,Solar PV (Utility),108.09955289673687
+48109,Culberson,Texas,Solar PV (Utility),98.00882089636744
+48111,Dallam,Texas,Solar PV (Utility),102.99876210442761
+48113,Dallas,Texas,Solar PV (Utility),121.58931209197917
+48121,Denton,Texas,Solar PV (Utility),120.13235757989081
+48125,Dickens,Texas,Solar PV (Utility),107.04067688794534
+48133,Eastland,Texas,Solar PV (Utility),113.86104119454087
+48139,Ellis,Texas,Solar PV (Utility),121.21554350553217
+48145,Falls,Texas,Solar PV (Utility),121.3481030066311
+48147,Fannin,Texas,Solar PV (Utility),123.22414593886613
+48151,Fisher,Texas,Solar PV (Utility),107.99040331248776
+48157,Fort Bend,Texas,Solar PV (Utility),123.24685585571595
+48181,Grayson,Texas,Solar PV (Utility),122.05282034582547
+48189,Hale,Texas,Solar PV (Utility),103.64024969307249
+48193,Hamilton,Texas,Solar PV (Utility),116.59987088391901
+48345,Motley,Texas,Solar PV (Utility),107.94568347878811
+48347,Nacogdoches,Texas,Solar PV (Utility),125.12249878795096
+48351,Newton,Texas,Solar PV (Utility),125.4307376238485
+51135,Nottoway,Virginia,Solar PV (Utility),133.77628619308183
+51137,Orange,Virginia,Solar PV (Utility),137.55318197440172
+51139,Page,Virginia,Solar PV (Utility),137.95126047769855
+51143,Pittsylvania,Virginia,Solar PV (Utility),132.2314920135942
+51153,Prince William,Virginia,Solar PV (Utility),140.20127199638054
+51163,Rockbridge,Virginia,Solar PV (Utility),132.67269035059067
+51169,Scott,Virginia,Solar PV (Utility),134.24129444692815
+51171,Shenandoah,Virginia,Solar PV (Utility),140.6222604165272
+51181,Surry,Virginia,Solar PV (Utility),137.7067513923505
+51183,Sussex,Virginia,Solar PV (Utility),136.09612746231335
+53033,King,Washington,Solar PV (Utility),175.04212078540237
+55035,Eau Claire,Wisconsin,Solar PV (Utility),153.49494193997444
+55037,Florence,Wisconsin,Solar PV (Utility),154.02337994437022
+55041,Forest,Wisconsin,Solar PV (Utility),153.40540227257512
+55043,Grant,Wisconsin,Solar PV (Utility),151.46152958979067
+55047,Green Lake,Wisconsin,Solar PV (Utility),154.68627744986492
+55049,Iowa,Wisconsin,Solar PV (Utility),153.13958327037724
+55055,Jefferson,Wisconsin,Solar PV (Utility),154.62094769931545
+55057,Juneau,Wisconsin,Solar PV (Utility),153.8476006095716
+55059,Kenosha,Wisconsin,Solar PV (Utility),154.421158447667
+56027,Niobrara,Wyoming,Solar PV (Utility),117.48406755791197
+56029,Park,Wyoming,Solar PV (Utility),119.20594107219821
+56035,Sublette,Wyoming,Solar PV (Utility),113.28888335644545
+56037,Sweetwater,Wyoming,Solar PV (Utility),110.77105283556556
+56043,Washakie,Wyoming,Solar PV (Utility),116.88779980296673
+53043,Lincoln,Washington,Solar PV (Utility),138.23778939674625
+53051,Pend Oreille,Washington,Solar PV (Utility),144.66137520004494
+53053,Pierce,Washington,Solar PV (Utility),173.51943652276455
+48197,Hardeman,Texas,Solar PV (Utility),111.9414784286062
+48199,Hardin,Texas,Solar PV (Utility),125.38751779014885
+48201,Harris,Texas,Solar PV (Utility),124.23960211395801
+48203,Harrison,Texas,Solar PV (Utility),124.15136244655872
+48211,Hemphill,Texas,Solar PV (Utility),109.64474707622453
+48213,Henderson,Texas,Solar PV (Utility),122.8257674355693
+48215,Hidalgo,Texas,Solar PV (Utility),116.35736179857095
+48223,Hopkins,Texas,Solar PV (Utility),123.62072444216294
+48235,Irion,Texas,Solar PV (Utility),107.2835859732934
+48237,Jack,Texas,Solar PV (Utility),115.95928329527412
+48239,Jackson,Texas,Solar PV (Utility),122.38506909857281
+48243,Jeff Davis,Texas,Solar PV (Utility),98.31865973226496
+48249,Jim Wells,Texas,Solar PV (Utility),119.77819891029363
+48253,Jones,Texas,Solar PV (Utility),109.93137599527225
+48259,Kendall,Texas,Solar PV (Utility),120.08943774619117
+51185,Tazewell,Virginia,Solar PV (Utility),139.16440590443884
+51191,Washington,Virginia,Solar PV (Utility),136.6028555498593
+51195,Wise,Virginia,Solar PV (Utility),138.19346956304662
+51520,Bristol,Virginia,Solar PV (Utility),136.51491588245997
+51550,Chesapeake,Virginia,Solar PV (Utility),137.39951255645295
+51580,Covington,Virginia,Solar PV (Utility),138.14794972934695
+51610,Falls Church,Virginia,Solar PV (Utility),141.903535593817
+51640,Galax,Virginia,Solar PV (Utility),133.2483481886861
+51678,Lexington,Virginia,Solar PV (Utility),132.3205316809935
+51683,Manassas,Virginia,Solar PV (Utility),140.6211604165272
+51685,Manassas Park,Virginia,Solar PV (Utility),140.40106124802895
+51710,Norfolk,Virginia,Solar PV (Utility),139.16390590443882
+51730,Petersburg,Virginia,Solar PV (Utility),136.75922496780805
+51750,Radford,Virginia,Solar PV (Utility),137.59760180810136
+51790,Staunton,Virginia,Solar PV (Utility),131.65793417549878
+55065,Lafayette,Wisconsin,Solar PV (Utility),152.4112560143331
+55075,Marinette,Wisconsin,Solar PV (Utility),152.49979568173237
+55077,Marquette,Wisconsin,Solar PV (Utility),154.55351794876597
+55083,Oconto,Wisconsin,Solar PV (Utility),152.0809072615857
+55085,Oneida,Wisconsin,Solar PV (Utility),155.08255595316172
+55091,Pepin,Wisconsin,Solar PV (Utility),154.02267994437022
+55093,Pierce,Wisconsin,Solar PV (Utility),154.51029811506632
+55097,Portage,Wisconsin,Solar PV (Utility),154.13412952861933
+53063,Spokane,Washington,Solar PV (Utility),141.0633587535237
+53067,Thurston,Washington,Solar PV (Utility),184.9338635341234
+53069,Wahkiakum,Washington,Solar PV (Utility),187.0749254685563
+53077,Yakima,Washington,Solar PV (Utility),136.55953571615964
+54003,Berkeley,West Virginia,Solar PV (Utility),148.12923214546726
+54005,Boone,West Virginia,Solar PV (Utility),145.14779337074108
+54009,Brooke,West Virginia,Solar PV (Utility),153.6481113579232
+54011,Cabell,West Virginia,Solar PV (Utility),144.81774461799372
+54015,Clay,West Virginia,Solar PV (Utility),147.70884372532063
+54019,Fayette,West Virginia,Solar PV (Utility),144.06730744509971
+12037,Franklin,Florida,Solar PV (Utility),116.99774938721585
+12057,Hillsborough,Florida,Solar PV (Utility),117.04196922091548
+12065,Jefferson,Florida,Solar PV (Utility),118.67560306780244
+8093,Park,Colorado,Solar PV (Utility),100.96914975424383
+8099,Prowers,Colorado,Solar PV (Utility),107.61373472604076
+8107,Routt,Colorado,Solar PV (Utility),109.93287599527225
+8113,San Miguel,Colorado,Solar PV (Utility),105.4287529579082
+8115,Sedgwick,Colorado,Solar PV (Utility),115.40803537402853
+5125,Saline,Arkansas,Solar PV (Utility),129.14200365461886
+5131,Sebastian,Arkansas,Solar PV (Utility),128.27991689747574
+5139,Union,Arkansas,Solar PV (Utility),125.96137562824426
+18171,Warren,Indiana,Solar PV (Utility),148.94589906891073
+18177,Wayne,Indiana,Solar PV (Utility),144.35423636414743
+19005,Allamakee,Iowa,Solar PV (Utility),149.917635410303
+17059,Gallatin,Illinois,Solar PV (Utility),136.86867455205717
+17067,Hancock,Illinois,Solar PV (Utility),143.27205043850606
+18061,Harrison,Indiana,Solar PV (Utility),137.6203117249512
+18073,Jasper,Indiana,Solar PV (Utility),154.5985377824656
+18081,Johnson,Indiana,Solar PV (Utility),142.652972766711
+18083,Knox,Indiana,Solar PV (Utility),138.9448067359406
+18089,Lake,Indiana,Solar PV (Utility),156.51920054840028
+18107,Montgomery,Indiana,Solar PV (Utility),146.86926688502732
+20121,Miami,Kansas,Solar PV (Utility),133.5561870245836
+20129,Morton,Kansas,Solar PV (Utility),107.28218597329341
+20137,Norton,Kansas,Solar PV (Utility),118.74173281835189
+20147,Phillips,Kansas,Solar PV (Utility),120.35455674838903
+20153,Rawlins,Kansas,Solar PV (Utility),115.099096538131
+20161,Riley,Kansas,Solar PV (Utility),128.72201523447222
+20175,Seward,Kansas,Solar PV (Utility),110.21820491431995
+22065,Madison,Louisiana,Solar PV (Utility),123.5761046084633
+9001,Fairfield,Connecticut,Solar PV (Utility),164.29129127953823
+5021,Clay,Arkansas,Solar PV (Utility),130.79594741835564
+21119,Knott,Kentucky,Solar PV (Utility),143.25034052165623
+21127,Lawrence,Kentucky,Solar PV (Utility),143.07166118685765
+21133,Letcher,Kentucky,Solar PV (Utility),142.32212401396362
+21141,Logan,Kentucky,Solar PV (Utility),134.17506469637868
+21149,McLean,Kentucky,Solar PV (Utility),135.91904812751474
+21155,Marion,Kentucky,Solar PV (Utility),136.0524076286137
+4015,Mohave,Arizona,Solar PV (Utility),103.97059844581985
+21163,Meade,Kentucky,Solar PV (Utility),136.84626463520735
+21177,Muhlenberg,Kentucky,Solar PV (Utility),135.39001012311897
+19051,Davis,Iowa,Solar PV (Utility),141.61500667476926
+19065,Fayette,Iowa,Solar PV (Utility),148.0630023949178
+19071,Fremont,Iowa,Solar PV (Utility),137.0674638037056
+19083,Hardin,Iowa,Solar PV (Utility),145.76727104253612
+19085,Harrison,Iowa,Solar PV (Utility),138.8542670685413
+19097,Jackson,Iowa,Solar PV (Utility),150.09251474510157
+19109,Kossuth,Iowa,Solar PV (Utility),146.9812164692764
+18111,Newton,Indiana,Solar PV (Utility),153.69353119162284
+19119,Lyon,Iowa,Solar PV (Utility),141.72625625901838
+19133,Monona,Iowa,Solar PV (Utility),139.36269515608726
+19143,Osceola,Iowa,Solar PV (Utility),142.78603226780996
+19167,Sioux,Iowa,Solar PV (Utility),140.77682983447596
+19173,Taylor,Iowa,Solar PV (Utility),137.70725139235049
+19185,Wayne,Iowa,Solar PV (Utility),140.95330916927455
+19191,Winneshiek,Iowa,Solar PV (Utility),149.2996577385079
+20001,Allen,Kansas,Solar PV (Utility),130.06782016231148
+20007,Barber,Kansas,Solar PV (Utility),116.20349238062218
+20011,Bourbon,Kansas,Solar PV (Utility),131.19412592165247
+22071,Orleans,Louisiana,Solar PV (Utility),120.44079641578833
+27075,Lake,Minnesota,Solar PV (Utility),154.0244799443702
+21161,Mason,Kentucky,Solar PV (Utility),138.6568778168929
+27123,Ramsey,Minnesota,Solar PV (Utility),153.75966094217233
+27135,Roseau,Minnesota,Solar PV (Utility),153.20641302092668
+27151,Swift,Minnesota,Solar PV (Utility),145.36809253923929
+27155,Traverse,Minnesota,Solar PV (Utility),144.92669420224283
+27165,Watonwan,Minnesota,Solar PV (Utility),147.64351397477114
+27167,Wilkin,Minnesota,Solar PV (Utility),148.0624023949178
+27173,Yellow Medicine,Minnesota,Solar PV (Utility),143.779078526052
+28001,Adams,Mississippi,Solar PV (Utility),122.73782776816999
+28019,Choctaw,Mississippi,Solar PV (Utility),125.38731779014884
+28025,Clay,Mississippi,Solar PV (Utility),126.11504504619305
+28027,Coahoma,Mississippi,Solar PV (Utility),125.71896654289621
+19117,Lucas,Iowa,Solar PV (Utility),141.63821659161908
+37053,Currituck,North Carolina,Solar PV (Utility),135.10118120407128
+37079,Greene,North Carolina,Solar PV (Utility),132.62837051689104
+37089,Henderson,North Carolina,Solar PV (Utility),123.15671618831664
+42035,Clinton,Pennsylvania,Solar PV (Utility),156.98230880224656
+42041,Cumberland,Pennsylvania,Solar PV (Utility),151.1765006707429
+20021,Cherokee,Kansas,Solar PV (Utility),129.626621825315
+28055,Issaquena,Mississippi,Solar PV (Utility),123.55439469161348
+28063,Jefferson,Mississippi,Solar PV (Utility),123.1357062714668
+28071,Lafayette,Mississippi,Solar PV (Utility),127.75067889307998
+23001,Androscoggin,Maine,Solar PV (Utility),150.60234283264754
+23003,Aroostook,Maine,Solar PV (Utility),154.420358447667
+22087,St. Bernard,Louisiana,Solar PV (Utility),118.19028489710631
+38015,Burleigh,North Dakota,Solar PV (Utility),140.1148323289813
+38021,Dickey,North Dakota,Solar PV (Utility),139.4736447403364
+38023,Divide,North Dakota,Solar PV (Utility),142.43117359821275
+38033,Golden Valley,North Dakota,Solar PV (Utility),130.44398874875847
+38049,McHenry,North Dakota,Solar PV (Utility),144.86046445169336
+28047,Harrison,Mississippi,Solar PV (Utility),120.37476666523887
+28105,Oktibbeha,Mississippi,Solar PV (Utility),125.80560621029548
+28111,Perry,Mississippi,Solar PV (Utility),123.24655585571595
+28113,Pike,Mississippi,Solar PV (Utility),123.88564344436084
+28125,Sharkey,Mississippi,Solar PV (Utility),124.06292277915941
+28131,Stone,Mississippi,Solar PV (Utility),123.02415668721771
+35047,San Miguel,New Mexico,Solar PV (Utility),98.56106881761303
+35051,Sierra,New Mexico,Solar PV (Utility),96.50834655057945
+35055,Taos,New Mexico,Solar PV (Utility),98.4282093165141
+36001,Albany,New York,Solar PV (Utility),157.04763855279603
+36005,Bronx,New York,Solar PV (Utility),169.3896820718475
+42043,Dauphin,Pennsylvania,Solar PV (Utility),155.01722620261222
+42059,Greene,Pennsylvania,Solar PV (Utility),150.8451519179956
+42065,Jefferson,Pennsylvania,Solar PV (Utility),158.72679223338267
+42071,Lancaster,Pennsylvania,Solar PV (Utility),152.34612626378356
+42077,Lehigh,Pennsylvania,Solar PV (Utility),157.77816580884024
+42083,McKean,Pennsylvania,Solar PV (Utility),157.71123605829078
+41035,Klamath,Oregon,Solar PV (Utility),122.05432034582546
+23005,Cumberland,Maine,Solar PV (Utility),150.60154283264754
+45029,Colleton,South Carolina,Solar PV (Utility),121.52328234142969
+45041,Florence,South Carolina,Solar PV (Utility),123.79670377696154
+45043,Georgetown,South Carolina,Solar PV (Utility),123.99739302860995
+47023,Chester,Tennessee,Solar PV (Utility),131.5923044249493
+38051,McIntosh,North Dakota,Solar PV (Utility),137.4638423070024
+38057,Mercer,North Dakota,Solar PV (Utility),137.92815056084874
+40067,Jefferson,Oklahoma,Solar PV (Utility),117.90285597805862
+40077,Latimer,Oklahoma,Solar PV (Utility),127.52897972458175
+40079,Le Flore,Oklahoma,Solar PV (Utility),128.45579623227434
+40089,McCurtain,Oklahoma,Solar PV (Utility),127.99358797842804
+40095,Marshall,Oklahoma,Solar PV (Utility),122.71591785132017
+40105,Nowata,Oklahoma,Solar PV (Utility),126.4683037157902
+40113,Osage,Oklahoma,Solar PV (Utility),123.31228560626542
+36015,Chemung,New York,Solar PV (Utility),156.38574104730134
+36023,Cortland,New York,Solar PV (Utility),159.23502032092858
+36025,Delaware,New York,Solar PV (Utility),164.06899211104
+36029,Erie,New York,Solar PV (Utility),157.8430955593897
+40139,Texas,Oklahoma,Solar PV (Utility),107.2829859732934
+40151,Woods,Oklahoma,Solar PV (Utility),115.82702379417518
+41001,Baker,Oregon,Solar PV (Utility),126.5580433831895
+41007,Clatsop,Oregon,Solar PV (Utility),183.12405035243785
+41041,Lincoln,Oregon,Solar PV (Utility),169.45691182239693
+31139,Pierce,Nebraska,Solar PV (Utility),133.02734902018784
+31145,Red Willow,Nebraska,Solar PV (Utility),118.52183364985368
+19029,Cass,Iowa,Solar PV (Utility),139.38540507293706
+19037,Chickasaw,Iowa,Solar PV (Utility),149.12097840370933
+17083,Jersey,Illinois,Solar PV (Utility),139.36239515608727
+17085,Jo Daviess,Illinois,Solar PV (Utility),151.63820892458924
+17097,Lake,Illinois,Solar PV (Utility),155.2381253711105
+17115,Macon,Illinois,Solar PV (Utility),143.55747935755375
+17119,Madison,Illinois,Solar PV (Utility),139.27445548868798
+47039,Decatur,Tennessee,Solar PV (Utility),131.17111600480266
+47043,Dickson,Tennessee,Solar PV (Utility),133.0713688538875
+47053,Gibson,Tennessee,Solar PV (Utility),131.5683945080995
+47055,Giles,Tennessee,Solar PV (Utility),130.3988689150588
+23013,Knox,Maine,Solar PV (Utility),153.14148327037725
+23019,Penobscot,Maine,Solar PV (Utility),153.27214277147618
+23025,Somerset,Maine,Solar PV (Utility),154.1113196117695
+40121,Pittsburg,Oklahoma,Solar PV (Utility),126.07232521249337
+40129,Roger Mills,Oklahoma,Solar PV (Utility),112.1172577634048
+24045,Wicomico,Maryland,Solar PV (Utility),144.6179553663453
+25025,Suffolk,Massachusetts,Solar PV (Utility),161.13367317001345
+26001,Alcona,Michigan,Solar PV (Utility),148.9240891520609
+41015,Curry,Oregon,Solar PV (Utility),144.02168761140007
+41025,Harney,Oregon,Solar PV (Utility),120.97143442018411
+26089,Leelanau,Michigan,Solar PV (Utility),156.51750054840028
+26105,Mason,Michigan,Solar PV (Utility),155.2373253711105
+28147,Walthall,Mississippi,Solar PV (Utility),123.53378477476365
+42107,Schuylkill,Pennsylvania,Solar PV (Utility),157.40209722239322
+42127,Wayne,Pennsylvania,Solar PV (Utility),162.8778566011495
+42129,Westmoreland,Pennsylvania,Solar PV (Utility),154.81843695096384
+49015,Emery,Utah,Solar PV (Utility),106.9959570542457
+49021,Iron,Utah,Solar PV (Utility),102.49213401688166
+49025,Kane,Utah,Solar PV (Utility),102.18149518098413
+47029,Cocke,Tennessee,Solar PV (Utility),131.98788292824614
+23027,Waldo,Maine,Solar PV (Utility),153.295552688326
+31157,Scotts Bluff,Nebraska,Solar PV (Utility),117.06347913776531
+31165,Sioux,Nebraska,Solar PV (Utility),117.15161880516459
+31175,Valley,Nebraska,Solar PV (Utility),126.42388388209055
+31177,Washington,Nebraska,Solar PV (Utility),137.8180009765996
+32001,Churchill,Nevada,Solar PV (Utility),112.1169577634048
+32003,Clark,Nevada,Solar PV (Utility),103.79341911102127
+26011,Arenac,Michigan,Solar PV (Utility),152.05829734473588
+30067,Park,Montana,Solar PV (Utility),126.51232354948985
+30073,Pondera,Montana,Solar PV (Utility),134.9477117861225
+30079,Prairie,Montana,Solar PV (Utility),128.4331863154245
+30081,Ravalli,Montana,Solar PV (Utility),126.97633180333614
+30089,Sanders,Montana,Solar PV (Utility),139.51856457403602
+30095,Stillwater,Montana,Solar PV (Utility),129.22974332201818
+26109,Menominee,Michigan,Solar PV (Utility),152.8100345176299
+28149,Warren,Mississippi,Solar PV (Utility),123.20253602201632
+28161,Yalobusha,Mississippi,Solar PV (Utility),126.18147479674249
+29005,Atchison,Missouri,Solar PV (Utility),136.75882496780804
+29011,Barton,Missouri,Solar PV (Utility),131.08487633740336
+29019,Boone,Missouri,Solar PV (Utility),136.82385471835752
+29025,Caldwell,Missouri,Solar PV (Utility),137.46444230700243
+39085,Lake,Ohio,Solar PV (Utility),156.298501379902
+39095,Lucas,Ohio,Solar PV (Utility),153.31596260517583
+44009,Washington,Rhode Island,Solar PV (Utility),158.9689013187307
+45011,Barnwell,South Carolina,Solar PV (Utility),122.14136001322477
+45013,Beaufort,South Carolina,Solar PV (Utility),119.9549782450922
+32015,Lander,Nevada,Solar PV (Utility),111.63133959270868
+32019,Lyon,Nevada,Solar PV (Utility),111.43355034106027
+32029,Storey,Nevada,Solar PV (Utility),111.89645859490656
+39111,Monroe,Ohio,Solar PV (Utility),150.9330915853949
+39113,Montgomery,Ohio,Solar PV (Utility),144.24318677989828
+39123,Ottawa,Ohio,Solar PV (Utility),153.0973634366776
+39145,Scioto,Ohio,Solar PV (Utility),142.76462235096008
+39155,Trumbull,Ohio,Solar PV (Utility),155.54596420700804
+30103,Treasure,Montana,Solar PV (Utility),129.07377390406938
+30105,Valley,Montana,Solar PV (Utility),134.39506386487693
+38077,Richland,North Dakota,Solar PV (Utility),146.1189297121333
+38085,Sioux,North Dakota,Solar PV (Utility),133.97497544473026
+38099,Walsh,North Dakota,Solar PV (Utility),148.96890898576055
+38105,Williams,North Dakota,Solar PV (Utility),139.71755382568443
+29031,Cape Girardeau,Missouri,Solar PV (Utility),135.1455010377709
+29037,Cass,Missouri,Solar PV (Utility),134.43878369857657
+36047,Kings,New York,Solar PV (Utility),170.11850932789167
+36053,Madison,New York,Solar PV (Utility),160.36062608026958
+36061,New York,New York,Solar PV (Utility),169.32515232129805
+36067,Onondaga,New York,Solar PV (Utility),158.35232364693564
+41045,Malheur,Oregon,Solar PV (Utility),121.5233823414297
+41055,Sherman,Oregon,Solar PV (Utility),133.68984652568255
+41057,Tillamook,Oregon,Solar PV (Utility),174.24896377880873
+41063,Wallowa,Oregon,Solar PV (Utility),132.76073001798994
+41067,Washington,Oregon,Solar PV (Utility),170.8034167502362
+29101,Johnson,Missouri,Solar PV (Utility),135.29997045571972
+29107,Lafayette,Missouri,Solar PV (Utility),136.78003488465788
+29113,Lincoln,Missouri,Solar PV (Utility),138.03740014509782
+29123,Madison,Missouri,Solar PV (Utility),133.60070685828327
+29127,Marion,Missouri,Solar PV (Utility),139.38510507293708
+39163,Vinton,Ohio,Solar PV (Utility),145.98717021103437
+47073,Hawkins,Tennessee,Solar PV (Utility),132.6064606000412
+47079,Henry,Tennessee,Solar PV (Utility),133.22493827183627
+47089,Jefferson,Tennessee,Solar PV (Utility),130.33413916450937
+47091,Johnson,Tennessee,Solar PV (Utility),136.36114646451122
+47097,Lauderdale,Tennessee,Solar PV (Utility),129.87033091066306
+47103,Lincoln,Tennessee,Solar PV (Utility),130.77483750150586
+47115,Marion,Tennessee,Solar PV (Utility),130.68599783410653
+47121,Meigs,Tennessee,Solar PV (Utility),130.24419949711006
+47123,Monroe,Tennessee,Solar PV (Utility),131.127996171103
+47131,Obion,Tennessee,Solar PV (Utility),132.25320193044402
+39007,Ashtabula,Ohio,Solar PV (Utility),156.3634311304515
+48371,Pecos,Texas,Solar PV (Utility),101.52099767548941
+48377,Presidio,Texas,Solar PV (Utility),96.11126804728262
+48391,Refugio,Texas,Solar PV (Utility),120.8833947527848
+48401,Rusk,Texas,Solar PV (Utility),124.41518144875658
+48407,San Jacinto,Texas,Solar PV (Utility),124.74753020150395
+48409,San Patricio,Texas,Solar PV (Utility),120.02230799564167
+36079,Putnam,New York,Solar PV (Utility),164.7530995333845
+48443,Terrell,Texas,Solar PV (Utility),106.57726863409904
+48461,Upton,Texas,Solar PV (Utility),102.9989621044276
+48465,Val Verde,Texas,Solar PV (Utility),119.80040882714344
+48473,Waller,Texas,Solar PV (Utility),123.7756938601117
+48479,Webb,Texas,Solar PV (Utility),114.9220172033324
+48487,Wilbarger,Texas,Solar PV (Utility),113.08899410479704
+48495,Winkler,Texas,Solar PV (Utility),101.09960925534276
+48501,Yoakum,Texas,Solar PV (Utility),101.05718942164312
+48505,Zapata,Texas,Solar PV (Utility),113.5305924417935
+49003,Box Elder,Utah,Solar PV (Utility),117.37281797366282
+48005,Angelina,Texas,Solar PV (Utility),125.1673186216506
+48007,Aransas,Texas,Solar PV (Utility),117.2404584725639
+48037,Bowie,Texas,Solar PV (Utility),125.36460787329901
+48043,Brewster,Texas,Solar PV (Utility),98.22962006486568
+29183,St. Charles,Missouri,Solar PV (Utility),138.5694381494936
+29189,St. Louis,Missouri,Solar PV (Utility),138.56883814949362
+29199,Scotland,Missouri,Solar PV (Utility),140.86356950187528
+24005,Baltimore,Maryland,Solar PV (Utility),146.36293879748135
+24025,Harford,Maryland,Solar PV (Utility),148.45938089821465
+26013,Baraga,Michigan,Solar PV (Utility),156.54021046525008
+26029,Charlevoix,Michigan,Solar PV (Utility),155.37008487220945
+30111,Yellowstone,Montana,Solar PV (Utility),130.13414991286095
+31015,Boyd,Nebraska,Solar PV (Utility),131.83321351029736
+31021,Burt,Nebraska,Solar PV (Utility),138.25949931359605
+26121,Muskegon,Michigan,Solar PV (Utility),154.20005927916878
+26127,Oceana,Michigan,Solar PV (Utility),154.81823695096384
+26139,Ottawa,Michigan,Solar PV (Utility),153.3163626051758
+26141,Presque Isle,Michigan,Solar PV (Utility),151.48463950664046
+26151,Sanilac,Michigan,Solar PV (Utility),154.70698736671474
+26153,Schoolcraft,Michigan,Solar PV (Utility),155.3475749553596
+45019,Charleston,South Carolina,Solar PV (Utility),120.57315591688729
+46071,Jackson,South Dakota,Solar PV (Utility),125.76338637659586
+46081,Lawrence,South Dakota,Solar PV (Utility),120.77284516853571
+46083,Lincoln,South Dakota,Solar PV (Utility),139.892733160483
+46089,McPherson,South Dakota,Solar PV (Utility),136.11863737916318
+46099,Minnehaha,South Dakota,Solar PV (Utility),139.27575548868796
+46105,Perkins,South Dakota,Solar PV (Utility),127.70455905938034
+46109,Roberts,South Dakota,Solar PV (Utility),142.9622116026085
+33001,Belknap,New Hampshire,Solar PV (Utility),151.61779900773942
+33007,Coos,New Hampshire,Solar PV (Utility),158.26268397953635
+33011,Hillsborough,New Hampshire,Solar PV (Utility),155.3271650385098
+33013,Merrimack,New Hampshire,Solar PV (Utility),153.25103285462637
+34001,Atlantic,New Jersey,Solar PV (Utility),152.58763534913166
+34005,Burlington,New Jersey,Solar PV (Utility),156.51910054840027
+34011,Cumberland,New Jersey,Solar PV (Utility),149.87361557660333
+31031,Cherry,Nebraska,Solar PV (Utility),121.2591633392318
+31043,Dakota,Nebraska,Solar PV (Utility),136.64877538355893
+31049,Deuel,Nebraska,Solar PV (Utility),116.37957171542077
+31055,Douglas,Nebraska,Solar PV (Utility),137.02174397000596
+31061,Franklin,Nebraska,Solar PV (Utility),122.05462034582546
+31067,Gage,Nebraska,Solar PV (Utility),131.34869533960125
+39035,Cuyahoga,Ohio,Solar PV (Utility),155.50304437330837
+39051,Fulton,Ohio,Solar PV (Utility),151.90532792678712
+39053,Gallia,Ohio,Solar PV (Utility),144.61835536634533
+29063,DeKalb,Missouri,Solar PV (Utility),137.28816297220382
+29069,Dunklin,Missouri,Solar PV (Utility),130.44348874875848
+29081,Harrison,Missouri,Solar PV (Utility),138.67998773374273
+29089,Howard,Missouri,Solar PV (Utility),137.31017288905366
+29091,Howell,Missouri,Solar PV (Utility),131.5925044249493
+37015,Bertie,North Carolina,Solar PV (Utility),134.8586721187232
+37023,Burke,North Carolina,Solar PV (Utility),125.80630621029549
+37029,Camden,North Carolina,Solar PV (Utility),133.97507544473027
+37031,Carteret,North Carolina,Solar PV (Utility),132.34114159784332
+29133,Mississippi,Missouri,Solar PV (Utility),133.3352878560854
+29143,New Madrid,Missouri,Solar PV (Utility),131.90104326084685
+29149,Oregon,Missouri,Solar PV (Utility),131.74637384289807
+29155,Pemiscot,Missouri,Solar PV (Utility),130.72941766780616
+29165,Platte,Missouri,Solar PV (Utility),135.89713821066496
+37101,Johnston,North Carolina,Solar PV (Utility),130.42157883190865
+37107,Lenoir,North Carolina,Solar PV (Utility),133.04835893703768
+37113,Macon,North Carolina,Solar PV (Utility),124.21809219710819
+37119,Mecklenburg,North Carolina,Solar PV (Utility),124.24020211395802
+37125,Moore,North Carolina,Solar PV (Utility),127.44164005718247
+40001,Adair,Oklahoma,Solar PV (Utility),127.13170122128491
+40007,Beaver,Oklahoma,Solar PV (Utility),109.95478591212206
+40021,Cherokee,Oklahoma,Solar PV (Utility),127.04376155388562
+40023,Choctaw,Oklahoma,Solar PV (Utility),125.45344754069832
+40033,Cotton,Oklahoma,Solar PV (Utility),115.78410396047553
+40041,Delaware,Oklahoma,Solar PV (Utility),127.81690864362946
+40051,Grady,Oklahoma,Solar PV (Utility),118.01210556230772
+37189,Watauga,North Carolina,Solar PV (Utility),132.5845506831914
+48051,Burleson,Texas,Solar PV (Utility),122.71601785132017
+35023,Hidalgo,New Mexico,Solar PV (Utility),95.60193995973667
+35029,Luna,New Mexico,Solar PV (Utility),95.02958212164124
+35031,McKinley,New Mexico,Solar PV (Utility),98.67221840186217
+35035,Otero,New Mexico,Solar PV (Utility),97.25838372347344
+47153,Sequatchie,Tennessee,Solar PV (Utility),131.7684837597479
+47157,Shelby,Tennessee,Solar PV (Utility),129.29527307256762
+47163,Sullivan,Tennessee,Solar PV (Utility),135.65372912531686
+47171,Unicoi,Tennessee,Solar PV (Utility),135.63131920846703
+47181,Wayne,Tennessee,Solar PV (Utility),130.70940775095636
+45057,Lancaster,South Carolina,Solar PV (Utility),123.84272361066118
+36085,Richmond,New York,Solar PV (Utility),167.93392755975916
+36097,Schuyler,New York,Solar PV (Utility),156.429560881001
+36105,Sullivan,New York,Solar PV (Utility),164.02637227734036
+36111,Ulster,New York,Solar PV (Utility),162.01626984400636
+36115,Washington,New York,Solar PV (Utility),157.97465506048866
+36119,Westchester,New York,Solar PV (Utility),166.05638462752412
+45091,York,South Carolina,Solar PV (Utility),123.4004252736647
+46009,Bon Homme,South Dakota,Solar PV (Utility),134.7486225344741
+46013,Brown,South Dakota,Solar PV (Utility),139.69374390883462
+46021,Campbell,South Dakota,Solar PV (Utility),135.5004597073681
+29209,Stone,Missouri,Solar PV (Utility),130.13374991286096
+29217,Vernon,Missouri,Solar PV (Utility),132.0782225956454
+29227,Worth,Missouri,Solar PV (Utility),137.92735056084874
+30001,Beaverhead,Montana,Solar PV (Utility),122.45049884912228
+37171,Surry,North Carolina,Solar PV (Utility),130.33183916450938
+37177,Tyrrell,North Carolina,Solar PV (Utility),137.9064406439989
+39067,Harrison,Ohio,Solar PV (Utility),151.55096925718993
+39073,Hocking,Ohio,Solar PV (Utility),147.3335751388736
+39079,Jackson,Ohio,Solar PV (Utility),143.97796777770043
+48057,Calhoun,Texas,Solar PV (Utility),118.87489231945085
+48071,Chambers,Texas,Solar PV (Utility),120.86018483593499
+48093,Comanche,Texas,Solar PV (Utility),114.85588745278294
+48097,Cooke,Texas,Solar PV (Utility),120.13295757989081
+24510,Baltimore,Maryland,Solar PV (Utility),145.76537104253612
+45063,Lexington,South Carolina,Solar PV (Utility),122.73892776817
+45067,Marion,South Carolina,Solar PV (Utility),125.32058803959937
+45077,Pickens,South Carolina,Solar PV (Utility),121.30178317293145
+26053,Gogebic,Michigan,Solar PV (Utility),154.59663778246562
+46027,Clay,South Dakota,Solar PV (Utility),138.4585885652445
+46031,Corson,South Dakota,Solar PV (Utility),131.89974326084683
+46047,Fall River,South Dakota,Solar PV (Utility),119.18433115534837
+46053,Gregory,South Dakota,Solar PV (Utility),131.2162358385023
+27007,Beltrami,Minnesota,Solar PV (Utility),152.34662626378355
+27015,Brown,Minnesota,Solar PV (Utility),149.03403873631004
+27021,Cass,Minnesota,Solar PV (Utility),152.1463370121352
+27027,Clay,Minnesota,Solar PV (Utility),149.916735410303
+46123,Tripp,South Dakota,Solar PV (Utility),129.250853238868
+46135,Yankton,South Dakota,Solar PV (Utility),137.46344230700242
+30011,Carter,Montana,Solar PV (Utility),124.85777978575308
+30017,Custer,Montana,Solar PV (Utility),127.70485905938034
+30025,Fallon,Montana,Solar PV (Utility),127.57369955828139
+30027,Fergus,Montana,Solar PV (Utility),133.7100564425324
+30033,Garfield,Montana,Solar PV (Utility),130.86357716890512
+30039,Granite,Montana,Solar PV (Utility),127.37451030663296
+30045,Judith Basin,Montana,Solar PV (Utility),130.99463667000407
+31131,Otoe,Nebraska,Solar PV (Utility),134.37455394802708
+25005,Bristol,Massachusetts,Solar PV (Utility),160.00756741067244
+25009,Essex,Massachusetts,Solar PV (Utility),158.6593624828332
+25019,Nantucket,Massachusetts,Solar PV (Utility),159.7193384916247
+34023,Middlesex,New Jersey,Solar PV (Utility),162.3473185967537
+26055,Grand Traverse,Michigan,Solar PV (Utility),155.9895625440045
+31091,Hooker,Nebraska,Solar PV (Utility),119.35981049014697
+31095,Jefferson,Nebraska,Solar PV (Utility),129.58260199161535
+31103,Keya Paha,Nebraska,Solar PV (Utility),128.499516065974
+31111,Lincoln,Nebraska,Solar PV (Utility),119.2051410721982
+28089,Madison,Mississippi,Solar PV (Utility),124.26061203080783
+28093,Marshall,Mississippi,Solar PV (Utility),129.05296398721958
+27031,Cook,Minnesota,Solar PV (Utility),152.58953534913167
+27049,Goodhue,Minnesota,Solar PV (Utility),153.4722320231246
+27055,Houston,Minnesota,Solar PV (Utility),151.54966925718995
+37049,Craven,North Carolina,Solar PV (Utility),134.4628936154264
+37051,Cumberland,North Carolina,Solar PV (Utility),128.28001689747572
+37131,Northampton,North Carolina,Solar PV (Utility),133.68844652568254
+37137,Pamlico,North Carolina,Solar PV (Utility),135.07957128722146
+37149,Polk,North Carolina,Solar PV (Utility),122.87098726926894
+37155,Robeson,North Carolina,Solar PV (Utility),126.42558388209055
+42091,Montgomery,Pennsylvania,Solar PV (Utility),155.81268320920591
+42097,Northumberland,Pennsylvania,Solar PV (Utility),157.97615506048865
+42103,Pike,Pennsylvania,Solar PV (Utility),162.9645962685488
+34025,Monmouth,New Jersey,Solar PV (Utility),161.97215001030673
+34039,Union,New Jersey,Solar PV (Utility),165.52804662312835
+35003,Catron,New Mexico,Solar PV (Utility),97.92178122896816
+35005,Chaves,New Mexico,Solar PV (Utility),99.9293836623021
+35009,Curry,New Mexico,Solar PV (Utility),100.23912249819963
+30061,Mineral,Montana,Solar PV (Utility),136.78073488465787
+38001,Adams,North Dakota,Solar PV (Utility),129.8249110769634
+9011,New London,Connecticut,Solar PV (Utility),159.49813932312648
+10001,Kent,Delaware,Solar PV (Utility),147.81909330956972
+10003,New Castle,Delaware,Solar PV (Utility),149.85000565975352
+12009,Brevard,Florida,Solar PV (Utility),116.88589980296672
+12075,Levy,Florida,Solar PV (Utility),118.08023531285721
+5031,Craighead,Arkansas,Solar PV (Utility),130.04611024546162
+5035,Crittenden,Arkansas,Solar PV (Utility),128.5226259828238
+5041,Desha,Arkansas,Solar PV (Utility),125.10078887110113
+5057,Hempstead,Arkansas,Solar PV (Utility),127.41813014033261
+5063,Independence,Arkansas,Solar PV (Utility),130.3555490813592
+5069,Jefferson,Arkansas,Solar PV (Utility),126.44719379894038
+5075,Lawrence,Arkansas,Solar PV (Utility),130.59805816670726
+5077,Lee,Arkansas,Solar PV (Utility),127.37401030663295
+4025,Yavapai,Arizona,Solar PV (Utility),100.571371250947
+5005,Baxter,Arkansas,Solar PV (Utility),131.39311517330088
+5007,Benton,Arkansas,Solar PV (Utility),128.0590177289775
+16073,Owyhee,Idaho,Solar PV (Utility),119.2923807395975
+16085,Valley,Idaho,Solar PV (Utility),120.8825947527848
+16087,Washington,Idaho,Solar PV (Utility),126.22589463044214
+17013,Calhoun,Illinois,Solar PV (Utility),139.11938607073918
+17021,Christian,Illinois,Solar PV (Utility),141.06405875352368
+17027,Clinton,Illinois,Solar PV (Utility),139.141295987589
+16031,Cassia,Idaho,Solar PV (Utility),119.02756173739962
+16035,Clearwater,Idaho,Solar PV (Utility),137.15430347110487
+16037,Custer,Idaho,Solar PV (Utility),116.20209238062219
+16049,Idaho,Idaho,Solar PV (Utility),131.04045650370372
+16059,Lemhi,Idaho,Solar PV (Utility),120.28612699783956
+18023,Clinton,Indiana,Solar PV (Utility),148.19536189601675
+12021,Collier,Florida,Solar PV (Utility),116.77715021871761
+12033,Escambia,Florida,Solar PV (Utility),120.44109641578832
+16007,Bear Lake,Idaho,Solar PV (Utility),115.6500444593766
+16011,Bingham,Idaho,Solar PV (Utility),120.6844055011364
+16013,Blaine,Idaho,Solar PV (Utility),116.99794938721584
+5105,Perry,Arkansas,Solar PV (Utility),129.5381821579157
+5107,Phillips,Arkansas,Solar PV (Utility),126.24950454729198
+5119,Pulaski,Arkansas,Solar PV (Utility),128.7871449850217
+17031,Cook,Illinois,Solar PV (Utility),157.181698053895
+18123,Perry,Indiana,Solar PV (Utility),137.15600347110487
+18129,Posey,Indiana,Solar PV (Utility),136.8033448015077
+18143,Scott,Indiana,Solar PV (Utility),138.17015964619677
+18147,Spencer,Indiana,Solar PV (Utility),136.6913952172586
+18155,Switzerland,Indiana,Solar PV (Utility),139.87182324363317
+18163,Vanderburgh,Indiana,Solar PV (Utility),136.95651421945647
+18029,Dearborn,Indiana,Solar PV (Utility),140.5323207491279
+18037,Dubois,Indiana,Solar PV (Utility),138.1699596461968
+18039,Elkhart,Indiana,Solar PV (Utility),154.2235691960186
+13135,Gwinnett,Georgia,Solar PV (Utility),123.59941452531312
+13145,Harris,Georgia,Solar PV (Utility),122.58355835022124
+13151,Henry,Georgia,Solar PV (Utility),122.98063685351806
+13161,Jeff Davis,Georgia,Solar PV (Utility),120.06542782934132
+13167,Johnson,Georgia,Solar PV (Utility),120.15416749674063
+13177,Lee,Georgia,Solar PV (Utility),119.80110882714344
+13179,Liberty,Georgia,Solar PV (Utility),120.06512782934132
+20107,Linn,Kansas,Solar PV (Utility),132.3197316809935
+20117,Marshall,Kansas,Solar PV (Utility),130.19957966341042
+17149,Pike,Illinois,Solar PV (Utility),140.00318274473216
+17157,Randolph,Illinois,Solar PV (Utility),137.15560347110485
+17161,Rock Island,Illinois,Solar PV (Utility),148.21757181286657
+17171,Scott,Illinois,Solar PV (Utility),140.2473918300802
+17173,Shelby,Illinois,Solar PV (Utility),140.86386950187526
+17181,Union,Illinois,Solar PV (Utility),136.31752663081159
+17185,Wabash,Illinois,Solar PV (Utility),138.03950014509783
+17193,White,Illinois,Solar PV (Utility),137.39921255645294
+17201,Winnebago,Illinois,Solar PV (Utility),153.3606824388755
+13287,Turner,Georgia,Solar PV (Utility),119.22825098904804
+13291,Union,Georgia,Solar PV (Utility),125.58680704179724
+13299,Ware,Georgia,Solar PV (Utility),121.14771375498269
+21105,Hickman,Kentucky,Solar PV (Utility),132.7827399348398
+48273,Kleberg,Texas,Solar PV (Utility),117.68115680956038
+48311,McMullen,Texas,Solar PV (Utility),119.0059518205498
+48315,Marion,Texas,Solar PV (Utility),124.08453269600926
+48321,Matagorda,Texas,Solar PV (Utility),120.52983608318763
+48337,Montague,Texas,Solar PV (Utility),118.0799353128572
+54047,McDowell,West Virginia,Solar PV (Utility),141.63641659161908
+54057,Mineral,West Virginia,Solar PV (Utility),149.2998577385079
+54063,Monroe,West Virginia,Solar PV (Utility),140.46609099857844
+54071,Pendleton,West Virginia,Solar PV (Utility),140.46729099857842
+54077,Preston,West Virginia,Solar PV (Utility),151.26284033814224
+51059,Fairfax,Virginia,Solar PV (Utility),141.1073785872233
+51071,Giles,Virginia,Solar PV (Utility),140.1372422458311
+51077,Grayson,Virginia,Solar PV (Utility),134.8594721187232
+51083,Halifax,Virginia,Solar PV (Utility),132.27491184729385
+51089,Henry,Virginia,Solar PV (Utility),131.127296171103
+51093,Isle of Wight,Virginia,Solar PV (Utility),136.95731421945646
+51099,King George,Virginia,Solar PV (Utility),139.91454307733287
+51105,Lee,Virginia,Solar PV (Utility),135.25685062202007
+21033,Caldwell,Kentucky,Solar PV (Utility),134.68339278392463
+13305,Wayne,Georgia,Solar PV (Utility),120.81666500223535
+51117,Mecklenburg,Virginia,Solar PV (Utility),132.27701184729383
+53007,Chelan,Washington,Solar PV (Utility),142.9408016857587
+48117,Deaf Smith,Texas,Solar PV (Utility),102.22571501468377
+48261,Kenedy,Texas,Solar PV (Utility),117.21904855571408
+48135,Ector,Texas,Solar PV (Utility),101.62994725973853
+48141,El Paso,Texas,Solar PV (Utility),96.90522505387626
+48155,Foard,Texas,Solar PV (Utility),111.36822059051077
+48161,Freestone,Texas,Solar PV (Utility),122.42968893227247
+48165,Gaines,Texas,Solar PV (Utility),102.02672576303536
+51107,Loudoun,Virginia,Solar PV (Utility),141.94575542751664
+51131,Northampton,Virginia,Solar PV (Utility),137.66293155865083
+51147,Prince Edward,Virginia,Solar PV (Utility),133.0917787707373
+51149,Prince George,Virginia,Solar PV (Utility),137.22053322165436
+51159,Richmond,Virginia,Solar PV (Utility),140.0686124952816
+51161,Roanoke,Virginia,Solar PV (Utility),134.4828035322762
+51165,Rockingham,Virginia,Solar PV (Utility),136.73671505095822
+51175,Southampton,Virginia,Solar PV (Utility),135.65442912531685
+51177,Spotsylvania,Virginia,Solar PV (Utility),138.43677864839464
+55061,Kewaunee,Wisconsin,Solar PV (Utility),151.81588825938783
+56039,Teton,Wyoming,Solar PV (Utility),119.9341683282424
+53047,Okanogan,Washington,Solar PV (Utility),141.79108600956786
+48129,Donley,Texas,Solar PV (Utility),107.72378431028987
+48167,Galveston,Texas,Solar PV (Utility),118.87499231945084
+48221,Hood,Texas,Solar PV (Utility),117.59281714216107
+48225,Houston,Texas,Solar PV (Utility),124.74623020150395
+48229,Hudspeth,Texas,Solar PV (Utility),96.13157796413243
+48245,Jefferson,Texas,Solar PV (Utility),121.96458067842617
+48257,Kaufman,Texas,Solar PV (Utility),122.49411868282193
+51193,Westmoreland,Virginia,Solar PV (Utility),140.1131323289813
+51199,York,Virginia,Solar PV (Utility),137.4436323901526
+53031,Jefferson,Washington,Solar PV (Utility),178.44294798027522
+55031,Douglas,Wisconsin,Solar PV (Utility),154.90617661836313
+55051,Iron,Wisconsin,Solar PV (Utility),154.99451628576242
+53049,Pacific,Washington,Solar PV (Utility),190.9838807509751
+51570,Colonial Heights,Virginia,Solar PV (Utility),136.99973405315612
+51630,Fredericksburg,Virginia,Solar PV (Utility),139.9582629110325
+51650,Hampton,Virginia,Solar PV (Utility),138.03790014509784
+51700,Newport News,Virginia,Solar PV (Utility),137.46374230700243
+51735,Poquoson,Virginia,Solar PV (Utility),137.94906047769854
+51770,Roanoke,Virginia,Solar PV (Utility),133.86572586048115
+55071,Manitowoc,Wisconsin,Solar PV (Utility),151.85930809308746
+55079,Milwaukee,Wisconsin,Solar PV (Utility),154.04668986122002
+55089,Ozaukee,Wisconsin,Solar PV (Utility),152.96420393557864
+53055,San Juan,Washington,Solar PV (Utility),170.47346799748885
+53061,Snohomish,Washington,Solar PV (Utility),178.48766781397487
+53071,Walla Walla,Washington,Solar PV (Utility),136.51531588245996
+53073,Whatcom,Washington,Solar PV (Utility),170.8913564176355
+22039,Evangeline,Louisiana,Solar PV (Utility),123.4663550242142
+27139,Scott,Minnesota,Solar PV (Utility),152.74190476708043
+31113,Logan,Nebraska,Solar PV (Utility),121.08148400443322
+37043,Clay,North Carolina,Solar PV (Utility),125.25545828904991
+39057,Greene,Ohio,Solar PV (Utility),144.2655966967481
+36009,Cattaraugus,New York,Solar PV (Utility),157.77746580884025
+47169,Trousdale,Tennessee,Solar PV (Utility),135.19142087147057
+46073,Jerauld,South Dakota,Solar PV (Utility),133.51206719088398
+48365,Panola,Texas,Solar PV (Utility),124.83546986890326
+48207,Haskell,Texas,Solar PV (Utility),110.48492391651783
+51690,Martinsville,Virginia,Solar PV (Utility),130.26560941395988
+55131,Washington,Wisconsin,Solar PV (Utility),153.78177085902215
+54067,Nicholas,West Virginia,Solar PV (Utility),145.80989087623578
+51087,Henrico,Virginia,Solar PV (Utility),137.265253055354
+1043,Cullman,Alabama,Solar PV (Utility),128.19037723007648
+1109,Pike,Alabama,Solar PV (Utility),121.85573109417705
+9009,New Haven,Connecticut,Solar PV (Utility),161.97265001030672
+5049,Fulton,Arkansas,Solar PV (Utility),131.70265400919843
+5127,Scott,Arkansas,Solar PV (Utility),128.83206481872136
+21117,Kenton,Kentucky,Solar PV (Utility),139.73776374253427
+19123,Mahaska,Iowa,Solar PV (Utility),142.76272235096008
+47015,Cannon,Tennessee,Solar PV (Utility),133.26845810553593
+38011,Bowman,North Dakota,Solar PV (Utility),127.30758055608351
+38083,Sheridan,North Dakota,Solar PV (Utility),141.57168684106963
+48375,Potter,Texas,Solar PV (Utility),105.18494387256015
+31065,Furnas,Nebraska,Solar PV (Utility),119.89034849454275
+28135,Tallahatchie,Mississippi,Solar PV (Utility),125.14350870480078
+41019,Douglas,Oregon,Solar PV (Utility),144.7499148674442
+29013,Bates,Missouri,Solar PV (Utility),133.4252275234847
+55001,Adams,Wisconsin,Solar PV (Utility),154.66276753301509
+53057,Skagit,Washington,Solar PV (Utility),174.66815219895537
+6085,Santa Clara,California,Solar PV (Utility),125.01204920370184
+13017,Ben Hill,Georgia,Solar PV (Utility),119.2934807395975
+18047,Franklin,Indiana,Solar PV (Utility),141.61630667476928
+22123,West Carroll,Louisiana,Solar PV (Utility),123.92996327806048
+26067,Ionia,Michigan,Solar PV (Utility),152.2583865963843
+37185,Warren,North Carolina,Solar PV (Utility),132.25270193044403
+45015,Berkeley,South Carolina,Solar PV (Utility),122.56214843337142
+13045,Carroll,Georgia,Solar PV (Utility),124.74833020150395
+37093,Hoke,North Carolina,Solar PV (Utility),127.3958202234828
+20149,Pottawatomie,Kansas,Solar PV (Utility),130.13484991286094
+28033,DeSoto,Mississippi,Solar PV (Utility),128.3231367311754
+42001,Adams,Pennsylvania,Solar PV (Utility),147.66402389162096
+37161,Rutherford,North Carolina,Solar PV (Utility),123.24465585571595
+21051,Clay,Kentucky,Solar PV (Utility),137.97227039454836
+13245,Richmond,Georgia,Solar PV (Utility),121.92106084472653
+13251,Screven,Georgia,Solar PV (Utility),121.4120327571806
+13261,Sumter,Georgia,Solar PV (Utility),120.63938566743676
+13263,Talbot,Georgia,Solar PV (Utility),122.60556826707108
+13273,Terrell,Georgia,Solar PV (Utility),119.88874849454274
+20193,Thomas,Kansas,Solar PV (Utility),113.75229161029175
+20199,Wallace,Kansas,Solar PV (Utility),110.66040325131642
+20201,Washington,Kansas,Solar PV (Utility),128.63257556707293
+21195,Pike,Kentucky,Solar PV (Utility),145.27965287184
+21211,Shelby,Kentucky,Solar PV (Utility),136.2505968802621
+21213,Simpson,Kentucky,Solar PV (Utility),133.40211760663485
+21223,Trimble,Kentucky,Solar PV (Utility),137.64072164180098
+21225,Union,Kentucky,Solar PV (Utility),136.31622663081157
+20037,Crawford,Kansas,Solar PV (Utility),130.4876085824581
+20043,Doniphan,Kansas,Solar PV (Utility),135.98567787806422
+20061,Geary,Kansas,Solar PV (Utility),127.19863097183436
+20067,Grant,Kansas,Solar PV (Utility),109.93297599527224
+20071,Greeley,Kansas,Solar PV (Utility),109.90986607842244
+20083,Hodgeman,Kansas,Solar PV (Utility),114.21569986413805
+20089,Jewell,Kansas,Solar PV (Utility),124.74823020150396
+22019,Calcasieu,Louisiana,Solar PV (Utility),124.30583186450747
+22027,Claiborne,Louisiana,Solar PV (Utility),126.2708144641418
+22029,Concordia,Louisiana,Solar PV (Utility),122.71701785132016
+22037,East Feliciana,Louisiana,Solar PV (Utility),123.4665550242142
+53009,Clallam,Washington,Solar PV (Utility),179.76684299126464
+53027,Grays Harbor,Washington,Solar PV (Utility),189.92360474218356
+55105,Rock,Wisconsin,Solar PV (Utility),153.86861052642143
+55117,Sheboygan,Wisconsin,Solar PV (Utility),152.56642543228185
+55127,Walworth,Wisconsin,Solar PV (Utility),154.73099728356456
+55009,Brown,Wisconsin,Solar PV (Utility),152.4119560143331
+49047,Uintah,Utah,Solar PV (Utility),109.35791815717684
+49053,Washington,Utah,Solar PV (Utility),102.29384476523325
+50001,Addison,Vermont,Solar PV (Utility),154.26598902971824
+50009,Essex,Vermont,Solar PV (Utility),158.52670298173422
+50017,Orange,Vermont,Solar PV (Utility),156.01007246085433
+50023,Washington,Vermont,Solar PV (Utility),155.83409312605576
+22003,Allen,Louisiana,Solar PV (Utility),124.39277153190677
+22009,Avoyelles,Louisiana,Solar PV (Utility),123.4672550242142
+22101,St. Mary,Louisiana,Solar PV (Utility),119.49196999124592
+22107,Tensas,Louisiana,Solar PV (Utility),123.26716577256576
+22109,Terrebonne,Louisiana,Solar PV (Utility),117.9913956454579
+21021,Boyle,Kentucky,Solar PV (Utility),135.25695062202007
+21023,Bracken,Kentucky,Solar PV (Utility),139.78228357623388
+22045,Iberia,Louisiana,Solar PV (Utility),119.80240882714344
+21047,Christian,Kentucky,Solar PV (Utility),134.26420436377796
+21055,Crittenden,Kentucky,Solar PV (Utility),135.52196962421792
+21059,Daviess,Kentucky,Solar PV (Utility),136.09632746231335
+21073,Franklin,Kentucky,Solar PV (Utility),135.76457870956597
+21075,Fulton,Kentucky,Solar PV (Utility),132.27581184729382
+21089,Greenup,Kentucky,Solar PV (Utility),141.9914752612163
+21095,Harlan,Kentucky,Solar PV (Utility),137.59800180810137
+55137,Waushara,Wisconsin,Solar PV (Utility),153.93464027697092
+56001,Albany,Wyoming,Solar PV (Utility),110.32925449856907
+56007,Carbon,Wyoming,Solar PV (Utility),110.33015449856907
+56011,Crook,Wyoming,Solar PV (Utility),121.85593109417704
+56013,Fremont,Wyoming,Solar PV (Utility),112.47101643300198
+56021,Laramie,Wyoming,Solar PV (Utility),114.72442795168398
+54031,Hardy,West Virginia,Solar PV (Utility),142.76432235096007
+54035,Jackson,West Virginia,Solar PV (Utility),146.780727217628
+54041,Lewis,West Virginia,Solar PV (Utility),150.07080482825174
+50027,Windsor,Vermont,Solar PV (Utility),157.3794873055434
+51001,Accomack,Virginia,Solar PV (Utility),139.8040934930837
+51021,Bland,Virginia,Solar PV (Utility),137.7296613092003
+51027,Buchanan,Virginia,Solar PV (Utility),142.4974033487622
+51037,Charlotte,Virginia,Solar PV (Utility),132.16556226304473
+51041,Chesterfield,Virginia,Solar PV (Utility),136.02979771176388
